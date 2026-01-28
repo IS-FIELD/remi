@@ -1,4 +1,6 @@
 import miditoolkit
+import miditoolkit.pianoroll
+import miditoolkit.pianoroll.utils
 import numpy as np
 
 class MIDIChord(object):
@@ -31,10 +33,15 @@ class MIDIChord(object):
                                   'dom': [1, 3, 6, 8, 11]}
 
     def note2pianoroll(self, notes, max_tick, ticks_per_beat):
-        return miditoolkit.pianoroll.parser.notes2pianoroll(
+        parser = miditoolkit.pianoroll.parser.notes2pianoroll
+        try:
+            return parser(
                 note_stream_ori=notes,
                 max_tick=max_tick,
                 ticks_per_beat=ticks_per_beat)
+        except TypeError:
+            time_portion = (0, max_tick) if max_tick is not None else None
+            return parser(notes=notes, time_portion=time_portion)
 
     def sequencing(self, chroma):
         candidates = {}

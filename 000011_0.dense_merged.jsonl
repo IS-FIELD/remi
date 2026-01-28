@@ -1,0 +1,1000 @@
+{"time_start": 1560, "time_end": 1560, "time_sum": 120, "position_start": "14/16", "position_end": "14/16", "notes": [69, 73], "position_sum": 1, "index": 1}
+{"time_start": 1680, "time_end": 2040, "time_sum": 480, "position_start": "15/16", "position_end": "2/16", "notes": [45, 52, 69, 73], "position_sum": 4, "index": 2}
+{"time_start": 2160, "time_end": 2520, "time_sum": 480, "position_start": "3/16", "position_end": "6/16", "notes": [45, 52, 68, 69, 71, 73], "position_sum": 4, "index": 3}
+{"time_start": 2640, "time_end": 2640, "time_sum": 120, "position_start": "7/16", "position_end": "7/16", "notes": [33, 45, 52, 68, 69, 71, 73, 74], "position_sum": 1, "index": 4}
+{"time_start": 2760, "time_end": 2760, "time_sum": 120, "position_start": "8/16", "position_end": "8/16", "notes": [33, 45, 52, 66, 71, 74], "position_sum": 1, "index": 5}
+{"time_start": 2880, "time_end": 3120, "time_sum": 360, "position_start": "9/16", "position_end": "11/16", "notes": [33, 45, 66, 74], "position_sum": 3, "index": 6}
+{"time_start": 3240, "time_end": 3480, "time_sum": 360, "position_start": "12/16", "position_end": "14/16", "notes": [33, 45, 62, 66, 74], "position_sum": 3, "index": 7}
+{"time_start": 3600, "time_end": 3840, "time_sum": 360, "position_start": "15/16", "position_end": "1/16", "notes": [33, 45, 57, 62, 66, 74], "position_sum": 3, "index": 8}
+{"time_start": 3960, "time_end": 4200, "time_sum": 360, "position_start": "2/16", "position_end": "4/16", "notes": [33, 45, 54, 57, 62, 66, 74], "position_sum": 3, "index": 9}
+{"time_start": 4320, "time_end": 4320, "time_sum": 120, "position_start": "5/16", "position_end": "5/16", "notes": [45, 50, 54, 57, 62, 66, 69, 73, 74], "position_sum": 1, "index": 10}
+{"time_start": 4440, "time_end": 4560, "time_sum": 240, "position_start": "6/16", "position_end": "7/16", "notes": [45, 50, 69, 73], "position_sum": 2, "index": 11}
+{"time_start": 4680, "time_end": 4800, "time_sum": 240, "position_start": "8/16", "position_end": "9/16", "notes": [45, 50, 68, 69, 71, 73], "position_sum": 2, "index": 12}
+{"time_start": 4920, "time_end": 5160, "time_sum": 360, "position_start": "10/16", "position_end": "12/16", "notes": [45, 50, 66, 68, 69, 71, 73], "position_sum": 3, "index": 13}
+{"time_start": 5280, "time_end": 6360, "time_sum": 1200, "position_start": "13/16", "position_end": "6/16", "notes": [33, 45, 50, 66, 68, 69, 71, 73, 81], "position_sum": 10, "index": 14}
+{"time_start": 6480, "time_end": 6720, "time_sum": 360, "position_start": "7/16", "position_end": "9/16", "notes": [33, 42, 45, 50, 66, 68, 69, 71, 73, 81], "position_sum": 3, "index": 15}
+{"time_start": 6840, "time_end": 6840, "time_sum": 120, "position_start": "10/16", "position_end": "10/16", "notes": [33, 38, 42, 45, 50, 66, 68, 69, 71, 73, 81], "position_sum": 1, "index": 16}
+{"time_start": 6960, "time_end": 6960, "time_sum": 120, "position_start": "11/16", "position_end": "11/16", "notes": [33, 38, 42, 66, 69], "position_sum": 1, "index": 17}
+{"time_start": 7080, "time_end": 7200, "time_sum": 240, "position_start": "12/16", "position_end": "13/16", "notes": [38, 66, 69], "position_sum": 2, "index": 18}
+{"time_start": 7320, "time_end": 7320, "time_sum": 120, "position_start": "14/16", "position_end": "14/16", "notes": [38, 50, 66, 69], "position_sum": 1, "index": 19}
+{"time_start": 7440, "time_end": 7560, "time_sum": 240, "position_start": "15/16", "position_end": "16/16", "notes": [38, 50, 66, 69, 71], "position_sum": 2, "index": 20}
+{"time_start": 7680, "time_end": 7920, "time_sum": 360, "position_start": "1/16", "position_end": "3/16", "notes": [38, 50, 52, 56, 64, 66, 68, 69, 71], "position_sum": 3, "index": 21}
+{"time_start": 8040, "time_end": 8040, "time_sum": 120, "position_start": "4/16", "position_end": "4/16", "notes": [38, 50, 52, 56, 59, 64, 66, 68, 69, 71], "position_sum": 1, "index": 22}
+{"time_start": 8160, "time_end": 8280, "time_sum": 240, "position_start": "5/16", "position_end": "6/16", "notes": [38, 50, 52, 56, 59, 64, 66, 68, 69, 71, 76], "position_sum": 2, "index": 23}
+{"time_start": 8400, "time_end": 8400, "time_sum": 120, "position_start": "7/16", "position_end": "7/16", "notes": [49, 50, 52, 59, 64, 68, 69, 71, 76], "position_sum": 1, "index": 24}
+{"time_start": 8520, "time_end": 8760, "time_sum": 360, "position_start": "8/16", "position_end": "10/16", "notes": [49, 52, 69, 76], "position_sum": 3, "index": 25}
+{"time_start": 8880, "time_end": 9120, "time_sum": 360, "position_start": "11/16", "position_end": "13/16", "notes": [49, 52, 57, 69, 76], "position_sum": 3, "index": 26}
+{"time_start": 9240, "time_end": 9240, "time_sum": 120, "position_start": "14/16", "position_end": "14/16", "notes": [35, 52, 57, 66, 69, 74], "position_sum": 1, "index": 27}
+{"time_start": 9360, "time_end": 9480, "time_sum": 240, "position_start": "15/16", "position_end": "16/16", "notes": [35, 66, 74], "position_sum": 2, "index": 28}
+{"time_start": 9600, "time_end": 9960, "time_sum": 480, "position_start": "1/16", "position_end": "4/16", "notes": [35, 50, 66, 74], "position_sum": 4, "index": 29}
+{"time_start": 10080, "time_end": 10080, "time_sum": 120, "position_start": "5/16", "position_end": "5/16", "notes": [35, 40, 50, 61, 66, 69, 74], "position_sum": 1, "index": 30}
+{"time_start": 10200, "time_end": 10440, "time_sum": 360, "position_start": "6/16", "position_end": "8/16", "notes": [40, 61, 69], "position_sum": 3, "index": 31}
+{"time_start": 10560, "time_end": 10800, "time_sum": 360, "position_start": "9/16", "position_end": "11/16", "notes": [40, 52, 61, 69], "position_sum": 3, "index": 32}
+{"time_start": 10920, "time_end": 11160, "time_sum": 360, "position_start": "12/16", "position_end": "14/16", "notes": [40, 52, 59, 61, 68, 69], "position_sum": 3, "index": 33}
+{"time_start": 11280, "time_end": 11640, "time_sum": 480, "position_start": "15/16", "position_end": "2/16", "notes": [40, 52, 54, 59, 61, 68, 69], "position_sum": 4, "index": 34}
+{"time_start": 11760, "time_end": 11760, "time_sum": 120, "position_start": "3/16", "position_end": "3/16", "notes": [40, 52, 55, 64, 68, 69, 73], "position_sum": 1, "index": 35}
+{"time_start": 11880, "time_end": 12000, "time_sum": 240, "position_start": "4/16", "position_end": "5/16", "notes": [52, 55, 64, 73], "position_sum": 2, "index": 36}
+{"time_start": 12120, "time_end": 12360, "time_sum": 360, "position_start": "6/16", "position_end": "8/16", "notes": [52, 55, 64, 71, 73], "position_sum": 3, "index": 37}
+{"time_start": 12480, "time_end": 12480, "time_sum": 120, "position_start": "9/16", "position_end": "9/16", "notes": [52, 55, 64, 71, 73, 74], "position_sum": 1, "index": 38}
+{"time_start": 12600, "time_end": 12840, "time_sum": 360, "position_start": "10/16", "position_end": "12/16", "notes": [42, 69, 74], "position_sum": 3, "index": 39}
+{"time_start": 12960, "time_end": 13200, "time_sum": 360, "position_start": "13/16", "position_end": "15/16", "notes": [42, 62, 69, 74], "position_sum": 3, "index": 40}
+{"time_start": 13320, "time_end": 13560, "time_sum": 360, "position_start": "16/16", "position_end": "2/16", "notes": [42, 57, 62, 69, 74], "position_sum": 3, "index": 41}
+{"time_start": 13680, "time_end": 13920, "time_sum": 360, "position_start": "3/16", "position_end": "5/16", "notes": [42, 54, 57, 62, 69, 74], "position_sum": 3, "index": 42}
+{"time_start": 14040, "time_end": 14040, "time_sum": 120, "position_start": "6/16", "position_end": "6/16", "notes": [40, 42, 54, 57, 62, 64, 69, 73, 74], "position_sum": 1, "index": 43}
+{"time_start": 14160, "time_end": 14280, "time_sum": 240, "position_start": "7/16", "position_end": "8/16", "notes": [40, 64, 69, 73], "position_sum": 2, "index": 44}
+{"time_start": 14400, "time_end": 14760, "time_sum": 480, "position_start": "9/16", "position_end": "12/16", "notes": [40, 64, 69, 71, 73], "position_sum": 4, "index": 45}
+{"time_start": 14880, "time_end": 14880, "time_sum": 120, "position_start": "13/16", "position_end": "13/16", "notes": [39, 40, 64, 69, 71, 73, 78, 81], "position_sum": 1, "index": 46}
+{"time_start": 15000, "time_end": 15120, "time_sum": 240, "position_start": "14/16", "position_end": "15/16", "notes": [39, 69, 71, 78, 81], "position_sum": 2, "index": 47}
+{"time_start": 15240, "time_end": 15480, "time_sum": 360, "position_start": "16/16", "position_end": "2/16", "notes": [39, 47, 69, 71, 78, 81], "position_sum": 3, "index": 48}
+{"time_start": 15600, "time_end": 15600, "time_sum": 120, "position_start": "3/16", "position_end": "3/16", "notes": [39, 47, 54, 69, 71, 78, 81], "position_sum": 1, "index": 49}
+{"time_start": 15720, "time_end": 15840, "time_sum": 240, "position_start": "4/16", "position_end": "5/16", "notes": [39, 47, 51, 54, 69, 71, 78, 81], "position_sum": 2, "index": 50}
+{"time_start": 15960, "time_end": 16320, "time_sum": 480, "position_start": "6/16", "position_end": "9/16", "notes": [39, 47, 51, 54, 59, 69, 71, 78, 81], "position_sum": 4, "index": 51}
+{"time_start": 16440, "time_end": 16440, "time_sum": 120, "position_start": "10/16", "position_end": "10/16", "notes": [39, 45, 47, 51, 68, 69, 71, 73], "position_sum": 1, "index": 52}
+{"time_start": 16560, "time_end": 16680, "time_sum": 240, "position_start": "11/16", "position_end": "12/16", "notes": [45, 47, 68, 73], "position_sum": 2, "index": 53}
+{"time_start": 16800, "time_end": 16800, "time_sum": 120, "position_start": "13/16", "position_end": "13/16", "notes": [45, 47, 57, 68, 73], "position_sum": 1, "index": 54}
+{"time_start": 16920, "time_end": 17040, "time_sum": 240, "position_start": "14/16", "position_end": "15/16", "notes": [45, 47, 57, 68, 73, 75], "position_sum": 2, "index": 55}
+{"time_start": 17160, "time_end": 17160, "time_sum": 120, "position_start": "16/16", "position_end": "16/16", "notes": [44, 45, 47, 57, 66, 68, 71, 73, 75], "position_sum": 1, "index": 56}
+{"time_start": 17280, "time_end": 17400, "time_sum": 240, "position_start": "1/16", "position_end": "2/16", "notes": [44, 47, 66, 71, 75], "position_sum": 2, "index": 57}
+{"time_start": 17520, "time_end": 17520, "time_sum": 120, "position_start": "3/16", "position_end": "3/16", "notes": [44, 47, 56, 66, 71, 75], "position_sum": 1, "index": 58}
+{"time_start": 17640, "time_end": 17880, "time_sum": 360, "position_start": "4/16", "position_end": "6/16", "notes": [44, 47, 56, 66, 71, 75, 76], "position_sum": 3, "index": 59}
+{"time_start": 18000, "time_end": 18240, "time_sum": 360, "position_start": "7/16", "position_end": "9/16", "notes": [45, 54, 73, 76], "position_sum": 3, "index": 60}
+{"time_start": 18360, "time_end": 18600, "time_sum": 360, "position_start": "10/16", "position_end": "12/16", "notes": [45, 54, 57, 73, 76], "position_sum": 3, "index": 61}
+{"time_start": 18720, "time_end": 18720, "time_sum": 120, "position_start": "13/16", "position_end": "13/16", "notes": [45, 47, 54, 57, 63, 66, 73, 76], "position_sum": 1, "index": 62}
+{"time_start": 18840, "time_end": 18960, "time_sum": 240, "position_start": "14/16", "position_end": "15/16", "notes": [47, 57, 63, 66], "position_sum": 2, "index": 63}
+{"time_start": 19080, "time_end": 19440, "time_sum": 480, "position_start": "16/16", "position_end": "3/16", "notes": [47, 54, 57, 63, 66], "position_sum": 4, "index": 64}
+{"time_start": 19560, "time_end": 19560, "time_sum": 120, "position_start": "4/16", "position_end": "4/16", "notes": [40, 47, 57, 63, 66, 69], "position_sum": 1, "index": 65}
+{"time_start": 19680, "time_end": 19920, "time_sum": 360, "position_start": "5/16", "position_end": "7/16", "notes": [40, 57, 63, 69], "position_sum": 3, "index": 66}
+{"time_start": 20040, "time_end": 20280, "time_sum": 360, "position_start": "8/16", "position_end": "10/16", "notes": [40, 47, 57, 63, 69], "position_sum": 3, "index": 67}
+{"time_start": 20400, "time_end": 20400, "time_sum": 120, "position_start": "11/16", "position_end": "11/16", "notes": [40, 47, 57, 63, 68, 69], "position_sum": 1, "index": 68}
+{"time_start": 20520, "time_end": 20520, "time_sum": 120, "position_start": "12/16", "position_end": "12/16", "notes": [40, 47, 52, 56, 64, 68], "position_sum": 1, "index": 69}
+{"time_start": 20640, "time_end": 21360, "time_sum": 840, "position_start": "13/16", "position_end": "3/16", "notes": [47, 52, 56, 64, 68], "position_sum": 7, "index": 70}
+{"time_start": 21480, "time_end": 21480, "time_sum": 120, "position_start": "4/16", "position_end": "4/16", "notes": [45, 47, 52, 56, 64, 68, 69, 73], "position_sum": 1, "index": 71}
+{"time_start": 21600, "time_end": 21840, "time_sum": 360, "position_start": "5/16", "position_end": "7/16", "notes": [45, 52, 69, 73], "position_sum": 3, "index": 72}
+{"time_start": 21960, "time_end": 21960, "time_sum": 120, "position_start": "8/16", "position_end": "8/16", "notes": [45, 52, 69, 71, 73], "position_sum": 1, "index": 73}
+{"time_start": 22080, "time_end": 22320, "time_sum": 360, "position_start": "9/16", "position_end": "11/16", "notes": [45, 52, 68, 69, 71, 73], "position_sum": 3, "index": 74}
+{"time_start": 22440, "time_end": 22440, "time_sum": 120, "position_start": "12/16", "position_end": "12/16", "notes": [33, 45, 66, 68, 69, 71, 73, 74], "position_sum": 1, "index": 75}
+{"time_start": 22560, "time_end": 22800, "time_sum": 360, "position_start": "13/16", "position_end": "15/16", "notes": [33, 45, 66, 71, 74], "position_sum": 3, "index": 76}
+{"time_start": 22920, "time_end": 23160, "time_sum": 360, "position_start": "16/16", "position_end": "2/16", "notes": [33, 45, 62, 66, 71, 74], "position_sum": 3, "index": 77}
+{"time_start": 23280, "time_end": 23520, "time_sum": 360, "position_start": "3/16", "position_end": "5/16", "notes": [33, 45, 57, 62, 66, 71, 74], "position_sum": 3, "index": 78}
+{"time_start": 23640, "time_end": 23880, "time_sum": 360, "position_start": "6/16", "position_end": "8/16", "notes": [33, 45, 54, 57, 62, 66, 71, 74], "position_sum": 3, "index": 79}
+{"time_start": 24000, "time_end": 24000, "time_sum": 120, "position_start": "9/16", "position_end": "9/16", "notes": [33, 45, 50, 54, 57, 62, 69, 73, 74], "position_sum": 1, "index": 80}
+{"time_start": 24120, "time_end": 24240, "time_sum": 240, "position_start": "10/16", "position_end": "11/16", "notes": [45, 50, 69, 73], "position_sum": 2, "index": 81}
+{"time_start": 24360, "time_end": 24360, "time_sum": 120, "position_start": "12/16", "position_end": "12/16", "notes": [45, 50, 68, 69, 71, 73], "position_sum": 1, "index": 82}
+{"time_start": 24480, "time_end": 24720, "time_sum": 360, "position_start": "13/16", "position_end": "15/16", "notes": [45, 50, 66, 68, 69, 71, 73], "position_sum": 3, "index": 83}
+{"time_start": 24840, "time_end": 25800, "time_sum": 1080, "position_start": "16/16", "position_end": "8/16", "notes": [33, 45, 50, 66, 68, 69, 71, 73, 81], "position_sum": 9, "index": 84}
+{"time_start": 25920, "time_end": 26160, "time_sum": 360, "position_start": "9/16", "position_end": "11/16", "notes": [33, 42, 45, 50, 66, 68, 69, 71, 73, 81], "position_sum": 3, "index": 85}
+{"time_start": 26280, "time_end": 26280, "time_sum": 120, "position_start": "12/16", "position_end": "12/16", "notes": [33, 38, 42, 45, 50, 66, 68, 69, 71, 73, 81], "position_sum": 1, "index": 86}
+{"time_start": 26400, "time_end": 26400, "time_sum": 120, "position_start": "13/16", "position_end": "13/16", "notes": [33, 38, 66, 68, 69, 71, 73, 81], "position_sum": 1, "index": 87}
+{"time_start": 26520, "time_end": 26640, "time_sum": 240, "position_start": "14/16", "position_end": "15/16", "notes": [38, 66, 69], "position_sum": 2, "index": 88}
+{"time_start": 26760, "time_end": 26760, "time_sum": 120, "position_start": "16/16", "position_end": "16/16", "notes": [38, 50, 66, 69], "position_sum": 1, "index": 89}
+{"time_start": 26880, "time_end": 27000, "time_sum": 240, "position_start": "1/16", "position_end": "2/16", "notes": [38, 50, 66, 69, 71], "position_sum": 2, "index": 90}
+{"time_start": 27120, "time_end": 27120, "time_sum": 120, "position_start": "3/16", "position_end": "3/16", "notes": [38, 50, 53, 65, 66, 69, 71], "position_sum": 1, "index": 91}
+{"time_start": 27240, "time_end": 27360, "time_sum": 240, "position_start": "4/16", "position_end": "5/16", "notes": [38, 50, 53, 56, 65, 66, 68, 69, 71], "position_sum": 2, "index": 92}
+{"time_start": 27480, "time_end": 27480, "time_sum": 120, "position_start": "6/16", "position_end": "6/16", "notes": [38, 50, 53, 56, 59, 65, 66, 68, 69, 71], "position_sum": 1, "index": 93}
+{"time_start": 27600, "time_end": 27720, "time_sum": 240, "position_start": "7/16", "position_end": "8/16", "notes": [38, 50, 53, 56, 59, 65, 66, 68, 69, 71, 76], "position_sum": 2, "index": 94}
+{"time_start": 27840, "time_end": 27840, "time_sum": 120, "position_start": "9/16", "position_end": "9/16", "notes": [38, 50, 52, 53, 56, 59, 64, 65, 66, 68, 69, 71, 76], "position_sum": 1, "index": 95}
+{"time_start": 27960, "time_end": 28200, "time_sum": 360, "position_start": "10/16", "position_end": "12/16", "notes": [49, 52, 59, 64, 68, 76], "position_sum": 3, "index": 96}
+{"time_start": 28320, "time_end": 28560, "time_sum": 360, "position_start": "13/16", "position_end": "15/16", "notes": [49, 52, 57, 59, 64, 68, 69, 76], "position_sum": 3, "index": 97}
+{"time_start": 28680, "time_end": 28680, "time_sum": 120, "position_start": "16/16", "position_end": "16/16", "notes": [35, 49, 57, 64, 66, 69, 74], "position_sum": 1, "index": 98}
+{"time_start": 28800, "time_end": 28920, "time_sum": 240, "position_start": "1/16", "position_end": "2/16", "notes": [35, 64, 66, 74], "position_sum": 2, "index": 99}
+{"time_start": 29040, "time_end": 29280, "time_sum": 360, "position_start": "3/16", "position_end": "5/16", "notes": [35, 50, 64, 66, 74], "position_sum": 3, "index": 100}
+{"time_start": 29400, "time_end": 29400, "time_sum": 120, "position_start": "6/16", "position_end": "6/16", "notes": [35, 40, 50, 61, 64, 66, 69, 74], "position_sum": 1, "index": 101}
+{"time_start": 29520, "time_end": 29640, "time_sum": 240, "position_start": "7/16", "position_end": "8/16", "notes": [40, 61, 69], "position_sum": 2, "index": 102}
+{"time_start": 29760, "time_end": 30000, "time_sum": 360, "position_start": "9/16", "position_end": "11/16", "notes": [40, 52, 61, 69], "position_sum": 3, "index": 103}
+{"time_start": 30120, "time_end": 30120, "time_sum": 120, "position_start": "12/16", "position_end": "12/16", "notes": [40, 52, 61, 68, 69], "position_sum": 1, "index": 104}
+{"time_start": 30240, "time_end": 30360, "time_sum": 240, "position_start": "13/16", "position_end": "14/16", "notes": [40, 52, 59, 61, 68, 69], "position_sum": 2, "index": 105}
+{"time_start": 30480, "time_end": 30840, "time_sum": 480, "position_start": "15/16", "position_end": "2/16", "notes": [40, 52, 54, 59, 61, 68, 69], "position_sum": 4, "index": 106}
+{"time_start": 30960, "time_end": 30960, "time_sum": 120, "position_start": "3/16", "position_end": "3/16", "notes": [40, 52, 55, 59, 64, 73], "position_sum": 1, "index": 107}
+{"time_start": 31080, "time_end": 31200, "time_sum": 240, "position_start": "4/16", "position_end": "5/16", "notes": [52, 55, 64, 73], "position_sum": 2, "index": 108}
+{"time_start": 31320, "time_end": 31560, "time_sum": 360, "position_start": "6/16", "position_end": "8/16", "notes": [52, 55, 64, 71, 73], "position_sum": 3, "index": 109}
+{"time_start": 31680, "time_end": 31680, "time_sum": 120, "position_start": "9/16", "position_end": "9/16", "notes": [42, 55, 69, 71, 73, 74], "position_sum": 1, "index": 110}
+{"time_start": 31800, "time_end": 31920, "time_sum": 240, "position_start": "10/16", "position_end": "11/16", "notes": [42, 69, 74], "position_sum": 2, "index": 111}
+{"time_start": 32040, "time_end": 32280, "time_sum": 360, "position_start": "12/16", "position_end": "14/16", "notes": [42, 62, 69, 74], "position_sum": 3, "index": 112}
+{"time_start": 32400, "time_end": 32640, "time_sum": 360, "position_start": "15/16", "position_end": "1/16", "notes": [42, 57, 62, 69, 74], "position_sum": 3, "index": 113}
+{"time_start": 32760, "time_end": 33000, "time_sum": 360, "position_start": "2/16", "position_end": "4/16", "notes": [42, 54, 57, 62, 69, 74], "position_sum": 3, "index": 114}
+{"time_start": 33120, "time_end": 33120, "time_sum": 120, "position_start": "5/16", "position_end": "5/16", "notes": [40, 42, 54, 57, 62, 64, 69, 73, 74], "position_sum": 1, "index": 115}
+{"time_start": 33240, "time_end": 33360, "time_sum": 240, "position_start": "6/16", "position_end": "7/16", "notes": [40, 64, 69, 73], "position_sum": 2, "index": 116}
+{"time_start": 33480, "time_end": 33840, "time_sum": 480, "position_start": "8/16", "position_end": "11/16", "notes": [40, 64, 69, 71, 73], "position_sum": 4, "index": 117}
+{"time_start": 33960, "time_end": 33960, "time_sum": 120, "position_start": "12/16", "position_end": "12/16", "notes": [39, 40, 64, 69, 71, 73, 81], "position_sum": 1, "index": 118}
+{"time_start": 34080, "time_end": 34320, "time_sum": 360, "position_start": "13/16", "position_end": "15/16", "notes": [39, 71, 78, 81], "position_sum": 3, "index": 119}
+{"time_start": 34440, "time_end": 34680, "time_sum": 360, "position_start": "16/16", "position_end": "2/16", "notes": [39, 47, 71, 78, 81], "position_sum": 3, "index": 120}
+{"time_start": 34800, "time_end": 35040, "time_sum": 360, "position_start": "3/16", "position_end": "5/16", "notes": [39, 47, 51, 54, 71, 78, 81], "position_sum": 3, "index": 121}
+{"time_start": 35160, "time_end": 35400, "time_sum": 360, "position_start": "6/16", "position_end": "8/16", "notes": [39, 47, 51, 54, 59, 71, 78, 81], "position_sum": 3, "index": 122}
+{"time_start": 35520, "time_end": 35520, "time_sum": 120, "position_start": "9/16", "position_end": "9/16", "notes": [39, 45, 47, 51, 54, 59, 68, 73, 78, 81], "position_sum": 1, "index": 123}
+{"time_start": 35640, "time_end": 35760, "time_sum": 240, "position_start": "10/16", "position_end": "11/16", "notes": [45, 47, 54, 68, 73], "position_sum": 2, "index": 124}
+{"time_start": 35880, "time_end": 36000, "time_sum": 240, "position_start": "12/16", "position_end": "13/16", "notes": [45, 47, 54, 57, 68, 73], "position_sum": 2, "index": 125}
+{"time_start": 36120, "time_end": 36240, "time_sum": 240, "position_start": "14/16", "position_end": "15/16", "notes": [45, 47, 54, 57, 68, 73, 75], "position_sum": 2, "index": 126}
+{"time_start": 36360, "time_end": 36600, "time_sum": 360, "position_start": "16/16", "position_end": "2/16", "notes": [44, 47, 66, 71, 75], "position_sum": 3, "index": 127}
+{"time_start": 36720, "time_end": 36720, "time_sum": 120, "position_start": "3/16", "position_end": "3/16", "notes": [44, 47, 56, 66, 71, 75], "position_sum": 1, "index": 128}
+{"time_start": 36840, "time_end": 36960, "time_sum": 240, "position_start": "4/16", "position_end": "5/16", "notes": [44, 47, 56, 64, 66, 71, 75, 76], "position_sum": 2, "index": 129}
+{"time_start": 37080, "time_end": 37080, "time_sum": 120, "position_start": "6/16", "position_end": "6/16", "notes": [44, 45, 47, 54, 56, 64, 66, 71, 75, 76], "position_sum": 1, "index": 130}
+{"time_start": 37200, "time_end": 37200, "time_sum": 120, "position_start": "7/16", "position_end": "7/16", "notes": [45, 54, 64, 72, 75, 76], "position_sum": 1, "index": 131}
+{"time_start": 37320, "time_end": 37440, "time_sum": 240, "position_start": "8/16", "position_end": "9/16", "notes": [45, 54, 64, 72, 76], "position_sum": 2, "index": 132}
+{"time_start": 37560, "time_end": 37800, "time_sum": 360, "position_start": "10/16", "position_end": "12/16", "notes": [45, 54, 57, 64, 72, 73, 76], "position_sum": 3, "index": 133}
+{"time_start": 37920, "time_end": 37920, "time_sum": 120, "position_start": "13/16", "position_end": "13/16", "notes": [47, 57, 63, 72, 73], "position_sum": 1, "index": 134}
+{"time_start": 38040, "time_end": 38280, "time_sum": 360, "position_start": "14/16", "position_end": "16/16", "notes": [47, 63], "position_sum": 3, "index": 135}
+{"time_start": 38400, "time_end": 38640, "time_sum": 360, "position_start": "1/16", "position_end": "3/16", "notes": [47, 54, 63, 69], "position_sum": 3, "index": 136}
+{"time_start": 38760, "time_end": 38760, "time_sum": 120, "position_start": "4/16", "position_end": "4/16", "notes": [40, 47, 54, 63, 69], "position_sum": 1, "index": 137}
+{"time_start": 38880, "time_end": 39120, "time_sum": 360, "position_start": "5/16", "position_end": "7/16", "notes": [40, 57, 63, 69], "position_sum": 3, "index": 138}
+{"time_start": 39240, "time_end": 39600, "time_sum": 480, "position_start": "8/16", "position_end": "11/16", "notes": [40, 47, 57, 63, 69], "position_sum": 4, "index": 139}
+{"time_start": 39720, "time_end": 39720, "time_sum": 120, "position_start": "12/16", "position_end": "12/16", "notes": [40, 47, 52, 56, 57, 63, 68, 69], "position_sum": 1, "index": 140}
+{"time_start": 39840, "time_end": 40080, "time_sum": 360, "position_start": "13/16", "position_end": "15/16", "notes": [40, 52, 56, 68], "position_sum": 3, "index": 141}
+{"time_start": 40200, "time_end": 40800, "time_sum": 720, "position_start": "16/16", "position_end": "5/16", "notes": [40, 47, 52, 56, 68], "position_sum": 6, "index": 142}
+{"time_start": 40920, "time_end": 40920, "time_sum": 120, "position_start": "6/16", "position_end": "6/16", "notes": [40, 55, 60, 64, 68], "position_sum": 1, "index": 143}
+{"time_start": 41040, "time_end": 41400, "time_sum": 480, "position_start": "7/16", "position_end": "10/16", "notes": [40, 55, 60, 64], "position_sum": 4, "index": 144}
+{"time_start": 41520, "time_end": 41760, "time_sum": 360, "position_start": "11/16", "position_end": "13/16", "notes": [40, 43, 55, 60, 64], "position_sum": 3, "index": 145}
+{"time_start": 41880, "time_end": 42000, "time_sum": 240, "position_start": "14/16", "position_end": "15/16", "notes": [40, 43, 48, 55, 60, 64, 66], "position_sum": 2, "index": 146}
+{"time_start": 42120, "time_end": 43080, "time_sum": 1080, "position_start": "16/16", "position_end": "8/16", "notes": [40, 43, 48, 52, 55, 60, 64, 66], "position_sum": 9, "index": 147}
+{"time_start": 43200, "time_end": 43200, "time_sum": 120, "position_start": "9/16", "position_end": "9/16", "notes": [40, 43, 61, 64, 66], "position_sum": 1, "index": 148}
+{"time_start": 43320, "time_end": 43440, "time_sum": 240, "position_start": "10/16", "position_end": "11/16", "notes": [40, 61, 64], "position_sum": 2, "index": 149}
+{"time_start": 43560, "time_end": 43680, "time_sum": 240, "position_start": "12/16", "position_end": "13/16", "notes": [40, 43, 61, 64], "position_sum": 2, "index": 150}
+{"time_start": 43800, "time_end": 43800, "time_sum": 120, "position_start": "14/16", "position_end": "14/16", "notes": [40, 43, 61, 64, 66], "position_sum": 1, "index": 151}
+{"time_start": 43920, "time_end": 44040, "time_sum": 240, "position_start": "15/16", "position_end": "16/16", "notes": [40, 43, 49, 61, 64, 66], "position_sum": 2, "index": 152}
+{"time_start": 44160, "time_end": 45000, "time_sum": 960, "position_start": "1/16", "position_end": "8/16", "notes": [40, 43, 49, 52, 61, 64, 66], "position_sum": 8, "index": 153}
+{"time_start": 45120, "time_end": 45120, "time_sum": 120, "position_start": "9/16", "position_end": "9/16", "notes": [40, 47, 49, 52, 61, 64], "position_sum": 1, "index": 154}
+{"time_start": 45240, "time_end": 45360, "time_sum": 240, "position_start": "10/16", "position_end": "11/16", "notes": [40, 47, 56, 62, 64], "position_sum": 2, "index": 155}
+{"time_start": 45480, "time_end": 45720, "time_sum": 360, "position_start": "12/16", "position_end": "14/16", "notes": [40, 47, 52, 56, 62, 64], "position_sum": 3, "index": 156}
+{"time_start": 45840, "time_end": 46320, "time_sum": 600, "position_start": "15/16", "position_end": "3/16", "notes": [40, 47, 52, 56, 62, 64, 71], "position_sum": 5, "index": 157}
+{"time_start": 46440, "time_end": 46440, "time_sum": 120, "position_start": "4/16", "position_end": "4/16", "notes": [40, 47, 52, 56, 62, 64, 69, 71], "position_sum": 1, "index": 158}
+{"time_start": 46560, "time_end": 47040, "time_sum": 600, "position_start": "5/16", "position_end": "9/16", "notes": [40, 47, 52, 56, 57, 62, 64, 69, 71], "position_sum": 5, "index": 159}
+{"time_start": 47160, "time_end": 47640, "time_sum": 600, "position_start": "10/16", "position_end": "14/16", "notes": [40, 47, 52, 56, 57, 59, 62, 64, 68, 69, 71], "position_sum": 5, "index": 160}
+{"time_start": 47760, "time_end": 47760, "time_sum": 120, "position_start": "15/16", "position_end": "15/16", "notes": [40, 45, 47, 52, 56, 57, 59, 62, 64, 68, 69, 71], "position_sum": 1, "index": 161}
+{"time_start": 47880, "time_end": 48000, "time_sum": 240, "position_start": "16/16", "position_end": "1/16", "notes": [45, 62, 68, 71], "position_sum": 2, "index": 162}
+{"time_start": 48120, "time_end": 48360, "time_sum": 360, "position_start": "2/16", "position_end": "4/16", "notes": [45, 52, 62, 68, 71], "position_sum": 3, "index": 163}
+{"time_start": 48480, "time_end": 49080, "time_sum": 720, "position_start": "5/16", "position_end": "10/16", "notes": [45, 52, 56, 62, 64, 68, 71], "position_sum": 6, "index": 164}
+{"time_start": 49200, "time_end": 49200, "time_sum": 120, "position_start": "11/16", "position_end": "11/16", "notes": [45, 52, 60, 64, 65, 69], "position_sum": 1, "index": 165}
+{"time_start": 49320, "time_end": 49440, "time_sum": 240, "position_start": "12/16", "position_end": "13/16", "notes": [45, 60, 65, 69], "position_sum": 2, "index": 166}
+{"time_start": 49560, "time_end": 49800, "time_sum": 360, "position_start": "14/16", "position_end": "16/16", "notes": [45, 48, 60, 65, 69], "position_sum": 3, "index": 167}
+{"time_start": 49920, "time_end": 50040, "time_sum": 240, "position_start": "1/16", "position_end": "2/16", "notes": [45, 48, 53, 60, 65, 69, 71], "position_sum": 2, "index": 168}
+{"time_start": 50160, "time_end": 51000, "time_sum": 960, "position_start": "3/16", "position_end": "10/16", "notes": [45, 48, 53, 57, 60, 65, 69, 71], "position_sum": 8, "index": 169}
+{"time_start": 51120, "time_end": 51120, "time_sum": 120, "position_start": "11/16", "position_end": "11/16", "notes": [41, 45, 53, 60, 63, 65, 69, 71], "position_sum": 1, "index": 170}
+{"time_start": 51240, "time_end": 51360, "time_sum": 240, "position_start": "12/16", "position_end": "13/16", "notes": [41, 60, 63, 69], "position_sum": 2, "index": 171}
+{"time_start": 51480, "time_end": 51600, "time_sum": 240, "position_start": "14/16", "position_end": "15/16", "notes": [41, 48, 60, 63, 69], "position_sum": 2, "index": 172}
+{"time_start": 51720, "time_end": 51960, "time_sum": 360, "position_start": "16/16", "position_end": "2/16", "notes": [41, 48, 51, 60, 63, 69, 72], "position_sum": 3, "index": 173}
+{"time_start": 52080, "time_end": 52800, "time_sum": 840, "position_start": "3/16", "position_end": "9/16", "notes": [41, 48, 51, 57, 60, 63, 69, 72], "position_sum": 7, "index": 174}
+{"time_start": 52920, "time_end": 52920, "time_sum": 120, "position_start": "10/16", "position_end": "10/16", "notes": [39, 41, 48, 51, 57, 60, 63, 69, 72], "position_sum": 1, "index": 175}
+{"time_start": 53040, "time_end": 53040, "time_sum": 120, "position_start": "11/16", "position_end": "11/16", "notes": [39, 60, 66, 69], "position_sum": 1, "index": 176}
+{"time_start": 53160, "time_end": 53160, "time_sum": 120, "position_start": "12/16", "position_end": "12/16", "notes": [39, 66, 69], "position_sum": 1, "index": 177}
+{"time_start": 53280, "time_end": 53520, "time_sum": 360, "position_start": "13/16", "position_end": "15/16", "notes": [39, 48, 66, 69], "position_sum": 3, "index": 178}
+{"time_start": 53640, "time_end": 53880, "time_sum": 360, "position_start": "16/16", "position_end": "2/16", "notes": [39, 48, 57, 66, 69, 78], "position_sum": 3, "index": 179}
+{"time_start": 54000, "time_end": 54120, "time_sum": 240, "position_start": "3/16", "position_end": "4/16", "notes": [39, 48, 51, 57, 66, 69, 78], "position_sum": 2, "index": 180}
+{"time_start": 54240, "time_end": 54480, "time_sum": 360, "position_start": "5/16", "position_end": "7/16", "notes": [39, 48, 51, 57, 66, 69, 72, 78], "position_sum": 3, "index": 181}
+{"time_start": 54600, "time_end": 55560, "time_sum": 1080, "position_start": "8/16", "position_end": "16/16", "notes": [39, 48, 51, 57, 60, 66, 69, 72, 78], "position_sum": 9, "index": 182}
+{"time_start": 55680, "time_end": 55680, "time_sum": 120, "position_start": "1/16", "position_end": "1/16", "notes": [51, 57, 60, 68, 69, 78], "position_sum": 1, "index": 183}
+{"time_start": 55800, "time_end": 55920, "time_sum": 240, "position_start": "2/16", "position_end": "3/16", "notes": [57, 68], "position_sum": 2, "index": 184}
+{"time_start": 56040, "time_end": 56520, "time_sum": 600, "position_start": "4/16", "position_end": "8/16", "notes": [57, 60, 68], "position_sum": 5, "index": 185}
+{"time_start": 56640, "time_end": 56880, "time_sum": 360, "position_start": "9/16", "position_end": "11/16", "notes": [51, 57, 60, 68], "position_sum": 3, "index": 186}
+{"time_start": 57000, "time_end": 57240, "time_sum": 360, "position_start": "12/16", "position_end": "14/16", "notes": [48, 51, 57, 60, 66, 68], "position_sum": 3, "index": 187}
+{"time_start": 57360, "time_end": 57600, "time_sum": 360, "position_start": "15/16", "position_end": "1/16", "notes": [45, 48, 51, 57, 60, 64, 66, 68], "position_sum": 3, "index": 188}
+{"time_start": 57720, "time_end": 57720, "time_sum": 120, "position_start": "2/16", "position_end": "2/16", "notes": [40, 45, 48, 51, 57, 60, 64, 66, 68], "position_sum": 1, "index": 189}
+{"time_start": 57840, "time_end": 57960, "time_sum": 240, "position_start": "3/16", "position_end": "4/16", "notes": [40, 68], "position_sum": 2, "index": 190}
+{"time_start": 58080, "time_end": 58320, "time_sum": 360, "position_start": "5/16", "position_end": "7/16", "notes": [40, 59, 68], "position_sum": 3, "index": 191}
+{"time_start": 58440, "time_end": 58680, "time_sum": 360, "position_start": "8/16", "position_end": "10/16", "notes": [40, 56, 59, 68], "position_sum": 3, "index": 192}
+{"time_start": 58800, "time_end": 58920, "time_sum": 240, "position_start": "11/16", "position_end": "12/16", "notes": [40, 52, 56, 59, 68], "position_sum": 2, "index": 193}
+{"time_start": 59040, "time_end": 59160, "time_sum": 240, "position_start": "13/16", "position_end": "14/16", "notes": [40, 52, 56, 59, 60, 68, 69], "position_sum": 2, "index": 194}
+{"time_start": 59280, "time_end": 59520, "time_sum": 360, "position_start": "15/16", "position_end": "1/16", "notes": [40, 52, 56, 57, 59, 60, 68, 69], "position_sum": 3, "index": 195}
+{"time_start": 59640, "time_end": 59640, "time_sum": 120, "position_start": "2/16", "position_end": "2/16", "notes": [40, 52, 56, 57, 59, 60, 68, 69, 70], "position_sum": 1, "index": 196}
+{"time_start": 59760, "time_end": 59760, "time_sum": 120, "position_start": "3/16", "position_end": "3/16", "notes": [40, 52, 56, 69, 70], "position_sum": 1, "index": 197}
+{"time_start": 59880, "time_end": 59880, "time_sum": 120, "position_start": "4/16", "position_end": "4/16", "notes": [40, 69, 70], "position_sum": 1, "index": 198}
+{"time_start": 60000, "time_end": 60240, "time_sum": 360, "position_start": "5/16", "position_end": "7/16", "notes": [40, 61, 69, 70], "position_sum": 3, "index": 199}
+{"time_start": 60360, "time_end": 60480, "time_sum": 240, "position_start": "8/16", "position_end": "9/16", "notes": [40, 58, 61, 69, 70], "position_sum": 2, "index": 200}
+{"time_start": 60600, "time_end": 60840, "time_sum": 360, "position_start": "10/16", "position_end": "12/16", "notes": [40, 52, 58, 61, 69, 70], "position_sum": 3, "index": 201}
+{"time_start": 60960, "time_end": 61080, "time_sum": 240, "position_start": "13/16", "position_end": "14/16", "notes": [40, 52, 58, 61, 64, 68, 69, 70], "position_sum": 2, "index": 202}
+{"time_start": 61200, "time_end": 61440, "time_sum": 360, "position_start": "15/16", "position_end": "1/16", "notes": [40, 52, 58, 61, 64, 66, 68, 69, 70], "position_sum": 3, "index": 203}
+{"time_start": 61560, "time_end": 61560, "time_sum": 120, "position_start": "2/16", "position_end": "2/16", "notes": [40, 52, 58, 61, 64, 66, 68, 69, 70, 71], "position_sum": 1, "index": 204}
+{"time_start": 61680, "time_end": 61680, "time_sum": 120, "position_start": "3/16", "position_end": "3/16", "notes": [40, 52, 58, 61, 64, 68, 69, 71], "position_sum": 1, "index": 205}
+{"time_start": 61800, "time_end": 61800, "time_sum": 120, "position_start": "4/16", "position_end": "4/16", "notes": [40, 71], "position_sum": 1, "index": 206}
+{"time_start": 61920, "time_end": 62040, "time_sum": 240, "position_start": "5/16", "position_end": "6/16", "notes": [40, 62, 71], "position_sum": 2, "index": 207}
+{"time_start": 62160, "time_end": 62400, "time_sum": 360, "position_start": "7/16", "position_end": "9/16", "notes": [40, 59, 62, 71], "position_sum": 3, "index": 208}
+{"time_start": 62520, "time_end": 62640, "time_sum": 240, "position_start": "10/16", "position_end": "11/16", "notes": [40, 52, 59, 62, 71], "position_sum": 2, "index": 209}
+{"time_start": 62760, "time_end": 63000, "time_sum": 360, "position_start": "12/16", "position_end": "14/16", "notes": [40, 52, 59, 62, 63, 71, 72], "position_sum": 3, "index": 210}
+{"time_start": 63120, "time_end": 63240, "time_sum": 240, "position_start": "15/16", "position_end": "16/16", "notes": [40, 52, 59, 60, 62, 63, 71, 72], "position_sum": 2, "index": 211}
+{"time_start": 63360, "time_end": 63360, "time_sum": 120, "position_start": "1/16", "position_end": "1/16", "notes": [40, 52, 59, 60, 62, 63, 71, 72, 73], "position_sum": 1, "index": 212}
+{"time_start": 63480, "time_end": 63480, "time_sum": 120, "position_start": "2/16", "position_end": "2/16", "notes": [40, 52, 60, 62, 73], "position_sum": 1, "index": 213}
+{"time_start": 63600, "time_end": 63600, "time_sum": 120, "position_start": "3/16", "position_end": "3/16", "notes": [40, 73], "position_sum": 1, "index": 214}
+{"time_start": 63720, "time_end": 63960, "time_sum": 360, "position_start": "4/16", "position_end": "6/16", "notes": [40, 64, 73], "position_sum": 3, "index": 215}
+{"time_start": 64080, "time_end": 64200, "time_sum": 240, "position_start": "7/16", "position_end": "8/16", "notes": [40, 61, 64, 73], "position_sum": 2, "index": 216}
+{"time_start": 64320, "time_end": 64560, "time_sum": 360, "position_start": "9/16", "position_end": "11/16", "notes": [40, 52, 61, 64, 73], "position_sum": 3, "index": 217}
+{"time_start": 64680, "time_end": 64920, "time_sum": 360, "position_start": "12/16", "position_end": "14/16", "notes": [40, 52, 61, 64, 67, 71, 73], "position_sum": 3, "index": 218}
+{"time_start": 65040, "time_end": 65280, "time_sum": 360, "position_start": "15/16", "position_end": "1/16", "notes": [40, 52, 61, 64, 67, 69, 71, 73], "position_sum": 3, "index": 219}
+{"time_start": 65400, "time_end": 65400, "time_sum": 120, "position_start": "2/16", "position_end": "2/16", "notes": [40, 52, 61, 64, 67, 69, 71, 73, 74], "position_sum": 1, "index": 220}
+{"time_start": 65520, "time_end": 65520, "time_sum": 120, "position_start": "3/16", "position_end": "3/16", "notes": [40, 42, 69, 74], "position_sum": 1, "index": 221}
+{"time_start": 65640, "time_end": 65640, "time_sum": 120, "position_start": "4/16", "position_end": "4/16", "notes": [42, 69, 74], "position_sum": 1, "index": 222}
+{"time_start": 65760, "time_end": 66000, "time_sum": 360, "position_start": "5/16", "position_end": "7/16", "notes": [42, 62, 69, 74], "position_sum": 3, "index": 223}
+{"time_start": 66120, "time_end": 66360, "time_sum": 360, "position_start": "8/16", "position_end": "10/16", "notes": [42, 57, 62, 69, 74], "position_sum": 3, "index": 224}
+{"time_start": 66480, "time_end": 66480, "time_sum": 120, "position_start": "11/16", "position_end": "11/16", "notes": [40, 42, 64, 68, 69, 73, 74], "position_sum": 1, "index": 225}
+{"time_start": 66600, "time_end": 66720, "time_sum": 240, "position_start": "12/16", "position_end": "13/16", "notes": [40, 64, 68, 73, 74], "position_sum": 2, "index": 226}
+{"time_start": 66840, "time_end": 66960, "time_sum": 240, "position_start": "14/16", "position_end": "15/16", "notes": [40, 52, 64, 68, 73, 74], "position_sum": 2, "index": 227}
+{"time_start": 67080, "time_end": 67200, "time_sum": 240, "position_start": "16/16", "position_end": "1/16", "notes": [40, 52, 56, 64, 68, 71, 73, 74], "position_sum": 2, "index": 228}
+{"time_start": 67320, "time_end": 67440, "time_sum": 240, "position_start": "2/16", "position_end": "3/16", "notes": [40, 52, 56, 64, 66, 68, 71, 73, 74], "position_sum": 2, "index": 229}
+{"time_start": 67560, "time_end": 67560, "time_sum": 120, "position_start": "4/16", "position_end": "4/16", "notes": [38, 40, 52, 56, 64, 66, 68, 71, 73, 74], "position_sum": 1, "index": 230}
+{"time_start": 67680, "time_end": 68040, "time_sum": 480, "position_start": "5/16", "position_end": "8/16", "notes": [38, 71, 81], "position_sum": 4, "index": 231}
+{"time_start": 68160, "time_end": 68400, "time_sum": 360, "position_start": "9/16", "position_end": "11/16", "notes": [38, 54, 71, 81], "position_sum": 3, "index": 232}
+{"time_start": 68520, "time_end": 68880, "time_sum": 480, "position_start": "12/16", "position_end": "15/16", "notes": [38, 50, 54, 57, 71, 81], "position_sum": 4, "index": 233}
+{"time_start": 69000, "time_end": 69360, "time_sum": 480, "position_start": "16/16", "position_end": "3/16", "notes": [38, 50, 54, 57, 62, 71, 81], "position_sum": 4, "index": 234}
+{"time_start": 69480, "time_end": 69480, "time_sum": 120, "position_start": "4/16", "position_end": "4/16", "notes": [37, 38, 45, 50, 54, 57, 62, 69, 71, 81], "position_sum": 1, "index": 235}
+{"time_start": 69600, "time_end": 69720, "time_sum": 240, "position_start": "5/16", "position_end": "6/16", "notes": [37, 45, 64, 69], "position_sum": 2, "index": 236}
+{"time_start": 69840, "time_end": 70080, "time_sum": 360, "position_start": "7/16", "position_end": "9/16", "notes": [35, 37, 45, 64, 69], "position_sum": 3, "index": 237}
+{"time_start": 70200, "time_end": 70200, "time_sum": 120, "position_start": "10/16", "position_end": "10/16", "notes": [35, 37, 45, 64, 68, 69], "position_sum": 1, "index": 238}
+{"time_start": 70320, "time_end": 70320, "time_sum": 120, "position_start": "11/16", "position_end": "11/16", "notes": [38, 45, 57, 59, 64, 68], "position_sum": 1, "index": 239}
+{"time_start": 70440, "time_end": 70560, "time_sum": 240, "position_start": "12/16", "position_end": "13/16", "notes": [38, 57, 59, 68], "position_sum": 2, "index": 240}
+{"time_start": 70680, "time_end": 70920, "time_sum": 360, "position_start": "14/16", "position_end": "16/16", "notes": [38, 45, 57, 59, 68], "position_sum": 3, "index": 241}
+{"time_start": 71040, "time_end": 71640, "time_sum": 720, "position_start": "1/16", "position_end": "6/16", "notes": [38, 45, 57, 59, 66, 68], "position_sum": 6, "index": 242}
+{"time_start": 71760, "time_end": 71760, "time_sum": 120, "position_start": "7/16", "position_end": "7/16", "notes": [37, 45, 52, 57, 59, 64, 66], "position_sum": 1, "index": 243}
+{"time_start": 71880, "time_end": 72000, "time_sum": 240, "position_start": "8/16", "position_end": "9/16", "notes": [37, 45, 52, 57, 64], "position_sum": 2, "index": 244}
+{"time_start": 72120, "time_end": 72360, "time_sum": 360, "position_start": "10/16", "position_end": "12/16", "notes": [35, 37, 45, 52, 57, 62, 64], "position_sum": 3, "index": 245}
+{"time_start": 72480, "time_end": 72480, "time_sum": 120, "position_start": "13/16", "position_end": "13/16", "notes": [35, 37, 38, 45, 52, 57, 61, 62, 64], "position_sum": 1, "index": 246}
+{"time_start": 72600, "time_end": 72600, "time_sum": 120, "position_start": "14/16", "position_end": "14/16", "notes": [38, 45, 54, 57, 61, 62, 64], "position_sum": 1, "index": 247}
+{"time_start": 72720, "time_end": 72840, "time_sum": 240, "position_start": "15/16", "position_end": "16/16", "notes": [38, 54, 57, 61], "position_sum": 2, "index": 248}
+{"time_start": 72960, "time_end": 73200, "time_sum": 360, "position_start": "1/16", "position_end": "3/16", "notes": [38, 45, 54, 57, 61], "position_sum": 3, "index": 249}
+{"time_start": 73320, "time_end": 74040, "time_sum": 840, "position_start": "4/16", "position_end": "10/16", "notes": [38, 45, 54, 57, 59, 61], "position_sum": 7, "index": 250}
+{"time_start": 74160, "time_end": 74160, "time_sum": 120, "position_start": "11/16", "position_end": "11/16", "notes": [37, 45, 54, 57, 59, 64, 69], "position_sum": 1, "index": 251}
+{"time_start": 74280, "time_end": 74400, "time_sum": 240, "position_start": "12/16", "position_end": "13/16", "notes": [37, 45, 64, 69], "position_sum": 2, "index": 252}
+{"time_start": 74520, "time_end": 74760, "time_sum": 360, "position_start": "14/16", "position_end": "16/16", "notes": [35, 37, 45, 64, 69], "position_sum": 3, "index": 253}
+{"time_start": 74880, "time_end": 74880, "time_sum": 120, "position_start": "1/16", "position_end": "1/16", "notes": [35, 37, 45, 59, 64, 67, 69], "position_sum": 1, "index": 254}
+{"time_start": 75000, "time_end": 75240, "time_sum": 360, "position_start": "2/16", "position_end": "4/16", "notes": [38, 59, 67], "position_sum": 3, "index": 255}
+{"time_start": 75360, "time_end": 75600, "time_sum": 360, "position_start": "5/16", "position_end": "7/16", "notes": [38, 45, 59, 67], "position_sum": 3, "index": 256}
+{"time_start": 75720, "time_end": 76320, "time_sum": 720, "position_start": "8/16", "position_end": "13/16", "notes": [38, 45, 59, 65, 67], "position_sum": 6, "index": 257}
+{"time_start": 76440, "time_end": 76440, "time_sum": 120, "position_start": "14/16", "position_end": "14/16", "notes": [38, 45, 65, 67], "position_sum": 1, "index": 258}
+{"time_start": 76560, "time_end": 76800, "time_sum": 360, "position_start": "15/16", "position_end": "1/16", "notes": [36, 45, 52, 64], "position_sum": 3, "index": 259}
+{"time_start": 76920, "time_end": 77280, "time_sum": 480, "position_start": "2/16", "position_end": "5/16", "notes": [35, 36, 45, 52, 62, 64], "position_sum": 4, "index": 260}
+{"time_start": 77400, "time_end": 77400, "time_sum": 120, "position_start": "6/16", "position_end": "6/16", "notes": [35, 36, 38, 45, 52, 53, 57, 60, 62, 64], "position_sum": 1, "index": 261}
+{"time_start": 77520, "time_end": 77520, "time_sum": 120, "position_start": "7/16", "position_end": "7/16", "notes": [36, 38, 52, 53, 57, 60, 62, 64], "position_sum": 1, "index": 262}
+{"time_start": 77640, "time_end": 77760, "time_sum": 240, "position_start": "8/16", "position_end": "9/16", "notes": [38, 53, 57, 60], "position_sum": 2, "index": 263}
+{"time_start": 77880, "time_end": 78240, "time_sum": 480, "position_start": "10/16", "position_end": "13/16", "notes": [38, 45, 53, 57, 60], "position_sum": 4, "index": 264}
+{"time_start": 78360, "time_end": 79920, "time_sum": 1680, "position_start": "14/16", "position_end": "11/16", "notes": [38, 45, 53, 57, 59, 60], "position_sum": 14, "index": 265}
+{"time_start": 80040, "time_end": 80040, "time_sum": 120, "position_start": "12/16", "position_end": "12/16", "notes": [49], "position_sum": 1, "index": 266}
+{"time_start": 80160, "time_end": 80280, "time_sum": 240, "position_start": "13/16", "position_end": "14/16", "notes": [49, 52], "position_sum": 2, "index": 267}
+{"time_start": 80400, "time_end": 80640, "time_sum": 360, "position_start": "15/16", "position_end": "1/16", "notes": [49, 52, 57], "position_sum": 3, "index": 268}
+{"time_start": 80760, "time_end": 80760, "time_sum": 120, "position_start": "2/16", "position_end": "2/16", "notes": [49, 52, 57, 80], "position_sum": 1, "index": 269}
+{"time_start": 80880, "time_end": 81240, "time_sum": 480, "position_start": "3/16", "position_end": "6/16", "notes": [49, 52, 57, 64, 80], "position_sum": 4, "index": 270}
+{"time_start": 81360, "time_end": 81720, "time_sum": 480, "position_start": "7/16", "position_end": "10/16", "notes": [49, 52, 57, 64, 80, 81], "position_sum": 4, "index": 271}
+{"time_start": 81840, "time_end": 81840, "time_sum": 120, "position_start": "11/16", "position_end": "11/16", "notes": [38, 45, 64, 74, 78, 81], "position_sum": 1, "index": 272}
+{"time_start": 81960, "time_end": 82200, "time_sum": 360, "position_start": "12/16", "position_end": "14/16", "notes": [38, 45, 74, 78, 81], "position_sum": 3, "index": 273}
+{"time_start": 82320, "time_end": 82560, "time_sum": 360, "position_start": "15/16", "position_end": "1/16", "notes": [38, 45, 68, 74, 78, 81], "position_sum": 3, "index": 274}
+{"time_start": 82680, "time_end": 82920, "time_sum": 360, "position_start": "2/16", "position_end": "4/16", "notes": [38, 45, 50, 54, 68, 69, 74, 78, 81], "position_sum": 3, "index": 275}
+{"time_start": 83040, "time_end": 83040, "time_sum": 120, "position_start": "5/16", "position_end": "5/16", "notes": [38, 45, 50, 54, 57, 66, 68, 69, 74, 78, 81], "position_sum": 1, "index": 276}
+{"time_start": 83160, "time_end": 83280, "time_sum": 240, "position_start": "6/16", "position_end": "7/16", "notes": [38, 45, 49, 50, 52, 54, 57, 66, 68, 69, 74, 78, 81], "position_sum": 2, "index": 277}
+{"time_start": 83400, "time_end": 84000, "time_sum": 720, "position_start": "8/16", "position_end": "13/16", "notes": [38, 45, 49, 50, 52, 54, 57, 64, 66, 68, 69, 74, 78, 80, 81], "position_sum": 6, "index": 278}
+{"time_start": 84120, "time_end": 84120, "time_sum": 120, "position_start": "14/16", "position_end": "14/16", "notes": [38, 39, 45, 47, 49, 50, 52, 54, 57, 66, 68, 69, 74, 78, 80, 81], "position_sum": 1, "index": 279}
+{"time_start": 84240, "time_end": 84480, "time_sum": 360, "position_start": "15/16", "position_end": "1/16", "notes": [39, 47, 69, 71, 81], "position_sum": 3, "index": 280}
+{"time_start": 84600, "time_end": 84960, "time_sum": 480, "position_start": "2/16", "position_end": "5/16", "notes": [39, 47, 68, 69, 71, 81], "position_sum": 4, "index": 281}
+{"time_start": 85080, "time_end": 85440, "time_sum": 480, "position_start": "6/16", "position_end": "9/16", "notes": [39, 47, 51, 54, 68, 69, 71, 81], "position_sum": 4, "index": 282}
+{"time_start": 85560, "time_end": 85920, "time_sum": 480, "position_start": "10/16", "position_end": "13/16", "notes": [39, 47, 51, 54, 59, 66, 68, 69, 71, 81], "position_sum": 4, "index": 283}
+{"time_start": 86040, "time_end": 86040, "time_sum": 120, "position_start": "14/16", "position_end": "14/16", "notes": [39, 40, 47, 51, 54, 59, 66, 68, 69, 71, 81], "position_sum": 1, "index": 284}
+{"time_start": 86160, "time_end": 86160, "time_sum": 120, "position_start": "15/16", "position_end": "15/16", "notes": [40, 51, 54, 59, 64, 66, 68, 69, 71], "position_sum": 1, "index": 285}
+{"time_start": 86280, "time_end": 86400, "time_sum": 240, "position_start": "16/16", "position_end": "1/16", "notes": [40, 64, 68, 69, 71], "position_sum": 2, "index": 286}
+{"time_start": 86520, "time_end": 86640, "time_sum": 240, "position_start": "2/16", "position_end": "3/16", "notes": [40, 52, 64, 68, 69, 71], "position_sum": 2, "index": 287}
+{"time_start": 86760, "time_end": 86880, "time_sum": 240, "position_start": "4/16", "position_end": "5/16", "notes": [40, 52, 64, 68, 69, 71, 73], "position_sum": 2, "index": 288}
+{"time_start": 87000, "time_end": 87120, "time_sum": 240, "position_start": "6/16", "position_end": "7/16", "notes": [52, 56, 64, 68, 73], "position_sum": 2, "index": 289}
+{"time_start": 87240, "time_end": 87360, "time_sum": 240, "position_start": "8/16", "position_end": "9/16", "notes": [52, 56, 61, 64, 68, 73], "position_sum": 2, "index": 290}
+{"time_start": 87480, "time_end": 87480, "time_sum": 120, "position_start": "10/16", "position_end": "10/16", "notes": [52, 56, 61, 64, 68, 73, 74], "position_sum": 1, "index": 291}
+{"time_start": 87600, "time_end": 87600, "time_sum": 120, "position_start": "11/16", "position_end": "11/16", "notes": [47, 52, 56, 64, 68, 74], "position_sum": 1, "index": 292}
+{"time_start": 87720, "time_end": 87840, "time_sum": 240, "position_start": "12/16", "position_end": "13/16", "notes": [47, 54, 74], "position_sum": 2, "index": 293}
+{"time_start": 87960, "time_end": 88200, "time_sum": 360, "position_start": "14/16", "position_end": "16/16", "notes": [47, 54, 59, 73, 74], "position_sum": 3, "index": 294}
+{"time_start": 88320, "time_end": 88320, "time_sum": 120, "position_start": "1/16", "position_end": "1/16", "notes": [40, 54, 59, 73, 74], "position_sum": 1, "index": 295}
+{"time_start": 88440, "time_end": 88560, "time_sum": 240, "position_start": "2/16", "position_end": "3/16", "notes": [40, 47, 74], "position_sum": 2, "index": 296}
+{"time_start": 88680, "time_end": 88680, "time_sum": 120, "position_start": "4/16", "position_end": "4/16", "notes": [40, 47, 68, 74], "position_sum": 1, "index": 297}
+{"time_start": 88800, "time_end": 89040, "time_sum": 360, "position_start": "5/16", "position_end": "7/16", "notes": [40, 47, 52, 68, 74], "position_sum": 3, "index": 298}
+{"time_start": 89160, "time_end": 89160, "time_sum": 120, "position_start": "8/16", "position_end": "8/16", "notes": [40, 45, 47, 52, 68, 74], "position_sum": 1, "index": 299}
+{"time_start": 89280, "time_end": 89520, "time_sum": 360, "position_start": "9/16", "position_end": "11/16", "notes": [45, 62, 68], "position_sum": 3, "index": 300}
+{"time_start": 89640, "time_end": 89880, "time_sum": 360, "position_start": "12/16", "position_end": "14/16", "notes": [45, 52, 62, 68], "position_sum": 3, "index": 301}
+{"time_start": 90000, "time_end": 90000, "time_sum": 120, "position_start": "15/16", "position_end": "15/16", "notes": [45, 61, 62, 69], "position_sum": 1, "index": 302}
+{"time_start": 90120, "time_end": 90360, "time_sum": 360, "position_start": "16/16", "position_end": "2/16", "notes": [57, 61, 62, 69], "position_sum": 3, "index": 303}
+{"time_start": 90480, "time_end": 90840, "time_sum": 480, "position_start": "3/16", "position_end": "6/16", "notes": [56, 57, 61, 62, 69], "position_sum": 4, "index": 304}
+{"time_start": 90960, "time_end": 90960, "time_sum": 120, "position_start": "7/16", "position_end": "7/16", "notes": [54, 56, 57, 61, 62, 69], "position_sum": 1, "index": 305}
+{"time_start": 91080, "time_end": 91080, "time_sum": 120, "position_start": "8/16", "position_end": "8/16", "notes": [45, 54, 57, 61, 66, 69], "position_sum": 1, "index": 306}
+{"time_start": 91200, "time_end": 91320, "time_sum": 240, "position_start": "9/16", "position_end": "10/16", "notes": [45, 54, 61, 66, 69], "position_sum": 2, "index": 307}
+{"time_start": 91440, "time_end": 91680, "time_sum": 360, "position_start": "11/16", "position_end": "13/16", "notes": [45, 54, 57, 61, 66, 69], "position_sum": 3, "index": 308}
+{"time_start": 91800, "time_end": 92760, "time_sum": 1080, "position_start": "14/16", "position_end": "6/16", "notes": [45, 54, 57, 61, 66, 69, 71], "position_sum": 9, "index": 309}
+{"time_start": 92880, "time_end": 93120, "time_sum": 360, "position_start": "7/16", "position_end": "9/16", "notes": [45, 52, 54, 57, 61, 66, 69, 71], "position_sum": 3, "index": 310}
+{"time_start": 93240, "time_end": 93240, "time_sum": 120, "position_start": "10/16", "position_end": "10/16", "notes": [45, 50, 52, 54, 57, 61, 66, 69, 71], "position_sum": 1, "index": 311}
+{"time_start": 93360, "time_end": 93360, "time_sum": 120, "position_start": "11/16", "position_end": "11/16", "notes": [45, 50, 66, 69], "position_sum": 1, "index": 312}
+{"time_start": 93480, "time_end": 93720, "time_sum": 360, "position_start": "12/16", "position_end": "14/16", "notes": [45, 50, 54, 66, 69], "position_sum": 3, "index": 313}
+{"time_start": 93840, "time_end": 94680, "time_sum": 960, "position_start": "15/16", "position_end": "6/16", "notes": [45, 50, 54, 57, 66, 69, 71], "position_sum": 8, "index": 314}
+{"time_start": 94800, "time_end": 95040, "time_sum": 360, "position_start": "7/16", "position_end": "9/16", "notes": [45, 49, 50, 54, 57, 66, 69, 71], "position_sum": 3, "index": 315}
+{"time_start": 95160, "time_end": 95160, "time_sum": 120, "position_start": "10/16", "position_end": "10/16", "notes": [45, 49, 50, 54, 57, 62, 66, 69, 71], "position_sum": 1, "index": 316}
+{"time_start": 95280, "time_end": 95400, "time_sum": 240, "position_start": "11/16", "position_end": "12/16", "notes": [45, 47, 62, 66, 69], "position_sum": 2, "index": 317}
+{"time_start": 95520, "time_end": 95760, "time_sum": 360, "position_start": "13/16", "position_end": "15/16", "notes": [45, 47, 50, 62, 66, 69], "position_sum": 3, "index": 318}
+{"time_start": 95880, "time_end": 96000, "time_sum": 240, "position_start": "16/16", "position_end": "1/16", "notes": [45, 47, 50, 54, 62, 66, 69, 74], "position_sum": 2, "index": 319}
+{"time_start": 96120, "time_end": 96360, "time_sum": 360, "position_start": "2/16", "position_end": "4/16", "notes": [45, 47, 50, 54, 57, 62, 66, 69, 74], "position_sum": 3, "index": 320}
+{"time_start": 96480, "time_end": 96480, "time_sum": 120, "position_start": "5/16", "position_end": "5/16", "notes": [45, 47, 52, 54, 64, 68, 73, 74], "position_sum": 1, "index": 321}
+{"time_start": 96600, "time_end": 96720, "time_sum": 240, "position_start": "6/16", "position_end": "7/16", "notes": [45, 52, 64, 68, 73, 74], "position_sum": 2, "index": 322}
+{"time_start": 96840, "time_end": 96960, "time_sum": 240, "position_start": "8/16", "position_end": "9/16", "notes": [45, 52, 56, 64, 68, 73, 74], "position_sum": 2, "index": 323}
+{"time_start": 97080, "time_end": 97320, "time_sum": 360, "position_start": "10/16", "position_end": "12/16", "notes": [45, 52, 56, 59, 64, 68, 73, 74], "position_sum": 3, "index": 324}
+{"time_start": 97440, "time_end": 97800, "time_sum": 480, "position_start": "13/16", "position_end": "16/16", "notes": [45, 52, 56, 59, 62, 64, 68, 71, 73, 74], "position_sum": 4, "index": 325}
+{"time_start": 97920, "time_end": 98040, "time_sum": 240, "position_start": "1/16", "position_end": "2/16", "notes": [45, 62, 68, 71], "position_sum": 2, "index": 326}
+{"time_start": 98160, "time_end": 98280, "time_sum": 240, "position_start": "3/16", "position_end": "4/16", "notes": [45, 52, 62, 68, 71], "position_sum": 2, "index": 327}
+{"time_start": 98400, "time_end": 98640, "time_sum": 360, "position_start": "5/16", "position_end": "7/16", "notes": [45, 52, 57, 61, 62, 68, 69, 71], "position_sum": 3, "index": 328}
+{"time_start": 98760, "time_end": 99000, "time_sum": 360, "position_start": "8/16", "position_end": "10/16", "notes": [44, 45, 52, 57, 61, 62, 68, 69, 71], "position_sum": 3, "index": 329}
+{"time_start": 99120, "time_end": 99120, "time_sum": 120, "position_start": "11/16", "position_end": "11/16", "notes": [42, 44, 52, 61, 62, 66, 68, 69, 71], "position_sum": 1, "index": 330}
+{"time_start": 99240, "time_end": 99360, "time_sum": 240, "position_start": "12/16", "position_end": "13/16", "notes": [42, 61, 66, 69], "position_sum": 2, "index": 331}
+{"time_start": 99480, "time_end": 99720, "time_sum": 360, "position_start": "14/16", "position_end": "16/16", "notes": [42, 49, 61, 66, 69], "position_sum": 3, "index": 332}
+{"time_start": 99840, "time_end": 100680, "time_sum": 960, "position_start": "1/16", "position_end": "8/16", "notes": [42, 49, 57, 61, 66, 69, 71], "position_sum": 8, "index": 333}
+{"time_start": 100800, "time_end": 101040, "time_sum": 360, "position_start": "9/16", "position_end": "11/16", "notes": [40, 42, 49, 57, 61, 66, 69, 71], "position_sum": 3, "index": 334}
+{"time_start": 101160, "time_end": 101160, "time_sum": 120, "position_start": "12/16", "position_end": "12/16", "notes": [38, 40, 42, 49, 57, 61, 62, 66, 69, 71], "position_sum": 1, "index": 335}
+{"time_start": 101280, "time_end": 101400, "time_sum": 240, "position_start": "13/16", "position_end": "14/16", "notes": [38, 62, 66, 69], "position_sum": 2, "index": 336}
+{"time_start": 101520, "time_end": 101760, "time_sum": 360, "position_start": "15/16", "position_end": "1/16", "notes": [38, 45, 62, 66, 69], "position_sum": 3, "index": 337}
+{"time_start": 101880, "time_end": 102720, "time_sum": 960, "position_start": "2/16", "position_end": "9/16", "notes": [38, 45, 54, 62, 66, 69, 71], "position_sum": 8, "index": 338}
+{"time_start": 102840, "time_end": 103200, "time_sum": 480, "position_start": "10/16", "position_end": "13/16", "notes": [37, 38, 45, 54, 62, 66, 69, 71], "position_sum": 4, "index": 339}
+{"time_start": 103320, "time_end": 103320, "time_sum": 120, "position_start": "14/16", "position_end": "14/16", "notes": [35, 37, 38, 45, 54, 62, 66, 69, 71], "position_sum": 1, "index": 340}
+{"time_start": 103440, "time_end": 103680, "time_sum": 360, "position_start": "15/16", "position_end": "1/16", "notes": [35, 62, 66, 69], "position_sum": 3, "index": 341}
+{"time_start": 103800, "time_end": 104040, "time_sum": 360, "position_start": "2/16", "position_end": "4/16", "notes": [35, 47, 62, 66, 69], "position_sum": 3, "index": 342}
+{"time_start": 104160, "time_end": 104160, "time_sum": 120, "position_start": "5/16", "position_end": "5/16", "notes": [35, 47, 50, 62, 66, 69], "position_sum": 1, "index": 343}
+{"time_start": 104280, "time_end": 104400, "time_sum": 240, "position_start": "6/16", "position_end": "7/16", "notes": [35, 47, 50, 62, 66, 69, 78], "position_sum": 2, "index": 344}
+{"time_start": 104520, "time_end": 104760, "time_sum": 360, "position_start": "8/16", "position_end": "10/16", "notes": [35, 47, 50, 54, 62, 66, 69, 78], "position_sum": 3, "index": 345}
+{"time_start": 104880, "time_end": 105960, "time_sum": 1200, "position_start": "11/16", "position_end": "4/16", "notes": [35, 47, 50, 54, 59, 62, 66, 69, 74, 78], "position_sum": 10, "index": 346}
+{"time_start": 106080, "time_end": 106440, "time_sum": 480, "position_start": "5/16", "position_end": "8/16", "notes": [35, 47, 50, 54, 59, 62, 66, 69, 71, 74, 78], "position_sum": 4, "index": 347}
+{"time_start": 106560, "time_end": 106560, "time_sum": 120, "position_start": "9/16", "position_end": "9/16", "notes": [35, 40, 47, 50, 54, 59, 62, 66, 68, 69, 71, 74, 78], "position_sum": 1, "index": 348}
+{"time_start": 106680, "time_end": 106680, "time_sum": 120, "position_start": "10/16", "position_end": "10/16", "notes": [40, 47, 61, 64, 66, 68, 78], "position_sum": 1, "index": 349}
+{"time_start": 106800, "time_end": 106920, "time_sum": 240, "position_start": "11/16", "position_end": "12/16", "notes": [40, 61, 64, 68], "position_sum": 2, "index": 350}
+{"time_start": 107040, "time_end": 107280, "time_sum": 360, "position_start": "13/16", "position_end": "15/16", "notes": [40, 49, 61, 64, 68], "position_sum": 3, "index": 351}
+{"time_start": 107400, "time_end": 107760, "time_sum": 480, "position_start": "16/16", "position_end": "3/16", "notes": [40, 49, 61, 64, 68, 69], "position_sum": 4, "index": 352}
+{"time_start": 107880, "time_end": 108360, "time_sum": 600, "position_start": "4/16", "position_end": "8/16", "notes": [40, 49, 57, 61, 64, 68, 69], "position_sum": 5, "index": 353}
+{"time_start": 108480, "time_end": 108480, "time_sum": 120, "position_start": "9/16", "position_end": "9/16", "notes": [28, 40, 49, 57, 61, 64, 68, 69], "position_sum": 1, "index": 354}
+{"time_start": 108600, "time_end": 108840, "time_sum": 360, "position_start": "10/16", "position_end": "12/16", "notes": [28, 61, 64], "position_sum": 3, "index": 355}
+{"time_start": 108960, "time_end": 109320, "time_sum": 480, "position_start": "13/16", "position_end": "16/16", "notes": [28, 59, 61, 64], "position_sum": 4, "index": 356}
+{"time_start": 109440, "time_end": 109680, "time_sum": 360, "position_start": "1/16", "position_end": "3/16", "notes": [28, 57, 62], "position_sum": 3, "index": 357}
+{"time_start": 109800, "time_end": 110160, "time_sum": 480, "position_start": "4/16", "position_end": "7/16", "notes": [28, 40, 57, 62], "position_sum": 4, "index": 358}
+{"time_start": 110280, "time_end": 110640, "time_sum": 480, "position_start": "8/16", "position_end": "11/16", "notes": [28, 40, 45, 57, 62], "position_sum": 4, "index": 359}
+{"time_start": 110760, "time_end": 111120, "time_sum": 480, "position_start": "12/16", "position_end": "15/16", "notes": [28, 40, 45, 50, 57, 62], "position_sum": 4, "index": 360}
+{"time_start": 111240, "time_end": 111240, "time_sum": 120, "position_start": "16/16", "position_end": "16/16", "notes": [28, 40, 45, 50, 56, 61, 62, 64], "position_sum": 1, "index": 361}
+{"time_start": 111360, "time_end": 111720, "time_sum": 480, "position_start": "1/16", "position_end": "4/16", "notes": [40, 56, 61, 64], "position_sum": 4, "index": 362}
+{"time_start": 111840, "time_end": 112560, "time_sum": 840, "position_start": "5/16", "position_end": "11/16", "notes": [40, 50, 56, 59, 61, 64], "position_sum": 7, "index": 363}
+{"time_start": 112680, "time_end": 112680, "time_sum": 120, "position_start": "12/16", "position_end": "12/16", "notes": [33, 40, 50, 56, 59, 61, 64], "position_sum": 1, "index": 364}
+{"time_start": 112800, "time_end": 113160, "time_sum": 480, "position_start": "13/16", "position_end": "16/16", "notes": [33, 61, 64], "position_sum": 4, "index": 365}
+{"time_start": 113280, "time_end": 113400, "time_sum": 240, "position_start": "1/16", "position_end": "2/16", "notes": [33, 49, 61, 64], "position_sum": 2, "index": 366}
+{"time_start": 113520, "time_end": 114240, "time_sum": 840, "position_start": "3/16", "position_end": "9/16", "notes": [33, 49, 57, 61, 64], "position_sum": 7, "index": 367}
+{"time_start": 114360, "time_end": 116160, "time_sum": 1920, "position_start": "10/16", "position_end": "9/16", "notes": [33, 49, 57, 61, 64, 69], "position_sum": 16, "index": 368}
+{"time_start": 116280, "time_end": 116880, "time_sum": 720, "position_start": "10/16", "position_end": "15/16", "notes": [33, 49, 57, 64, 69], "position_sum": 6, "index": 369}
+{"time_start": 117000, "time_end": 117120, "time_sum": 240, "position_start": "16/16", "position_end": "1/16", "notes": [], "position_sum": 2, "index": 370}
+{"time_start": 117240, "time_end": 117720, "time_sum": 600, "position_start": "2/16", "position_end": "6/16", "notes": [73], "position_sum": 5, "index": 371}
+{"time_start": 117840, "time_end": 117960, "time_sum": 240, "position_start": "7/16", "position_end": "8/16", "notes": [42, 73], "position_sum": 2, "index": 372}
+{"time_start": 118080, "time_end": 118200, "time_sum": 240, "position_start": "9/16", "position_end": "10/16", "notes": [42, 49, 73], "position_sum": 2, "index": 373}
+{"time_start": 118320, "time_end": 118320, "time_sum": 120, "position_start": "11/16", "position_end": "11/16", "notes": [42, 49, 57, 73], "position_sum": 1, "index": 374}
+{"time_start": 118440, "time_end": 118680, "time_sum": 360, "position_start": "12/16", "position_end": "14/16", "notes": [42, 49, 57, 73, 78], "position_sum": 3, "index": 375}
+{"time_start": 118800, "time_end": 119160, "time_sum": 480, "position_start": "15/16", "position_end": "2/16", "notes": [42, 49, 57, 61, 73, 76, 78], "position_sum": 4, "index": 376}
+{"time_start": 119280, "time_end": 119400, "time_sum": 240, "position_start": "3/16", "position_end": "4/16", "notes": [42, 49, 54, 57, 61, 73, 76, 78], "position_sum": 2, "index": 377}
+{"time_start": 119520, "time_end": 120120, "time_sum": 720, "position_start": "5/16", "position_end": "10/16", "notes": [42, 49, 54, 57, 61, 66, 73, 74, 76, 78], "position_sum": 6, "index": 378}
+{"time_start": 120240, "time_end": 120240, "time_sum": 120, "position_start": "11/16", "position_end": "11/16", "notes": [42, 54, 61, 64, 73, 74, 76], "position_sum": 1, "index": 379}
+{"time_start": 120360, "time_end": 120360, "time_sum": 120, "position_start": "12/16", "position_end": "12/16", "notes": [54, 64, 73, 76], "position_sum": 1, "index": 380}
+{"time_start": 120480, "time_end": 120720, "time_sum": 360, "position_start": "13/16", "position_end": "15/16", "notes": [54, 57, 64, 73, 76], "position_sum": 3, "index": 381}
+{"time_start": 120840, "time_end": 120840, "time_sum": 120, "position_start": "16/16", "position_end": "16/16", "notes": [54, 57, 64, 71, 73, 76], "position_sum": 1, "index": 382}
+{"time_start": 120960, "time_end": 120960, "time_sum": 120, "position_start": "1/16", "position_end": "1/16", "notes": [54, 62, 71, 73, 76], "position_sum": 1, "index": 383}
+{"time_start": 121080, "time_end": 121080, "time_sum": 120, "position_start": "2/16", "position_end": "2/16", "notes": [54, 57, 62, 71, 73, 76], "position_sum": 1, "index": 384}
+{"time_start": 121200, "time_end": 121320, "time_sum": 240, "position_start": "3/16", "position_end": "4/16", "notes": [54, 57, 62, 71, 73, 74, 76], "position_sum": 2, "index": 385}
+{"time_start": 121440, "time_end": 121440, "time_sum": 120, "position_start": "5/16", "position_end": "5/16", "notes": [54, 57, 62, 73, 74, 76], "position_sum": 1, "index": 386}
+{"time_start": 121560, "time_end": 121680, "time_sum": 240, "position_start": "6/16", "position_end": "7/16", "notes": [47, 74, 80], "position_sum": 2, "index": 387}
+{"time_start": 121800, "time_end": 121800, "time_sum": 120, "position_start": "8/16", "position_end": "8/16", "notes": [47, 54, 74, 78, 80], "position_sum": 1, "index": 388}
+{"time_start": 121920, "time_end": 122040, "time_sum": 240, "position_start": "9/16", "position_end": "10/16", "notes": [47, 54, 57, 74, 78, 80], "position_sum": 2, "index": 389}
+{"time_start": 122160, "time_end": 122760, "time_sum": 720, "position_start": "11/16", "position_end": "16/16", "notes": [47, 54, 57, 62, 71, 74, 78, 80], "position_sum": 6, "index": 390}
+{"time_start": 122880, "time_end": 122880, "time_sum": 120, "position_start": "1/16", "position_end": "1/16", "notes": [47, 54, 61, 69, 71, 78, 80], "position_sum": 1, "index": 391}
+{"time_start": 123000, "time_end": 123000, "time_sum": 120, "position_start": "2/16", "position_end": "2/16", "notes": [54, 61, 69, 71, 78], "position_sum": 1, "index": 392}
+{"time_start": 123120, "time_end": 123360, "time_sum": 360, "position_start": "3/16", "position_end": "5/16", "notes": [54, 57, 61, 69, 71, 73, 78], "position_sum": 3, "index": 393}
+{"time_start": 123480, "time_end": 123480, "time_sum": 120, "position_start": "6/16", "position_end": "6/16", "notes": [49, 54, 57, 61, 69, 71, 73, 78], "position_sum": 1, "index": 394}
+{"time_start": 123600, "time_end": 123600, "time_sum": 120, "position_start": "7/16", "position_end": "7/16", "notes": [49, 69, 73, 78], "position_sum": 1, "index": 395}
+{"time_start": 123720, "time_end": 123720, "time_sum": 120, "position_start": "8/16", "position_end": "8/16", "notes": [49, 52, 69, 73, 78], "position_sum": 1, "index": 396}
+{"time_start": 123840, "time_end": 123840, "time_sum": 120, "position_start": "9/16", "position_end": "9/16", "notes": [49, 52, 69, 73, 76, 78], "position_sum": 1, "index": 397}
+{"time_start": 123960, "time_end": 124080, "time_sum": 240, "position_start": "10/16", "position_end": "11/16", "notes": [49, 52, 57, 69, 73, 76, 78], "position_sum": 2, "index": 398}
+{"time_start": 124200, "time_end": 124320, "time_sum": 240, "position_start": "12/16", "position_end": "13/16", "notes": [49, 52, 57, 61, 69, 73, 76, 78], "position_sum": 2, "index": 399}
+{"time_start": 124440, "time_end": 124440, "time_sum": 120, "position_start": "14/16", "position_end": "14/16", "notes": [49, 52, 54, 57, 61, 68, 69, 73, 76, 78], "position_sum": 1, "index": 400}
+{"time_start": 124560, "time_end": 124680, "time_sum": 240, "position_start": "15/16", "position_end": "16/16", "notes": [49, 50, 52, 54, 57, 61, 68, 69, 73, 76, 78], "position_sum": 2, "index": 401}
+{"time_start": 124800, "time_end": 124920, "time_sum": 240, "position_start": "1/16", "position_end": "2/16", "notes": [50, 59, 68, 69, 76], "position_sum": 2, "index": 402}
+{"time_start": 125040, "time_end": 125040, "time_sum": 120, "position_start": "3/16", "position_end": "3/16", "notes": [50, 54, 59, 68, 69, 76], "position_sum": 1, "index": 403}
+{"time_start": 125160, "time_end": 125160, "time_sum": 120, "position_start": "4/16", "position_end": "4/16", "notes": [50, 54, 59, 68, 69, 74, 76], "position_sum": 1, "index": 404}
+{"time_start": 125280, "time_end": 125280, "time_sum": 120, "position_start": "5/16", "position_end": "5/16", "notes": [44, 54, 68, 69, 74, 76], "position_sum": 1, "index": 405}
+{"time_start": 125400, "time_end": 125400, "time_sum": 120, "position_start": "6/16", "position_end": "6/16", "notes": [44, 71, 74, 76], "position_sum": 1, "index": 406}
+{"time_start": 125520, "time_end": 125520, "time_sum": 120, "position_start": "7/16", "position_end": "7/16", "notes": [44, 49, 71, 74, 76], "position_sum": 1, "index": 407}
+{"time_start": 125640, "time_end": 125640, "time_sum": 120, "position_start": "8/16", "position_end": "8/16", "notes": [44, 49, 53, 71, 74, 76], "position_sum": 1, "index": 408}
+{"time_start": 125760, "time_end": 125760, "time_sum": 120, "position_start": "9/16", "position_end": "9/16", "notes": [44, 49, 53, 68, 71, 74, 76], "position_sum": 1, "index": 409}
+{"time_start": 125880, "time_end": 126000, "time_sum": 240, "position_start": "10/16", "position_end": "11/16", "notes": [44, 49, 53, 59, 68, 71, 74, 76], "position_sum": 2, "index": 410}
+{"time_start": 126120, "time_end": 126120, "time_sum": 120, "position_start": "12/16", "position_end": "12/16", "notes": [42, 71, 74], "position_sum": 1, "index": 411}
+{"time_start": 126240, "time_end": 126240, "time_sum": 120, "position_start": "13/16", "position_end": "13/16", "notes": [42, 69, 71, 73], "position_sum": 1, "index": 412}
+{"time_start": 126360, "time_end": 126480, "time_sum": 240, "position_start": "14/16", "position_end": "15/16", "notes": [42, 57, 69, 71, 73], "position_sum": 2, "index": 413}
+{"time_start": 126600, "time_end": 126600, "time_sum": 120, "position_start": "16/16", "position_end": "16/16", "notes": [42, 57, 69, 71, 73, 81], "position_sum": 1, "index": 414}
+{"time_start": 126720, "time_end": 126840, "time_sum": 240, "position_start": "1/16", "position_end": "2/16", "notes": [42, 54, 57, 69, 71, 73, 81], "position_sum": 2, "index": 415}
+{"time_start": 126960, "time_end": 127440, "time_sum": 600, "position_start": "3/16", "position_end": "7/16", "notes": [42, 54, 57, 61, 69, 71, 73, 80, 81], "position_sum": 5, "index": 416}
+{"time_start": 127560, "time_end": 128160, "time_sum": 720, "position_start": "8/16", "position_end": "13/16", "notes": [42, 54, 57, 61, 69, 71, 73, 78, 80, 81], "position_sum": 6, "index": 417}
+{"time_start": 128280, "time_end": 128280, "time_sum": 120, "position_start": "14/16", "position_end": "14/16", "notes": [42, 54, 57, 61, 69, 71, 73, 76, 78, 80, 81], "position_sum": 1, "index": 418}
+{"time_start": 128400, "time_end": 128400, "time_sum": 120, "position_start": "15/16", "position_end": "15/16", "notes": [38, 68, 76, 80, 81], "position_sum": 1, "index": 419}
+{"time_start": 128520, "time_end": 128640, "time_sum": 240, "position_start": "16/16", "position_end": "1/16", "notes": [38, 45, 68, 76], "position_sum": 2, "index": 420}
+{"time_start": 128760, "time_end": 128880, "time_sum": 240, "position_start": "2/16", "position_end": "3/16", "notes": [38, 45, 50, 68, 76], "position_sum": 2, "index": 421}
+{"time_start": 129000, "time_end": 129000, "time_sum": 120, "position_start": "4/16", "position_end": "4/16", "notes": [38, 45, 50, 54, 66, 68, 69, 76], "position_sum": 1, "index": 422}
+{"time_start": 129120, "time_end": 129120, "time_sum": 120, "position_start": "5/16", "position_end": "5/16", "notes": [38, 45, 50, 54, 57, 66, 68, 69, 76], "position_sum": 1, "index": 423}
+{"time_start": 129240, "time_end": 129480, "time_sum": 360, "position_start": "6/16", "position_end": "8/16", "notes": [38, 45, 50, 54, 57, 66, 68, 69, 73, 76], "position_sum": 3, "index": 424}
+{"time_start": 129600, "time_end": 129600, "time_sum": 120, "position_start": "9/16", "position_end": "9/16", "notes": [38, 42, 45, 50, 54, 66, 68, 69, 73, 76], "position_sum": 1, "index": 425}
+{"time_start": 129720, "time_end": 129720, "time_sum": 120, "position_start": "10/16", "position_end": "10/16", "notes": [42, 66, 69, 73, 76], "position_sum": 1, "index": 426}
+{"time_start": 129840, "time_end": 129840, "time_sum": 120, "position_start": "11/16", "position_end": "11/16", "notes": [42, 50, 66, 69, 73, 76], "position_sum": 1, "index": 427}
+{"time_start": 129960, "time_end": 129960, "time_sum": 120, "position_start": "12/16", "position_end": "12/16", "notes": [42, 50, 66, 69, 73, 74, 76], "position_sum": 1, "index": 428}
+{"time_start": 130080, "time_end": 130200, "time_sum": 240, "position_start": "13/16", "position_end": "14/16", "notes": [42, 50, 57, 66, 69, 73, 74, 76], "position_sum": 2, "index": 429}
+{"time_start": 130320, "time_end": 130320, "time_sum": 120, "position_start": "15/16", "position_end": "15/16", "notes": [44, 50, 57, 64, 69, 73, 74], "position_sum": 1, "index": 430}
+{"time_start": 130440, "time_end": 130440, "time_sum": 120, "position_start": "16/16", "position_end": "16/16", "notes": [44, 64, 73], "position_sum": 1, "index": 431}
+{"time_start": 130560, "time_end": 130680, "time_sum": 240, "position_start": "1/16", "position_end": "2/16", "notes": [44, 52, 64, 73], "position_sum": 2, "index": 432}
+{"time_start": 130800, "time_end": 130920, "time_sum": 240, "position_start": "3/16", "position_end": "4/16", "notes": [44, 52, 56, 64, 73], "position_sum": 2, "index": 433}
+{"time_start": 131040, "time_end": 131040, "time_sum": 120, "position_start": "5/16", "position_end": "5/16", "notes": [44, 56, 63, 66, 73], "position_sum": 1, "index": 434}
+{"time_start": 131160, "time_end": 131160, "time_sum": 120, "position_start": "6/16", "position_end": "6/16", "notes": [44, 63, 66], "position_sum": 1, "index": 435}
+{"time_start": 131280, "time_end": 131400, "time_sum": 240, "position_start": "7/16", "position_end": "8/16", "notes": [44, 51, 63, 66, 68], "position_sum": 2, "index": 436}
+{"time_start": 131520, "time_end": 131640, "time_sum": 240, "position_start": "9/16", "position_end": "10/16", "notes": [44, 51, 54, 63, 66, 68], "position_sum": 2, "index": 437}
+{"time_start": 131760, "time_end": 132360, "time_sum": 720, "position_start": "11/16", "position_end": "16/16", "notes": [44, 51, 54, 60, 63, 66, 68, 69], "position_sum": 6, "index": 438}
+{"time_start": 132480, "time_end": 132480, "time_sum": 120, "position_start": "1/16", "position_end": "1/16", "notes": [37, 44, 60, 61, 63, 65, 66, 69], "position_sum": 1, "index": 439}
+{"time_start": 132600, "time_end": 132600, "time_sum": 120, "position_start": "2/16", "position_end": "2/16", "notes": [37, 61, 65], "position_sum": 1, "index": 440}
+{"time_start": 132720, "time_end": 132840, "time_sum": 240, "position_start": "3/16", "position_end": "4/16", "notes": [37, 44, 61, 65], "position_sum": 2, "index": 441}
+{"time_start": 132960, "time_end": 132960, "time_sum": 120, "position_start": "5/16", "position_end": "5/16", "notes": [37, 44, 49, 61, 65], "position_sum": 1, "index": 442}
+{"time_start": 133080, "time_end": 133080, "time_sum": 120, "position_start": "6/16", "position_end": "6/16", "notes": [37, 44, 49, 61, 65, 68], "position_sum": 1, "index": 443}
+{"time_start": 133200, "time_end": 133320, "time_sum": 240, "position_start": "7/16", "position_end": "8/16", "notes": [37, 44, 49, 53, 61, 65, 68], "position_sum": 2, "index": 444}
+{"time_start": 133440, "time_end": 133560, "time_sum": 240, "position_start": "9/16", "position_end": "10/16", "notes": [37, 44, 49, 53, 56, 61, 65, 68], "position_sum": 2, "index": 445}
+{"time_start": 133680, "time_end": 134640, "time_sum": 1080, "position_start": "11/16", "position_end": "3/16", "notes": [37, 44, 49, 53, 56, 59, 61, 65, 68], "position_sum": 9, "index": 446}
+{"time_start": 134760, "time_end": 134880, "time_sum": 240, "position_start": "4/16", "position_end": "5/16", "notes": [37, 44, 49, 53, 56, 59, 61, 65, 68, 73], "position_sum": 2, "index": 447}
+{"time_start": 135000, "time_end": 135000, "time_sum": 120, "position_start": "6/16", "position_end": "6/16", "notes": [37, 44, 49, 53, 56, 59, 61, 73], "position_sum": 1, "index": 448}
+{"time_start": 135120, "time_end": 135120, "time_sum": 120, "position_start": "7/16", "position_end": "7/16", "notes": [73], "position_sum": 1, "index": 449}
+{"time_start": 135240, "time_end": 135480, "time_sum": 360, "position_start": "8/16", "position_end": "10/16", "notes": [42, 73], "position_sum": 3, "index": 450}
+{"time_start": 135600, "time_end": 135720, "time_sum": 240, "position_start": "11/16", "position_end": "12/16", "notes": [42, 49, 73], "position_sum": 2, "index": 451}
+{"time_start": 135840, "time_end": 135840, "time_sum": 120, "position_start": "13/16", "position_end": "13/16", "notes": [42, 49, 57, 73], "position_sum": 1, "index": 452}
+{"time_start": 135960, "time_end": 136080, "time_sum": 240, "position_start": "14/16", "position_end": "15/16", "notes": [42, 49, 57, 73, 78], "position_sum": 2, "index": 453}
+{"time_start": 136200, "time_end": 136200, "time_sum": 120, "position_start": "16/16", "position_end": "16/16", "notes": [42, 49, 57, 61, 73, 78], "position_sum": 1, "index": 454}
+{"time_start": 136320, "time_end": 136680, "time_sum": 480, "position_start": "1/16", "position_end": "4/16", "notes": [42, 49, 57, 61, 73, 76, 78], "position_sum": 4, "index": 455}
+{"time_start": 136800, "time_end": 136920, "time_sum": 240, "position_start": "5/16", "position_end": "6/16", "notes": [42, 49, 54, 57, 61, 73, 76, 78], "position_sum": 2, "index": 456}
+{"time_start": 137040, "time_end": 137640, "time_sum": 720, "position_start": "7/16", "position_end": "12/16", "notes": [42, 49, 54, 57, 61, 66, 73, 74, 76, 78], "position_sum": 6, "index": 457}
+{"time_start": 137760, "time_end": 137760, "time_sum": 120, "position_start": "13/16", "position_end": "13/16", "notes": [54, 64, 73, 74, 76], "position_sum": 1, "index": 458}
+{"time_start": 137880, "time_end": 137880, "time_sum": 120, "position_start": "14/16", "position_end": "14/16", "notes": [54, 64, 73, 74], "position_sum": 1, "index": 459}
+{"time_start": 138000, "time_end": 138240, "time_sum": 360, "position_start": "15/16", "position_end": "1/16", "notes": [54, 57, 64, 73, 74], "position_sum": 3, "index": 460}
+{"time_start": 138360, "time_end": 138840, "time_sum": 600, "position_start": "2/16", "position_end": "6/16", "notes": [54, 57, 62, 64, 71, 73, 74], "position_sum": 5, "index": 461}
+{"time_start": 138960, "time_end": 138960, "time_sum": 120, "position_start": "7/16", "position_end": "7/16", "notes": [47, 54, 57, 62, 64, 71, 73, 74], "position_sum": 1, "index": 462}
+{"time_start": 139080, "time_end": 139080, "time_sum": 120, "position_start": "8/16", "position_end": "8/16", "notes": [47, 74, 80], "position_sum": 1, "index": 463}
+{"time_start": 139200, "time_end": 139200, "time_sum": 120, "position_start": "9/16", "position_end": "9/16", "notes": [47, 54, 74, 80], "position_sum": 1, "index": 464}
+{"time_start": 139320, "time_end": 139320, "time_sum": 120, "position_start": "10/16", "position_end": "10/16", "notes": [47, 54, 74, 78, 80], "position_sum": 1, "index": 465}
+{"time_start": 139440, "time_end": 139560, "time_sum": 240, "position_start": "11/16", "position_end": "12/16", "notes": [47, 54, 57, 74, 78, 80], "position_sum": 2, "index": 466}
+{"time_start": 139680, "time_end": 140160, "time_sum": 600, "position_start": "13/16", "position_end": "1/16", "notes": [47, 54, 57, 62, 71, 74, 78, 80], "position_sum": 5, "index": 467}
+{"time_start": 140280, "time_end": 140280, "time_sum": 120, "position_start": "2/16", "position_end": "2/16", "notes": [47, 54, 57, 62, 69, 71, 74, 78, 80], "position_sum": 1, "index": 468}
+{"time_start": 140400, "time_end": 140400, "time_sum": 120, "position_start": "3/16", "position_end": "3/16", "notes": [54, 57, 61, 69, 71, 74, 78, 80], "position_sum": 1, "index": 469}
+{"time_start": 140520, "time_end": 140520, "time_sum": 120, "position_start": "4/16", "position_end": "4/16", "notes": [54, 57, 61, 69, 78], "position_sum": 1, "index": 470}
+{"time_start": 140640, "time_end": 140880, "time_sum": 360, "position_start": "5/16", "position_end": "7/16", "notes": [54, 57, 61, 69, 73, 78], "position_sum": 3, "index": 471}
+{"time_start": 141000, "time_end": 141000, "time_sum": 120, "position_start": "8/16", "position_end": "8/16", "notes": [49, 54, 61, 73, 78], "position_sum": 1, "index": 472}
+{"time_start": 141120, "time_end": 141120, "time_sum": 120, "position_start": "9/16", "position_end": "9/16", "notes": [49, 73, 78], "position_sum": 1, "index": 473}
+{"time_start": 141240, "time_end": 141240, "time_sum": 120, "position_start": "10/16", "position_end": "10/16", "notes": [49, 52, 73, 78], "position_sum": 1, "index": 474}
+{"time_start": 141360, "time_end": 141480, "time_sum": 240, "position_start": "11/16", "position_end": "12/16", "notes": [49, 52, 57, 73, 76, 78], "position_sum": 2, "index": 475}
+{"time_start": 141600, "time_end": 141720, "time_sum": 240, "position_start": "13/16", "position_end": "14/16", "notes": [49, 52, 57, 61, 69, 73, 76, 78], "position_sum": 2, "index": 476}
+{"time_start": 141840, "time_end": 141840, "time_sum": 120, "position_start": "15/16", "position_end": "15/16", "notes": [49, 52, 54, 57, 61, 69, 73, 76, 78], "position_sum": 1, "index": 477}
+{"time_start": 141960, "time_end": 141960, "time_sum": 120, "position_start": "16/16", "position_end": "16/16", "notes": [49, 50, 52, 54, 57, 61, 68, 69, 73, 76, 78], "position_sum": 1, "index": 478}
+{"time_start": 142080, "time_end": 142080, "time_sum": 120, "position_start": "1/16", "position_end": "1/16", "notes": [49, 50, 52, 54, 68, 69, 73, 76, 78], "position_sum": 1, "index": 479}
+{"time_start": 142200, "time_end": 142320, "time_sum": 240, "position_start": "2/16", "position_end": "3/16", "notes": [50, 59, 68, 76], "position_sum": 2, "index": 480}
+{"time_start": 142440, "time_end": 142440, "time_sum": 120, "position_start": "4/16", "position_end": "4/16", "notes": [50, 54, 59, 68, 76], "position_sum": 1, "index": 481}
+{"time_start": 142560, "time_end": 142560, "time_sum": 120, "position_start": "5/16", "position_end": "5/16", "notes": [50, 54, 59, 68, 74, 76], "position_sum": 1, "index": 482}
+{"time_start": 142680, "time_end": 142680, "time_sum": 120, "position_start": "6/16", "position_end": "6/16", "notes": [44, 50, 54, 59, 68, 74, 76], "position_sum": 1, "index": 483}
+{"time_start": 142800, "time_end": 142800, "time_sum": 120, "position_start": "7/16", "position_end": "7/16", "notes": [44, 49, 68, 74, 76], "position_sum": 1, "index": 484}
+{"time_start": 142920, "time_end": 142920, "time_sum": 120, "position_start": "8/16", "position_end": "8/16", "notes": [44, 49, 71, 74, 76], "position_sum": 1, "index": 485}
+{"time_start": 143040, "time_end": 143040, "time_sum": 120, "position_start": "9/16", "position_end": "9/16", "notes": [44, 49, 53, 71, 74, 76], "position_sum": 1, "index": 486}
+{"time_start": 143160, "time_end": 143160, "time_sum": 120, "position_start": "10/16", "position_end": "10/16", "notes": [44, 49, 53, 68, 71, 74, 76], "position_sum": 1, "index": 487}
+{"time_start": 143280, "time_end": 143400, "time_sum": 240, "position_start": "11/16", "position_end": "12/16", "notes": [44, 49, 53, 59, 68, 71, 74, 76], "position_sum": 2, "index": 488}
+{"time_start": 143520, "time_end": 143520, "time_sum": 120, "position_start": "13/16", "position_end": "13/16", "notes": [42, 44, 69, 71, 73, 76], "position_sum": 1, "index": 489}
+{"time_start": 143640, "time_end": 143640, "time_sum": 120, "position_start": "14/16", "position_end": "14/16", "notes": [42, 69, 73, 76], "position_sum": 1, "index": 490}
+{"time_start": 143760, "time_end": 143880, "time_sum": 240, "position_start": "15/16", "position_end": "16/16", "notes": [42, 57, 69, 73, 76], "position_sum": 2, "index": 491}
+{"time_start": 144000, "time_end": 144000, "time_sum": 120, "position_start": "1/16", "position_end": "1/16", "notes": [42, 57, 69, 73, 76, 81], "position_sum": 1, "index": 492}
+{"time_start": 144120, "time_end": 144240, "time_sum": 240, "position_start": "2/16", "position_end": "3/16", "notes": [42, 54, 57, 69, 73, 76, 81], "position_sum": 2, "index": 493}
+{"time_start": 144360, "time_end": 144960, "time_sum": 720, "position_start": "4/16", "position_end": "9/16", "notes": [42, 54, 57, 61, 69, 73, 76, 80, 81], "position_sum": 6, "index": 494}
+{"time_start": 145080, "time_end": 145680, "time_sum": 720, "position_start": "10/16", "position_end": "15/16", "notes": [42, 54, 57, 61, 69, 73, 76, 78, 80, 81], "position_sum": 6, "index": 495}
+{"time_start": 145800, "time_end": 145800, "time_sum": 120, "position_start": "16/16", "position_end": "16/16", "notes": [38, 42, 57, 61, 68, 69, 76, 78, 80, 81], "position_sum": 1, "index": 496}
+{"time_start": 145920, "time_end": 145920, "time_sum": 120, "position_start": "1/16", "position_end": "1/16", "notes": [38, 68, 76], "position_sum": 1, "index": 497}
+{"time_start": 146040, "time_end": 146040, "time_sum": 120, "position_start": "2/16", "position_end": "2/16", "notes": [38, 45, 68, 76], "position_sum": 1, "index": 498}
+{"time_start": 146160, "time_end": 146280, "time_sum": 240, "position_start": "3/16", "position_end": "4/16", "notes": [38, 45, 50, 68, 76], "position_sum": 2, "index": 499}
+{"time_start": 146400, "time_end": 146400, "time_sum": 120, "position_start": "5/16", "position_end": "5/16", "notes": [38, 45, 50, 54, 68, 69, 76], "position_sum": 1, "index": 500}
+{"time_start": 146520, "time_end": 146520, "time_sum": 120, "position_start": "6/16", "position_end": "6/16", "notes": [38, 45, 50, 54, 66, 68, 69, 76], "position_sum": 1, "index": 501}
+{"time_start": 146640, "time_end": 146640, "time_sum": 120, "position_start": "7/16", "position_end": "7/16", "notes": [38, 45, 50, 54, 57, 66, 68, 69, 76], "position_sum": 1, "index": 502}
+{"time_start": 146760, "time_end": 147000, "time_sum": 360, "position_start": "8/16", "position_end": "10/16", "notes": [38, 45, 50, 54, 57, 66, 68, 69, 73, 76], "position_sum": 3, "index": 503}
+{"time_start": 147120, "time_end": 147120, "time_sum": 120, "position_start": "11/16", "position_end": "11/16", "notes": [38, 42, 45, 50, 66, 68, 69, 73, 76], "position_sum": 1, "index": 504}
+{"time_start": 147240, "time_end": 147240, "time_sum": 120, "position_start": "12/16", "position_end": "12/16", "notes": [42, 66, 69, 76], "position_sum": 1, "index": 505}
+{"time_start": 147360, "time_end": 147360, "time_sum": 120, "position_start": "13/16", "position_end": "13/16", "notes": [42, 50, 66, 69, 76], "position_sum": 1, "index": 506}
+{"time_start": 147480, "time_end": 147720, "time_sum": 360, "position_start": "14/16", "position_end": "16/16", "notes": [42, 50, 66, 69, 74, 76], "position_sum": 3, "index": 507}
+{"time_start": 147840, "time_end": 147840, "time_sum": 120, "position_start": "1/16", "position_end": "1/16", "notes": [42, 44, 50, 64, 66, 73, 74, 76], "position_sum": 1, "index": 508}
+{"time_start": 147960, "time_end": 147960, "time_sum": 120, "position_start": "2/16", "position_end": "2/16", "notes": [44, 64, 73], "position_sum": 1, "index": 509}
+{"time_start": 148080, "time_end": 148200, "time_sum": 240, "position_start": "3/16", "position_end": "4/16", "notes": [44, 52, 64, 73], "position_sum": 2, "index": 510}
+{"time_start": 148320, "time_end": 148440, "time_sum": 240, "position_start": "5/16", "position_end": "6/16", "notes": [44, 52, 56, 64, 73], "position_sum": 2, "index": 511}
+{"time_start": 148560, "time_end": 148560, "time_sum": 120, "position_start": "7/16", "position_end": "7/16", "notes": [44, 52, 56, 64, 66, 73], "position_sum": 1, "index": 512}
+{"time_start": 148680, "time_end": 148800, "time_sum": 240, "position_start": "8/16", "position_end": "9/16", "notes": [44, 63, 66], "position_sum": 2, "index": 513}
+{"time_start": 148920, "time_end": 148920, "time_sum": 120, "position_start": "10/16", "position_end": "10/16", "notes": [44, 51, 63, 66], "position_sum": 1, "index": 514}
+{"time_start": 149040, "time_end": 149280, "time_sum": 360, "position_start": "11/16", "position_end": "13/16", "notes": [44, 51, 54, 63, 66, 68], "position_sum": 3, "index": 515}
+{"time_start": 149400, "time_end": 150120, "time_sum": 840, "position_start": "14/16", "position_end": "4/16", "notes": [44, 51, 54, 60, 63, 66, 68, 69], "position_sum": 7, "index": 516}
+{"time_start": 150240, "time_end": 150240, "time_sum": 120, "position_start": "5/16", "position_end": "5/16", "notes": [37, 51, 54, 60, 61, 63, 65, 68, 69], "position_sum": 1, "index": 517}
+{"time_start": 150360, "time_end": 150360, "time_sum": 120, "position_start": "6/16", "position_end": "6/16", "notes": [37, 61, 65], "position_sum": 1, "index": 518}
+{"time_start": 150480, "time_end": 150600, "time_sum": 240, "position_start": "7/16", "position_end": "8/16", "notes": [37, 44, 61, 65], "position_sum": 2, "index": 519}
+{"time_start": 150720, "time_end": 150840, "time_sum": 240, "position_start": "9/16", "position_end": "10/16", "notes": [37, 44, 49, 61, 65], "position_sum": 2, "index": 520}
+{"time_start": 150960, "time_end": 151080, "time_sum": 240, "position_start": "11/16", "position_end": "12/16", "notes": [37, 44, 49, 53, 61, 65, 68], "position_sum": 2, "index": 521}
+{"time_start": 151200, "time_end": 151320, "time_sum": 240, "position_start": "13/16", "position_end": "14/16", "notes": [37, 44, 49, 53, 56, 61, 65, 68], "position_sum": 2, "index": 522}
+{"time_start": 151440, "time_end": 152880, "time_sum": 1560, "position_start": "15/16", "position_end": "11/16", "notes": [37, 44, 49, 53, 56, 59, 61, 65, 68], "position_sum": 13, "index": 523}
+{"time_start": 153000, "time_end": 153480, "time_sum": 600, "position_start": "12/16", "position_end": "16/16", "notes": [37, 44, 49, 53, 56, 59, 61, 65, 68, 73], "position_sum": 5, "index": 524}
+{"time_start": 153600, "time_end": 153600, "time_sum": 120, "position_start": "1/16", "position_end": "1/16", "notes": [37, 42, 44, 49, 53, 56, 59, 61, 65, 68, 73], "position_sum": 1, "index": 525}
+{"time_start": 153720, "time_end": 153720, "time_sum": 120, "position_start": "2/16", "position_end": "2/16", "notes": [37, 42, 73], "position_sum": 1, "index": 526}
+{"time_start": 153840, "time_end": 154080, "time_sum": 360, "position_start": "3/16", "position_end": "5/16", "notes": [42, 73], "position_sum": 3, "index": 527}
+{"time_start": 154200, "time_end": 154680, "time_sum": 600, "position_start": "6/16", "position_end": "10/16", "notes": [42, 58, 66, 70, 73], "position_sum": 5, "index": 528}
+{"time_start": 154800, "time_end": 155160, "time_sum": 480, "position_start": "11/16", "position_end": "14/16", "notes": [42, 58, 66, 70, 73, 78], "position_sum": 4, "index": 529}
+{"time_start": 155280, "time_end": 155280, "time_sum": 120, "position_start": "15/16", "position_end": "15/16", "notes": [42, 58, 65, 66, 70, 73, 77, 78], "position_sum": 1, "index": 530}
+{"time_start": 155400, "time_end": 155400, "time_sum": 120, "position_start": "16/16", "position_end": "16/16", "notes": [49, 58, 65, 70, 77, 78], "position_sum": 1, "index": 531}
+{"time_start": 155520, "time_end": 156120, "time_sum": 720, "position_start": "1/16", "position_end": "6/16", "notes": [49, 58, 65, 70, 77], "position_sum": 6, "index": 532}
+{"time_start": 156240, "time_end": 156240, "time_sum": 120, "position_start": "7/16", "position_end": "7/16", "notes": [49, 58, 65, 70, 75, 77], "position_sum": 1, "index": 533}
+{"time_start": 156360, "time_end": 156360, "time_sum": 120, "position_start": "8/16", "position_end": "8/16", "notes": [49, 54, 58, 63, 70, 75], "position_sum": 1, "index": 534}
+{"time_start": 156480, "time_end": 157080, "time_sum": 720, "position_start": "9/16", "position_end": "14/16", "notes": [54, 58, 63, 70, 75], "position_sum": 6, "index": 535}
+{"time_start": 157200, "time_end": 157200, "time_sum": 120, "position_start": "15/16", "position_end": "15/16", "notes": [54, 58, 61, 63, 65, 70, 73, 75], "position_sum": 1, "index": 536}
+{"time_start": 157320, "time_end": 158040, "time_sum": 840, "position_start": "16/16", "position_end": "6/16", "notes": [53, 58, 61, 65, 70, 73], "position_sum": 7, "index": 537}
+{"time_start": 158160, "time_end": 158160, "time_sum": 120, "position_start": "7/16", "position_end": "7/16", "notes": [51, 53, 58, 61, 63, 65, 66, 70, 73, 78], "position_sum": 1, "index": 538}
+{"time_start": 158280, "time_end": 158280, "time_sum": 120, "position_start": "8/16", "position_end": "8/16", "notes": [51, 53, 58, 63, 66, 70, 78], "position_sum": 1, "index": 539}
+{"time_start": 158400, "time_end": 158880, "time_sum": 600, "position_start": "9/16", "position_end": "13/16", "notes": [51, 58, 63, 66, 70, 78], "position_sum": 5, "index": 540}
+{"time_start": 159000, "time_end": 159000, "time_sum": 120, "position_start": "14/16", "position_end": "14/16", "notes": [51, 58, 63, 66, 70, 77, 78], "position_sum": 1, "index": 541}
+{"time_start": 159120, "time_end": 159120, "time_sum": 120, "position_start": "15/16", "position_end": "15/16", "notes": [49, 58, 61, 65, 70, 77, 78], "position_sum": 1, "index": 542}
+{"time_start": 159240, "time_end": 159840, "time_sum": 720, "position_start": "16/16", "position_end": "5/16", "notes": [49, 58, 61, 65, 70, 77], "position_sum": 6, "index": 543}
+{"time_start": 159960, "time_end": 159960, "time_sum": 120, "position_start": "6/16", "position_end": "6/16", "notes": [49, 54, 58, 61, 63, 65, 70, 75, 77], "position_sum": 1, "index": 544}
+{"time_start": 160080, "time_end": 160800, "time_sum": 840, "position_start": "7/16", "position_end": "13/16", "notes": [54, 58, 63, 70, 75], "position_sum": 7, "index": 545}
+{"time_start": 160920, "time_end": 160920, "time_sum": 120, "position_start": "14/16", "position_end": "14/16", "notes": [53, 54, 58, 61, 65, 70, 73, 75], "position_sum": 1, "index": 546}
+{"time_start": 161040, "time_end": 161760, "time_sum": 840, "position_start": "15/16", "position_end": "5/16", "notes": [53, 58, 61, 65, 70, 73], "position_sum": 7, "index": 547}
+{"time_start": 161880, "time_end": 161880, "time_sum": 120, "position_start": "6/16", "position_end": "6/16", "notes": [53, 58, 61, 65, 70, 72, 73], "position_sum": 1, "index": 548}
+{"time_start": 162000, "time_end": 162000, "time_sum": 120, "position_start": "7/16", "position_end": "7/16", "notes": [51, 53, 54, 58, 65, 66, 70, 72, 73], "position_sum": 1, "index": 549}
+{"time_start": 162120, "time_end": 162720, "time_sum": 720, "position_start": "8/16", "position_end": "13/16", "notes": [51, 54, 58, 66, 70, 72], "position_sum": 6, "index": 550}
+{"time_start": 162840, "time_end": 162840, "time_sum": 120, "position_start": "14/16", "position_end": "14/16", "notes": [51, 54, 58, 66, 69, 70, 72], "position_sum": 1, "index": 551}
+{"time_start": 162960, "time_end": 162960, "time_sum": 120, "position_start": "15/16", "position_end": "15/16", "notes": [51, 53, 54, 57, 58, 60, 65, 69, 70], "position_sum": 1, "index": 552}
+{"time_start": 163080, "time_end": 163800, "time_sum": 840, "position_start": "16/16", "position_end": "6/16", "notes": [53, 57, 60, 65, 69], "position_sum": 7, "index": 553}
+{"time_start": 163920, "time_end": 163920, "time_sum": 120, "position_start": "7/16", "position_end": "7/16", "notes": [46, 53, 57, 58, 60, 61, 65, 69, 70, 73], "position_sum": 1, "index": 554}
+{"time_start": 164040, "time_end": 164400, "time_sum": 480, "position_start": "8/16", "position_end": "11/16", "notes": [46, 53, 58, 61, 70, 73], "position_sum": 4, "index": 555}
+{"time_start": 164520, "time_end": 164760, "time_sum": 360, "position_start": "12/16", "position_end": "14/16", "notes": [46, 53, 58, 61, 65, 70, 73], "position_sum": 3, "index": 556}
+{"time_start": 164880, "time_end": 165240, "time_sum": 480, "position_start": "15/16", "position_end": "2/16", "notes": [46, 49, 53, 58, 59, 61, 65, 70, 73], "position_sum": 4, "index": 557}
+{"time_start": 165360, "time_end": 165360, "time_sum": 120, "position_start": "3/16", "position_end": "3/16", "notes": [46, 49, 53, 58, 59, 61, 65, 68, 70, 73], "position_sum": 1, "index": 558}
+{"time_start": 165480, "time_end": 165480, "time_sum": 120, "position_start": "4/16", "position_end": "4/16", "notes": [42, 46, 49, 53, 58, 59, 61, 65, 68, 70, 73], "position_sum": 1, "index": 559}
+{"time_start": 165600, "time_end": 165840, "time_sum": 360, "position_start": "5/16", "position_end": "7/16", "notes": [42, 70], "position_sum": 3, "index": 560}
+{"time_start": 165960, "time_end": 165960, "time_sum": 120, "position_start": "8/16", "position_end": "8/16", "notes": [42, 66, 70], "position_sum": 1, "index": 561}
+{"time_start": 166080, "time_end": 166200, "time_sum": 240, "position_start": "9/16", "position_end": "10/16", "notes": [42, 58, 66, 70], "position_sum": 2, "index": 562}
+{"time_start": 166320, "time_end": 166800, "time_sum": 600, "position_start": "11/16", "position_end": "15/16", "notes": [42, 58, 66, 70, 78], "position_sum": 5, "index": 563}
+{"time_start": 166920, "time_end": 166920, "time_sum": 120, "position_start": "16/16", "position_end": "16/16", "notes": [42, 49, 58, 61, 65, 66, 70, 77], "position_sum": 1, "index": 564}
+{"time_start": 167040, "time_end": 167760, "time_sum": 840, "position_start": "1/16", "position_end": "7/16", "notes": [49, 58, 61, 65, 70, 77], "position_sum": 7, "index": 565}
+{"time_start": 167880, "time_end": 167880, "time_sum": 120, "position_start": "8/16", "position_end": "8/16", "notes": [49, 54, 57, 58, 61, 63, 65, 69, 70, 75, 77], "position_sum": 1, "index": 566}
+{"time_start": 168000, "time_end": 168720, "time_sum": 840, "position_start": "9/16", "position_end": "15/16", "notes": [54, 57, 63, 69, 75], "position_sum": 7, "index": 567}
+{"time_start": 168840, "time_end": 168840, "time_sum": 120, "position_start": "16/16", "position_end": "16/16", "notes": [53, 54, 56, 57, 61, 63, 65, 68, 69, 73, 75], "position_sum": 1, "index": 568}
+{"time_start": 168960, "time_end": 169800, "time_sum": 960, "position_start": "1/16", "position_end": "8/16", "notes": [53, 56, 61, 65, 68, 73], "position_sum": 8, "index": 569}
+{"time_start": 169920, "time_end": 170760, "time_sum": 960, "position_start": "9/16", "position_end": "16/16", "notes": [51, 56, 63, 66, 72, 78], "position_sum": 8, "index": 570}
+{"time_start": 170880, "time_end": 170880, "time_sum": 120, "position_start": "1/16", "position_end": "1/16", "notes": [56, 61, 63, 65, 68, 72, 77, 78], "position_sum": 1, "index": 571}
+{"time_start": 171000, "time_end": 171720, "time_sum": 840, "position_start": "2/16", "position_end": "8/16", "notes": [56, 61, 65, 68, 77], "position_sum": 7, "index": 572}
+{"time_start": 171840, "time_end": 171840, "time_sum": 120, "position_start": "9/16", "position_end": "9/16", "notes": [56, 59, 61, 63, 65, 68, 71, 75, 77], "position_sum": 1, "index": 573}
+{"time_start": 171960, "time_end": 171960, "time_sum": 120, "position_start": "10/16", "position_end": "10/16", "notes": [54, 56, 59, 63, 68, 71, 75, 77], "position_sum": 1, "index": 574}
+{"time_start": 172080, "time_end": 172800, "time_sum": 840, "position_start": "11/16", "position_end": "1/16", "notes": [54, 56, 59, 63, 71, 75], "position_sum": 7, "index": 575}
+{"time_start": 172920, "time_end": 172920, "time_sum": 120, "position_start": "2/16", "position_end": "2/16", "notes": [53, 54, 56, 59, 61, 68, 71, 73, 75], "position_sum": 1, "index": 576}
+{"time_start": 173040, "time_end": 173760, "time_sum": 840, "position_start": "3/16", "position_end": "9/16", "notes": [53, 56, 59, 61, 68, 71, 73], "position_sum": 7, "index": 577}
+{"time_start": 173880, "time_end": 173880, "time_sum": 120, "position_start": "10/16", "position_end": "10/16", "notes": [53, 56, 59, 61, 63, 68, 71, 73], "position_sum": 1, "index": 578}
+{"time_start": 174000, "time_end": 174000, "time_sum": 120, "position_start": "11/16", "position_end": "11/16", "notes": [51, 54, 59, 61, 63, 66, 71, 73], "position_sum": 1, "index": 579}
+{"time_start": 174120, "time_end": 174840, "time_sum": 840, "position_start": "12/16", "position_end": "2/16", "notes": [51, 54, 61, 63, 66, 71], "position_sum": 7, "index": 580}
+{"time_start": 174960, "time_end": 174960, "time_sum": 120, "position_start": "3/16", "position_end": "3/16", "notes": [51, 54, 61, 63, 66, 70, 71], "position_sum": 1, "index": 581}
+{"time_start": 175080, "time_end": 175080, "time_sum": 120, "position_start": "4/16", "position_end": "4/16", "notes": [49, 51, 54, 61, 66, 70], "position_sum": 1, "index": 582}
+{"time_start": 175200, "time_end": 176160, "time_sum": 1080, "position_start": "5/16", "position_end": "13/16", "notes": [49, 54, 61, 66, 70], "position_sum": 9, "index": 583}
+{"time_start": 176280, "time_end": 176280, "time_sum": 120, "position_start": "14/16", "position_end": "14/16", "notes": [49, 54, 61, 66, 70, 73], "position_sum": 1, "index": 584}
+{"time_start": 176400, "time_end": 176400, "time_sum": 120, "position_start": "15/16", "position_end": "15/16", "notes": [49, 53, 54, 56, 59, 61, 68, 73], "position_sum": 1, "index": 585}
+{"time_start": 176520, "time_end": 179400, "time_sum": 3000, "position_start": "16/16", "position_end": "8/16", "notes": [49, 53, 56, 59, 61, 68, 73], "position_sum": 25, "index": 586}
+{"time_start": 179520, "time_end": 179520, "time_sum": 120, "position_start": "9/16", "position_end": "9/16", "notes": [42, 49, 53, 59, 61, 68], "position_sum": 1, "index": 587}
+{"time_start": 179640, "time_end": 179760, "time_sum": 240, "position_start": "10/16", "position_end": "11/16", "notes": [42, 61], "position_sum": 2, "index": 588}
+{"time_start": 179880, "time_end": 180000, "time_sum": 240, "position_start": "12/16", "position_end": "13/16", "notes": [42, 49, 61], "position_sum": 2, "index": 589}
+{"time_start": 180120, "time_end": 180120, "time_sum": 120, "position_start": "14/16", "position_end": "14/16", "notes": [42, 49, 57, 61], "position_sum": 1, "index": 590}
+{"time_start": 180240, "time_end": 180360, "time_sum": 240, "position_start": "15/16", "position_end": "16/16", "notes": [42, 49, 57, 61, 66], "position_sum": 2, "index": 591}
+{"time_start": 180480, "time_end": 180480, "time_sum": 120, "position_start": "1/16", "position_end": "1/16", "notes": [42, 49, 57, 61, 64, 66], "position_sum": 1, "index": 592}
+{"time_start": 180600, "time_end": 180960, "time_sum": 480, "position_start": "2/16", "position_end": "5/16", "notes": [42, 49, 57, 61, 64, 66, 73], "position_sum": 4, "index": 593}
+{"time_start": 181080, "time_end": 181200, "time_sum": 240, "position_start": "6/16", "position_end": "7/16", "notes": [42, 49, 54, 57, 61, 64, 66, 73], "position_sum": 2, "index": 594}
+{"time_start": 181320, "time_end": 181920, "time_sum": 720, "position_start": "8/16", "position_end": "13/16", "notes": [42, 49, 54, 57, 61, 62, 64, 66, 73, 78], "position_sum": 6, "index": 595}
+{"time_start": 182040, "time_end": 182040, "time_sum": 120, "position_start": "14/16", "position_end": "14/16", "notes": [54, 57, 61, 73, 76, 78], "position_sum": 1, "index": 596}
+{"time_start": 182160, "time_end": 182160, "time_sum": 120, "position_start": "15/16", "position_end": "15/16", "notes": [54, 61, 76], "position_sum": 1, "index": 597}
+{"time_start": 182280, "time_end": 182520, "time_sum": 360, "position_start": "16/16", "position_end": "2/16", "notes": [54, 57, 61, 76], "position_sum": 3, "index": 598}
+{"time_start": 182640, "time_end": 182640, "time_sum": 120, "position_start": "3/16", "position_end": "3/16", "notes": [54, 57, 59, 61, 74, 76], "position_sum": 1, "index": 599}
+{"time_start": 182760, "time_end": 182760, "time_sum": 120, "position_start": "4/16", "position_end": "4/16", "notes": [59, 74], "position_sum": 1, "index": 600}
+{"time_start": 182880, "time_end": 182880, "time_sum": 120, "position_start": "5/16", "position_end": "5/16", "notes": [54, 59, 74], "position_sum": 1, "index": 601}
+{"time_start": 183000, "time_end": 183000, "time_sum": 120, "position_start": "6/16", "position_end": "6/16", "notes": [54, 59, 62, 74], "position_sum": 1, "index": 602}
+{"time_start": 183120, "time_end": 183240, "time_sum": 240, "position_start": "7/16", "position_end": "8/16", "notes": [47, 54, 59, 62, 74], "position_sum": 2, "index": 603}
+{"time_start": 183360, "time_end": 183360, "time_sum": 120, "position_start": "9/16", "position_end": "9/16", "notes": [35, 47, 62, 69, 74], "position_sum": 1, "index": 604}
+{"time_start": 183480, "time_end": 183480, "time_sum": 120, "position_start": "10/16", "position_end": "10/16", "notes": [35, 69, 74], "position_sum": 1, "index": 605}
+{"time_start": 183600, "time_end": 183600, "time_sum": 120, "position_start": "11/16", "position_end": "11/16", "notes": [35, 47, 68, 69, 74], "position_sum": 1, "index": 606}
+{"time_start": 183720, "time_end": 183960, "time_sum": 360, "position_start": "12/16", "position_end": "14/16", "notes": [35, 47, 50, 68, 69, 74], "position_sum": 3, "index": 607}
+{"time_start": 184080, "time_end": 184080, "time_sum": 120, "position_start": "15/16", "position_end": "15/16", "notes": [35, 47, 50, 59, 68, 69, 74], "position_sum": 1, "index": 608}
+{"time_start": 184200, "time_end": 184560, "time_sum": 480, "position_start": "16/16", "position_end": "3/16", "notes": [35, 47, 50, 54, 59, 68, 69, 74], "position_sum": 4, "index": 609}
+{"time_start": 184680, "time_end": 184680, "time_sum": 120, "position_start": "4/16", "position_end": "4/16", "notes": [35, 47, 50, 57, 59, 69, 73, 74], "position_sum": 1, "index": 610}
+{"time_start": 184800, "time_end": 184800, "time_sum": 120, "position_start": "5/16", "position_end": "5/16", "notes": [50, 57, 73], "position_sum": 1, "index": 611}
+{"time_start": 184920, "time_end": 184920, "time_sum": 120, "position_start": "6/16", "position_end": "6/16", "notes": [50, 54, 57, 73], "position_sum": 1, "index": 612}
+{"time_start": 185040, "time_end": 185040, "time_sum": 120, "position_start": "7/16", "position_end": "7/16", "notes": [50, 54, 57, 61, 73], "position_sum": 1, "index": 613}
+{"time_start": 185160, "time_end": 185160, "time_sum": 120, "position_start": "8/16", "position_end": "8/16", "notes": [45, 50, 54, 57, 61, 73], "position_sum": 1, "index": 614}
+{"time_start": 185280, "time_end": 185280, "time_sum": 120, "position_start": "9/16", "position_end": "9/16", "notes": [33, 45, 50, 54, 57, 61, 68, 73], "position_sum": 1, "index": 615}
+{"time_start": 185400, "time_end": 185400, "time_sum": 120, "position_start": "10/16", "position_end": "10/16", "notes": [33, 68, 73], "position_sum": 1, "index": 616}
+{"time_start": 185520, "time_end": 185520, "time_sum": 120, "position_start": "11/16", "position_end": "11/16", "notes": [33, 45, 68, 73], "position_sum": 1, "index": 617}
+{"time_start": 185640, "time_end": 185640, "time_sum": 120, "position_start": "12/16", "position_end": "12/16", "notes": [33, 45, 66, 68, 73], "position_sum": 1, "index": 618}
+{"time_start": 185760, "time_end": 185880, "time_sum": 240, "position_start": "13/16", "position_end": "14/16", "notes": [33, 45, 49, 66, 68, 73], "position_sum": 2, "index": 619}
+{"time_start": 186000, "time_end": 186120, "time_sum": 240, "position_start": "15/16", "position_end": "16/16", "notes": [33, 45, 47, 49, 54, 57, 66, 68, 73], "position_sum": 2, "index": 620}
+{"time_start": 186240, "time_end": 186360, "time_sum": 240, "position_start": "1/16", "position_end": "2/16", "notes": [33, 45, 47, 49, 54, 56, 57, 66, 68, 73], "position_sum": 2, "index": 621}
+{"time_start": 186480, "time_end": 186480, "time_sum": 120, "position_start": "3/16", "position_end": "3/16", "notes": [44, 45, 47, 49, 54, 56, 57, 64, 66, 71, 73], "position_sum": 1, "index": 622}
+{"time_start": 186600, "time_end": 186600, "time_sum": 120, "position_start": "4/16", "position_end": "4/16", "notes": [44, 64, 71], "position_sum": 1, "index": 623}
+{"time_start": 186720, "time_end": 186720, "time_sum": 120, "position_start": "5/16", "position_end": "5/16", "notes": [44, 59, 64, 71], "position_sum": 1, "index": 624}
+{"time_start": 186840, "time_end": 186960, "time_sum": 240, "position_start": "6/16", "position_end": "7/16", "notes": [44, 54, 59, 62, 64, 71], "position_sum": 2, "index": 625}
+{"time_start": 187080, "time_end": 187080, "time_sum": 120, "position_start": "8/16", "position_end": "8/16", "notes": [37, 44, 59, 62, 64, 71], "position_sum": 1, "index": 626}
+{"time_start": 187200, "time_end": 187200, "time_sum": 120, "position_start": "9/16", "position_end": "9/16", "notes": [37, 59, 71], "position_sum": 1, "index": 627}
+{"time_start": 187320, "time_end": 187320, "time_sum": 120, "position_start": "10/16", "position_end": "10/16", "notes": [37, 53, 59, 71], "position_sum": 1, "index": 628}
+{"time_start": 187440, "time_end": 187440, "time_sum": 120, "position_start": "11/16", "position_end": "11/16", "notes": [37, 53, 56, 59, 71], "position_sum": 1, "index": 629}
+{"time_start": 187560, "time_end": 187800, "time_sum": 360, "position_start": "12/16", "position_end": "14/16", "notes": [37, 47, 53, 56, 59, 71], "position_sum": 3, "index": 630}
+{"time_start": 187920, "time_end": 187920, "time_sum": 120, "position_start": "15/16", "position_end": "15/16", "notes": [30, 42, 71, 73], "position_sum": 1, "index": 631}
+{"time_start": 188040, "time_end": 188160, "time_sum": 240, "position_start": "16/16", "position_end": "1/16", "notes": [42, 73], "position_sum": 2, "index": 632}
+{"time_start": 188280, "time_end": 188400, "time_sum": 240, "position_start": "2/16", "position_end": "3/16", "notes": [42, 49, 73, 85], "position_sum": 2, "index": 633}
+{"time_start": 188520, "time_end": 188640, "time_sum": 240, "position_start": "4/16", "position_end": "5/16", "notes": [42, 49, 57, 73, 85], "position_sum": 2, "index": 634}
+{"time_start": 188760, "time_end": 188880, "time_sum": 240, "position_start": "6/16", "position_end": "7/16", "notes": [42, 49, 57, 61, 73, 83, 85], "position_sum": 2, "index": 635}
+{"time_start": 189000, "time_end": 189000, "time_sum": 120, "position_start": "8/16", "position_end": "8/16", "notes": [42, 49, 57, 61, 73, 81, 83, 85], "position_sum": 1, "index": 636}
+{"time_start": 189120, "time_end": 189240, "time_sum": 240, "position_start": "9/16", "position_end": "10/16", "notes": [42, 49, 54, 57, 61, 73, 81, 83, 85], "position_sum": 2, "index": 637}
+{"time_start": 189360, "time_end": 189600, "time_sum": 360, "position_start": "11/16", "position_end": "13/16", "notes": [42, 49, 54, 57, 61, 71, 73, 80, 81, 83, 85], "position_sum": 3, "index": 638}
+{"time_start": 189720, "time_end": 189960, "time_sum": 360, "position_start": "14/16", "position_end": "16/16", "notes": [42, 49, 54, 57, 61, 69, 71, 73, 78, 80, 81, 83, 85], "position_sum": 3, "index": 639}
+{"time_start": 190080, "time_end": 190080, "time_sum": 120, "position_start": "1/16", "position_end": "1/16", "notes": [38, 42, 49, 68, 76, 78], "position_sum": 1, "index": 640}
+{"time_start": 190200, "time_end": 190200, "time_sum": 120, "position_start": "2/16", "position_end": "2/16", "notes": [38, 68, 76], "position_sum": 1, "index": 641}
+{"time_start": 190320, "time_end": 190320, "time_sum": 120, "position_start": "3/16", "position_end": "3/16", "notes": [38, 45, 68, 76], "position_sum": 1, "index": 642}
+{"time_start": 190440, "time_end": 190560, "time_sum": 240, "position_start": "4/16", "position_end": "5/16", "notes": [38, 45, 50, 68, 76], "position_sum": 2, "index": 643}
+{"time_start": 190680, "time_end": 190800, "time_sum": 240, "position_start": "6/16", "position_end": "7/16", "notes": [38, 45, 50, 54, 66, 68, 69, 76], "position_sum": 2, "index": 644}
+{"time_start": 190920, "time_end": 190920, "time_sum": 120, "position_start": "8/16", "position_end": "8/16", "notes": [38, 45, 50, 54, 57, 66, 68, 69, 76], "position_sum": 1, "index": 645}
+{"time_start": 191040, "time_end": 191400, "time_sum": 480, "position_start": "9/16", "position_end": "12/16", "notes": [38, 45, 50, 54, 57, 66, 68, 69, 73, 76], "position_sum": 4, "index": 646}
+{"time_start": 191520, "time_end": 191520, "time_sum": 120, "position_start": "13/16", "position_end": "13/16", "notes": [38, 45, 50, 54, 57, 58, 66, 68, 69, 73, 76], "position_sum": 1, "index": 647}
+{"time_start": 191640, "time_end": 191880, "time_sum": 360, "position_start": "14/16", "position_end": "16/16", "notes": [38, 45, 50, 54, 57, 58, 66, 68, 69, 73, 74, 76], "position_sum": 3, "index": 648}
+{"time_start": 192000, "time_end": 192000, "time_sum": 120, "position_start": "1/16", "position_end": "1/16", "notes": [35, 38, 45, 50, 57, 58, 62, 64, 66, 68, 69, 73, 74], "position_sum": 1, "index": 649}
+{"time_start": 192120, "time_end": 192120, "time_sum": 120, "position_start": "2/16", "position_end": "2/16", "notes": [35, 62, 64, 73], "position_sum": 1, "index": 650}
+{"time_start": 192240, "time_end": 192240, "time_sum": 120, "position_start": "3/16", "position_end": "3/16", "notes": [35, 42, 62, 64, 73], "position_sum": 1, "index": 651}
+{"time_start": 192360, "time_end": 192480, "time_sum": 240, "position_start": "4/16", "position_end": "5/16", "notes": [35, 42, 47, 62, 64, 73], "position_sum": 2, "index": 652}
+{"time_start": 192600, "time_end": 192600, "time_sum": 120, "position_start": "6/16", "position_end": "6/16", "notes": [35, 42, 47, 62, 64, 66, 73], "position_sum": 1, "index": 653}
+{"time_start": 192720, "time_end": 192720, "time_sum": 120, "position_start": "7/16", "position_end": "7/16", "notes": [35, 42, 47, 50, 62, 64, 66, 73], "position_sum": 1, "index": 654}
+{"time_start": 192840, "time_end": 192840, "time_sum": 120, "position_start": "8/16", "position_end": "8/16", "notes": [35, 42, 47, 50, 54, 62, 64, 66, 73], "position_sum": 1, "index": 655}
+{"time_start": 192960, "time_end": 193440, "time_sum": 600, "position_start": "9/16", "position_end": "13/16", "notes": [35, 42, 47, 50, 54, 62, 64, 66, 70, 73], "position_sum": 5, "index": 656}
+{"time_start": 193560, "time_end": 193800, "time_sum": 360, "position_start": "14/16", "position_end": "16/16", "notes": [35, 42, 47, 50, 54, 55, 62, 64, 66, 70, 71, 73], "position_sum": 3, "index": 657}
+{"time_start": 193920, "time_end": 193920, "time_sum": 120, "position_start": "1/16", "position_end": "1/16", "notes": [35, 37, 42, 47, 50, 54, 55, 62, 64, 66, 69, 70, 71, 73], "position_sum": 1, "index": 658}
+{"time_start": 194040, "time_end": 194040, "time_sum": 120, "position_start": "2/16", "position_end": "2/16", "notes": [35, 37, 42, 50, 55, 61, 62, 64, 69, 73], "position_sum": 1, "index": 659}
+{"time_start": 194160, "time_end": 194160, "time_sum": 120, "position_start": "3/16", "position_end": "3/16", "notes": [37, 61, 69], "position_sum": 1, "index": 660}
+{"time_start": 194280, "time_end": 194280, "time_sum": 120, "position_start": "4/16", "position_end": "4/16", "notes": [37, 49, 61, 66, 69], "position_sum": 1, "index": 661}
+{"time_start": 194400, "time_end": 194520, "time_sum": 240, "position_start": "5/16", "position_end": "6/16", "notes": [37, 45, 49, 61, 66, 69], "position_sum": 2, "index": 662}
+{"time_start": 194640, "time_end": 194880, "time_sum": 360, "position_start": "7/16", "position_end": "9/16", "notes": [37, 45, 49, 54, 57, 61, 62, 66, 69], "position_sum": 3, "index": 663}
+{"time_start": 195000, "time_end": 195240, "time_sum": 360, "position_start": "10/16", "position_end": "12/16", "notes": [37, 45, 49, 54, 57, 60, 61, 62, 66, 69], "position_sum": 3, "index": 664}
+{"time_start": 195360, "time_end": 195360, "time_sum": 120, "position_start": "13/16", "position_end": "13/16", "notes": [37, 45, 49, 53, 54, 56, 57, 60, 61, 62, 66], "position_sum": 1, "index": 665}
+{"time_start": 195480, "time_end": 195480, "time_sum": 120, "position_start": "14/16", "position_end": "14/16", "notes": [37, 53, 56, 61], "position_sum": 1, "index": 666}
+{"time_start": 195600, "time_end": 196320, "time_sum": 840, "position_start": "15/16", "position_end": "5/16", "notes": [37, 47, 53, 56, 61], "position_sum": 7, "index": 667}
+{"time_start": 196440, "time_end": 196560, "time_sum": 240, "position_start": "6/16", "position_end": "7/16", "notes": [37, 42, 47, 53, 56, 61], "position_sum": 2, "index": 668}
+{"time_start": 196680, "time_end": 196680, "time_sum": 120, "position_start": "8/16", "position_end": "8/16", "notes": [42, 47, 56, 61], "position_sum": 1, "index": 669}
+{"time_start": 196800, "time_end": 197400, "time_sum": 720, "position_start": "9/16", "position_end": "14/16", "notes": [42, 47, 56], "position_sum": 6, "index": 670}
+{"time_start": 197520, "time_end": 197520, "time_sum": 120, "position_start": "15/16", "position_end": "15/16", "notes": [42, 45, 47, 56], "position_sum": 1, "index": 671}
+{"time_start": 197640, "time_end": 197640, "time_sum": 120, "position_start": "16/16", "position_end": "16/16", "notes": [42, 45, 54, 56], "position_sum": 1, "index": 672}
+{"time_start": 197760, "time_end": 197760, "time_sum": 120, "position_start": "1/16", "position_end": "1/16", "notes": [42, 45, 54], "position_sum": 1, "index": 673}
+{"time_start": 197880, "time_end": 198000, "time_sum": 240, "position_start": "2/16", "position_end": "3/16", "notes": [42, 45, 54, 57], "position_sum": 2, "index": 674}
+{"time_start": 198120, "time_end": 198240, "time_sum": 240, "position_start": "4/16", "position_end": "5/16", "notes": [42, 45, 54, 57, 61], "position_sum": 2, "index": 675}
+{"time_start": 198360, "time_end": 198480, "time_sum": 240, "position_start": "6/16", "position_end": "7/16", "notes": [42, 45, 54, 57, 61, 66], "position_sum": 2, "index": 676}
+{"time_start": 198600, "time_end": 198720, "time_sum": 240, "position_start": "8/16", "position_end": "9/16", "notes": [42, 45, 54, 57, 61, 66, 69], "position_sum": 2, "index": 677}
+{"time_start": 198840, "time_end": 199080, "time_sum": 360, "position_start": "10/16", "position_end": "12/16", "notes": [42, 45, 54, 57, 61, 66, 69, 73], "position_sum": 3, "index": 678}
+{"time_start": 199200, "time_end": 199200, "time_sum": 120, "position_start": "13/16", "position_end": "13/16", "notes": [42, 45, 54, 57, 61, 64, 66, 69, 73, 76], "position_sum": 1, "index": 679}
+{"time_start": 199320, "time_end": 199320, "time_sum": 120, "position_start": "14/16", "position_end": "14/16", "notes": [42, 54, 57, 64, 69, 76], "position_sum": 1, "index": 680}
+{"time_start": 199440, "time_end": 200040, "time_sum": 720, "position_start": "15/16", "position_end": "4/16", "notes": [54, 57, 64, 69, 76], "position_sum": 6, "index": 681}
+{"time_start": 200160, "time_end": 200280, "time_sum": 240, "position_start": "5/16", "position_end": "6/16", "notes": [54, 57, 62, 64, 69, 74, 76], "position_sum": 2, "index": 682}
+{"time_start": 200400, "time_end": 200520, "time_sum": 240, "position_start": "7/16", "position_end": "8/16", "notes": [42, 54, 57, 62, 64, 69, 74, 76], "position_sum": 2, "index": 683}
+{"time_start": 200640, "time_end": 200760, "time_sum": 240, "position_start": "9/16", "position_end": "10/16", "notes": [42, 45, 54, 57, 62, 64, 69, 74, 76], "position_sum": 2, "index": 684}
+{"time_start": 200880, "time_end": 201480, "time_sum": 720, "position_start": "11/16", "position_end": "16/16", "notes": [42, 45, 50, 54, 57, 62, 64, 69, 74, 76], "position_sum": 6, "index": 685}
+{"time_start": 201600, "time_end": 201600, "time_sum": 120, "position_start": "1/16", "position_end": "1/16", "notes": [40, 42, 45, 50, 54, 57, 62, 64, 69, 74, 76], "position_sum": 1, "index": 686}
+{"time_start": 201720, "time_end": 202320, "time_sum": 720, "position_start": "2/16", "position_end": "7/16", "notes": [40, 57, 62], "position_sum": 6, "index": 687}
+{"time_start": 202440, "time_end": 202560, "time_sum": 240, "position_start": "8/16", "position_end": "9/16", "notes": [40, 57, 61, 62], "position_sum": 2, "index": 688}
+{"time_start": 202680, "time_end": 203400, "time_sum": 840, "position_start": "10/16", "position_end": "16/16", "notes": [40, 52, 57, 61, 62], "position_sum": 7, "index": 689}
+{"time_start": 203520, "time_end": 203640, "time_sum": 240, "position_start": "1/16", "position_end": "2/16", "notes": [40, 52, 57, 61, 62, 64], "position_sum": 2, "index": 690}
+{"time_start": 203760, "time_end": 204240, "time_sum": 600, "position_start": "3/16", "position_end": "7/16", "notes": [40, 52, 57, 61, 62, 64, 69], "position_sum": 5, "index": 691}
+{"time_start": 204360, "time_end": 204360, "time_sum": 120, "position_start": "8/16", "position_end": "8/16", "notes": [40, 52, 57, 62, 63, 64, 66, 69, 73], "position_sum": 1, "index": 692}
+{"time_start": 204480, "time_end": 205800, "time_sum": 1440, "position_start": "9/16", "position_end": "4/16", "notes": [52, 63, 66, 69, 73], "position_sum": 12, "index": 693}
+{"time_start": 205920, "time_end": 206400, "time_sum": 600, "position_start": "5/16", "position_end": "9/16", "notes": [52, 63, 66, 69, 71, 73], "position_sum": 5, "index": 694}
+{"time_start": 206520, "time_end": 206520, "time_sum": 120, "position_start": "10/16", "position_end": "10/16", "notes": [45, 52, 63, 66, 68, 69, 71, 73], "position_sum": 1, "index": 695}
+{"time_start": 206640, "time_end": 206880, "time_sum": 360, "position_start": "11/16", "position_end": "13/16", "notes": [45, 52, 62, 68, 73], "position_sum": 3, "index": 696}
+{"time_start": 207000, "time_end": 207360, "time_sum": 480, "position_start": "14/16", "position_end": "1/16", "notes": [45, 52, 62, 68, 71, 73], "position_sum": 4, "index": 697}
+{"time_start": 207480, "time_end": 207480, "time_sum": 120, "position_start": "2/16", "position_end": "2/16", "notes": [33, 45, 52, 62, 66, 68, 71, 73, 74], "position_sum": 1, "index": 698}
+{"time_start": 207600, "time_end": 207840, "time_sum": 360, "position_start": "3/16", "position_end": "5/16", "notes": [33, 45, 66, 74], "position_sum": 3, "index": 699}
+{"time_start": 207960, "time_end": 208200, "time_sum": 360, "position_start": "6/16", "position_end": "8/16", "notes": [33, 45, 62, 66, 74], "position_sum": 3, "index": 700}
+{"time_start": 208320, "time_end": 208560, "time_sum": 360, "position_start": "9/16", "position_end": "11/16", "notes": [33, 45, 57, 62, 66, 74], "position_sum": 3, "index": 701}
+{"time_start": 208680, "time_end": 208920, "time_sum": 360, "position_start": "12/16", "position_end": "14/16", "notes": [33, 45, 54, 57, 62, 66, 74], "position_sum": 3, "index": 702}
+{"time_start": 209040, "time_end": 209040, "time_sum": 120, "position_start": "15/16", "position_end": "15/16", "notes": [33, 45, 73], "position_sum": 1, "index": 703}
+{"time_start": 209160, "time_end": 209400, "time_sum": 360, "position_start": "16/16", "position_end": "2/16", "notes": [45, 50, 69, 73], "position_sum": 3, "index": 704}
+{"time_start": 209520, "time_end": 209520, "time_sum": 120, "position_start": "3/16", "position_end": "3/16", "notes": [45, 50, 68, 69, 71, 73], "position_sum": 1, "index": 705}
+{"time_start": 209640, "time_end": 209760, "time_sum": 240, "position_start": "4/16", "position_end": "5/16", "notes": [45, 50, 66, 68, 69, 71, 73], "position_sum": 2, "index": 706}
+{"time_start": 209880, "time_end": 209880, "time_sum": 120, "position_start": "6/16", "position_end": "6/16", "notes": [33, 45, 50, 66, 68, 69, 71, 73], "position_sum": 1, "index": 707}
+{"time_start": 210000, "time_end": 210960, "time_sum": 1080, "position_start": "7/16", "position_end": "15/16", "notes": [33, 45, 50, 66, 68, 69, 71, 73, 79, 81], "position_sum": 9, "index": 708}
+{"time_start": 211080, "time_end": 211320, "time_sum": 360, "position_start": "16/16", "position_end": "2/16", "notes": [33, 42, 45, 50, 66, 68, 69, 71, 73, 79, 81], "position_sum": 3, "index": 709}
+{"time_start": 211440, "time_end": 211440, "time_sum": 120, "position_start": "3/16", "position_end": "3/16", "notes": [38, 42, 45, 50, 66, 68, 69, 71, 73, 79, 80, 81], "position_sum": 1, "index": 710}
+{"time_start": 211560, "time_end": 211680, "time_sum": 240, "position_start": "4/16", "position_end": "5/16", "notes": [38, 71, 80], "position_sum": 2, "index": 711}
+{"time_start": 211800, "time_end": 211920, "time_sum": 240, "position_start": "6/16", "position_end": "7/16", "notes": [38, 50, 71, 80], "position_sum": 2, "index": 712}
+{"time_start": 212040, "time_end": 212160, "time_sum": 240, "position_start": "8/16", "position_end": "9/16", "notes": [38, 50, 69, 71, 78, 80], "position_sum": 2, "index": 713}
+{"time_start": 212280, "time_end": 212400, "time_sum": 240, "position_start": "10/16", "position_end": "11/16", "notes": [38, 50, 54, 57, 69, 71, 78, 80], "position_sum": 2, "index": 714}
+{"time_start": 212520, "time_end": 212640, "time_sum": 240, "position_start": "12/16", "position_end": "13/16", "notes": [38, 50, 54, 56, 57, 59, 69, 71, 78, 80], "position_sum": 2, "index": 715}
+{"time_start": 212760, "time_end": 212760, "time_sum": 120, "position_start": "14/16", "position_end": "14/16", "notes": [38, 50, 54, 56, 57, 59, 68, 69, 71, 77, 78, 80], "position_sum": 1, "index": 716}
+{"time_start": 212880, "time_end": 212880, "time_sum": 120, "position_start": "15/16", "position_end": "15/16", "notes": [49, 50, 54, 56, 57, 59, 68, 69, 77], "position_sum": 1, "index": 717}
+{"time_start": 213000, "time_end": 213120, "time_sum": 240, "position_start": "16/16", "position_end": "1/16", "notes": [49, 56, 59, 68, 77], "position_sum": 2, "index": 718}
+{"time_start": 213240, "time_end": 213480, "time_sum": 360, "position_start": "2/16", "position_end": "4/16", "notes": [49, 56, 57, 59, 61, 68, 69, 76, 77], "position_sum": 3, "index": 719}
+{"time_start": 213600, "time_end": 213840, "time_sum": 360, "position_start": "5/16", "position_end": "7/16", "notes": [35, 66, 74], "position_sum": 3, "index": 720}
+{"time_start": 213960, "time_end": 214200, "time_sum": 360, "position_start": "8/16", "position_end": "10/16", "notes": [35, 50, 62, 66, 71, 74], "position_sum": 3, "index": 721}
+{"time_start": 214320, "time_end": 214320, "time_sum": 120, "position_start": "11/16", "position_end": "11/16", "notes": [35, 40, 50, 61, 62, 66, 69, 71, 74], "position_sum": 1, "index": 722}
+{"time_start": 214440, "time_end": 214680, "time_sum": 360, "position_start": "12/16", "position_end": "14/16", "notes": [40, 61, 69], "position_sum": 3, "index": 723}
+{"time_start": 214800, "time_end": 215040, "time_sum": 360, "position_start": "15/16", "position_end": "1/16", "notes": [40, 52, 61, 69], "position_sum": 3, "index": 724}
+{"time_start": 215160, "time_end": 215400, "time_sum": 360, "position_start": "2/16", "position_end": "4/16", "notes": [40, 52, 59, 61, 68, 69], "position_sum": 3, "index": 725}
+{"time_start": 215520, "time_end": 215760, "time_sum": 360, "position_start": "5/16", "position_end": "7/16", "notes": [40, 52, 54, 59, 61, 68, 69], "position_sum": 3, "index": 726}
+{"time_start": 215880, "time_end": 215880, "time_sum": 120, "position_start": "8/16", "position_end": "8/16", "notes": [40, 52, 54, 59, 61, 68, 69, 73], "position_sum": 1, "index": 727}
+{"time_start": 216000, "time_end": 216000, "time_sum": 120, "position_start": "9/16", "position_end": "9/16", "notes": [52, 54, 55, 64, 68, 73], "position_sum": 1, "index": 728}
+{"time_start": 216120, "time_end": 216240, "time_sum": 240, "position_start": "10/16", "position_end": "11/16", "notes": [52, 55, 64, 73], "position_sum": 2, "index": 729}
+{"time_start": 216360, "time_end": 216600, "time_sum": 360, "position_start": "12/16", "position_end": "14/16", "notes": [52, 55, 64, 71, 73], "position_sum": 3, "index": 730}
+{"time_start": 216720, "time_end": 216720, "time_sum": 120, "position_start": "15/16", "position_end": "15/16", "notes": [42, 52, 55, 64, 69, 71, 73, 74], "position_sum": 1, "index": 731}
+{"time_start": 216840, "time_end": 216960, "time_sum": 240, "position_start": "16/16", "position_end": "1/16", "notes": [42, 69, 74], "position_sum": 2, "index": 732}
+{"time_start": 217080, "time_end": 217320, "time_sum": 360, "position_start": "2/16", "position_end": "4/16", "notes": [42, 62, 69, 74], "position_sum": 3, "index": 733}
+{"time_start": 217440, "time_end": 217680, "time_sum": 360, "position_start": "5/16", "position_end": "7/16", "notes": [42, 57, 62, 69, 74], "position_sum": 3, "index": 734}
+{"time_start": 217800, "time_end": 218040, "time_sum": 360, "position_start": "8/16", "position_end": "10/16", "notes": [42, 54, 57, 62, 69, 74], "position_sum": 3, "index": 735}
+{"time_start": 218160, "time_end": 218160, "time_sum": 120, "position_start": "11/16", "position_end": "11/16", "notes": [40, 42, 54, 57, 64, 69, 73, 74], "position_sum": 1, "index": 736}
+{"time_start": 218280, "time_end": 218400, "time_sum": 240, "position_start": "12/16", "position_end": "13/16", "notes": [40, 64, 69, 73], "position_sum": 2, "index": 737}
+{"time_start": 218520, "time_end": 218760, "time_sum": 360, "position_start": "14/16", "position_end": "16/16", "notes": [40, 64, 69, 71, 73], "position_sum": 3, "index": 738}
+{"time_start": 218880, "time_end": 218880, "time_sum": 120, "position_start": "1/16", "position_end": "1/16", "notes": [39, 40, 64, 69, 71, 73, 83], "position_sum": 1, "index": 739}
+{"time_start": 219000, "time_end": 219120, "time_sum": 240, "position_start": "2/16", "position_end": "3/16", "notes": [39, 69, 71, 78, 83], "position_sum": 2, "index": 740}
+{"time_start": 219240, "time_end": 219480, "time_sum": 360, "position_start": "4/16", "position_end": "6/16", "notes": [39, 47, 69, 71, 78, 83], "position_sum": 3, "index": 741}
+{"time_start": 219600, "time_end": 219840, "time_sum": 360, "position_start": "7/16", "position_end": "9/16", "notes": [39, 42, 47, 69, 71, 75, 78, 83], "position_sum": 3, "index": 742}
+{"time_start": 219960, "time_end": 219960, "time_sum": 120, "position_start": "10/16", "position_end": "10/16", "notes": [39, 42, 47, 54, 69, 71, 75, 78, 83], "position_sum": 1, "index": 743}
+{"time_start": 220080, "time_end": 220200, "time_sum": 240, "position_start": "11/16", "position_end": "12/16", "notes": [39, 42, 47, 54, 69, 71, 75, 78, 81, 83], "position_sum": 2, "index": 744}
+{"time_start": 220320, "time_end": 220320, "time_sum": 120, "position_start": "13/16", "position_end": "13/16", "notes": [39, 45, 47, 54, 68, 69, 71, 73, 75, 78, 80, 81, 83], "position_sum": 1, "index": 745}
+{"time_start": 220440, "time_end": 220560, "time_sum": 240, "position_start": "14/16", "position_end": "15/16", "notes": [45, 47, 68, 73, 80], "position_sum": 2, "index": 746}
+{"time_start": 220680, "time_end": 220680, "time_sum": 120, "position_start": "16/16", "position_end": "16/16", "notes": [45, 47, 57, 68, 73, 80], "position_sum": 1, "index": 747}
+{"time_start": 220800, "time_end": 220920, "time_sum": 240, "position_start": "1/16", "position_end": "2/16", "notes": [45, 47, 57, 68, 73, 78, 80], "position_sum": 2, "index": 748}
+{"time_start": 221040, "time_end": 221040, "time_sum": 120, "position_start": "3/16", "position_end": "3/16", "notes": [44, 45, 47, 57, 66, 68, 73, 75, 78, 80], "position_sum": 1, "index": 749}
+{"time_start": 221160, "time_end": 221280, "time_sum": 240, "position_start": "4/16", "position_end": "5/16", "notes": [44, 47, 66, 75, 78], "position_sum": 2, "index": 750}
+{"time_start": 221400, "time_end": 221400, "time_sum": 120, "position_start": "6/16", "position_end": "6/16", "notes": [44, 47, 56, 66, 75, 78], "position_sum": 1, "index": 751}
+{"time_start": 221520, "time_end": 221520, "time_sum": 120, "position_start": "7/16", "position_end": "7/16", "notes": [44, 47, 56, 66, 75, 76, 78], "position_sum": 1, "index": 752}
+{"time_start": 221640, "time_end": 221640, "time_sum": 120, "position_start": "8/16", "position_end": "8/16", "notes": [44, 47, 56, 66, 72, 75, 76, 78], "position_sum": 1, "index": 753}
+{"time_start": 221760, "time_end": 221760, "time_sum": 120, "position_start": "9/16", "position_end": "9/16", "notes": [45, 47, 54, 56, 66, 72, 75, 76, 78], "position_sum": 1, "index": 754}
+{"time_start": 221880, "time_end": 222000, "time_sum": 240, "position_start": "10/16", "position_end": "11/16", "notes": [45, 54, 72, 76], "position_sum": 2, "index": 755}
+{"time_start": 222120, "time_end": 222360, "time_sum": 360, "position_start": "12/16", "position_end": "14/16", "notes": [45, 54, 57, 72, 73, 76], "position_sum": 3, "index": 756}
+{"time_start": 222480, "time_end": 222480, "time_sum": 120, "position_start": "15/16", "position_end": "15/16", "notes": [45, 47, 54, 57, 72, 73, 76], "position_sum": 1, "index": 757}
+{"time_start": 222600, "time_end": 222840, "time_sum": 360, "position_start": "16/16", "position_end": "2/16", "notes": [47, 64, 73], "position_sum": 3, "index": 758}
+{"time_start": 222960, "time_end": 222960, "time_sum": 120, "position_start": "3/16", "position_end": "3/16", "notes": [47, 54, 64, 66, 73], "position_sum": 1, "index": 759}
+{"time_start": 223080, "time_end": 223320, "time_sum": 360, "position_start": "4/16", "position_end": "6/16", "notes": [47, 54, 63, 64, 66, 73], "position_sum": 3, "index": 760}
+{"time_start": 223440, "time_end": 223440, "time_sum": 120, "position_start": "7/16", "position_end": "7/16", "notes": [40, 47, 54, 63, 64, 66, 73], "position_sum": 1, "index": 761}
+{"time_start": 223560, "time_end": 223560, "time_sum": 120, "position_start": "8/16", "position_end": "8/16", "notes": [40, 63, 69, 73], "position_sum": 1, "index": 762}
+{"time_start": 223680, "time_end": 223920, "time_sum": 360, "position_start": "9/16", "position_end": "11/16", "notes": [40, 63, 69], "position_sum": 3, "index": 763}
+{"time_start": 224040, "time_end": 224280, "time_sum": 360, "position_start": "12/16", "position_end": "14/16", "notes": [40, 47, 63, 69], "position_sum": 3, "index": 764}
+{"time_start": 224400, "time_end": 224400, "time_sum": 120, "position_start": "15/16", "position_end": "15/16", "notes": [40, 47, 52, 63, 68, 69], "position_sum": 1, "index": 765}
+{"time_start": 224520, "time_end": 224520, "time_sum": 120, "position_start": "16/16", "position_end": "16/16", "notes": [40, 47, 52, 56, 63, 68, 69], "position_sum": 1, "index": 766}
+{"time_start": 224640, "time_end": 224880, "time_sum": 360, "position_start": "1/16", "position_end": "3/16", "notes": [40, 52, 56, 63, 68], "position_sum": 3, "index": 767}
+{"time_start": 225000, "time_end": 225480, "time_sum": 600, "position_start": "4/16", "position_end": "8/16", "notes": [40, 47, 52, 56, 63, 68], "position_sum": 5, "index": 768}
+{"time_start": 225600, "time_end": 225600, "time_sum": 120, "position_start": "9/16", "position_end": "9/16", "notes": [40, 47, 55, 56, 64], "position_sum": 1, "index": 769}
+{"time_start": 225720, "time_end": 225840, "time_sum": 240, "position_start": "10/16", "position_end": "11/16", "notes": [40, 55, 64], "position_sum": 2, "index": 770}
+{"time_start": 225960, "time_end": 226200, "time_sum": 360, "position_start": "12/16", "position_end": "14/16", "notes": [40, 43, 55, 64], "position_sum": 3, "index": 771}
+{"time_start": 226320, "time_end": 226560, "time_sum": 360, "position_start": "15/16", "position_end": "1/16", "notes": [40, 43, 48, 55, 64, 66], "position_sum": 3, "index": 772}
+{"time_start": 226680, "time_end": 227640, "time_sum": 1080, "position_start": "2/16", "position_end": "10/16", "notes": [40, 43, 48, 52, 55, 64, 66], "position_sum": 9, "index": 773}
+{"time_start": 227760, "time_end": 227760, "time_sum": 120, "position_start": "11/16", "position_end": "11/16", "notes": [40, 43, 55, 61, 64], "position_sum": 1, "index": 774}
+{"time_start": 227880, "time_end": 227880, "time_sum": 120, "position_start": "12/16", "position_end": "12/16", "notes": [40, 55, 61, 64], "position_sum": 1, "index": 775}
+{"time_start": 228000, "time_end": 228240, "time_sum": 360, "position_start": "13/16", "position_end": "15/16", "notes": [40, 43, 55, 61, 64], "position_sum": 3, "index": 776}
+{"time_start": 228360, "time_end": 228600, "time_sum": 360, "position_start": "16/16", "position_end": "2/16", "notes": [40, 43, 49, 55, 61, 64, 66], "position_sum": 3, "index": 777}
+{"time_start": 228720, "time_end": 229560, "time_sum": 960, "position_start": "3/16", "position_end": "10/16", "notes": [40, 43, 49, 52, 55, 61, 64, 66], "position_sum": 8, "index": 778}
+{"time_start": 229680, "time_end": 229800, "time_sum": 240, "position_start": "11/16", "position_end": "12/16", "notes": [40, 47, 56, 62, 64], "position_sum": 2, "index": 779}
+{"time_start": 229920, "time_end": 230160, "time_sum": 360, "position_start": "13/16", "position_end": "15/16", "notes": [40, 47, 52, 56, 62, 64], "position_sum": 3, "index": 780}
+{"time_start": 230280, "time_end": 230760, "time_sum": 600, "position_start": "16/16", "position_end": "4/16", "notes": [40, 47, 52, 56, 62, 64, 71], "position_sum": 5, "index": 781}
+{"time_start": 230880, "time_end": 230880, "time_sum": 120, "position_start": "5/16", "position_end": "5/16", "notes": [40, 47, 52, 69, 71], "position_sum": 1, "index": 782}
+{"time_start": 231000, "time_end": 231000, "time_sum": 120, "position_start": "6/16", "position_end": "6/16", "notes": [52, 57, 62, 64, 69], "position_sum": 1, "index": 783}
+{"time_start": 231120, "time_end": 231120, "time_sum": 120, "position_start": "7/16", "position_end": "7/16", "notes": [57, 62, 64, 69], "position_sum": 1, "index": 784}
+{"time_start": 231240, "time_end": 231360, "time_sum": 240, "position_start": "8/16", "position_end": "9/16", "notes": [52, 57, 62, 64, 69], "position_sum": 2, "index": 785}
+{"time_start": 231480, "time_end": 231480, "time_sum": 120, "position_start": "10/16", "position_end": "10/16", "notes": [52, 57, 62, 64, 68, 69], "position_sum": 1, "index": 786}
+{"time_start": 231600, "time_end": 232080, "time_sum": 600, "position_start": "11/16", "position_end": "15/16", "notes": [52, 57, 59, 62, 64, 68, 69], "position_sum": 5, "index": 787}
+{"time_start": 232200, "time_end": 232200, "time_sum": 120, "position_start": "16/16", "position_end": "16/16", "notes": [45, 52, 57, 59, 62, 64, 68, 69, 71], "position_sum": 1, "index": 788}
+{"time_start": 232320, "time_end": 232320, "time_sum": 120, "position_start": "1/16", "position_end": "1/16", "notes": [45, 57, 59, 62, 68, 71], "position_sum": 1, "index": 789}
+{"time_start": 232440, "time_end": 232440, "time_sum": 120, "position_start": "2/16", "position_end": "2/16", "notes": [45, 62, 68, 71], "position_sum": 1, "index": 790}
+{"time_start": 232560, "time_end": 232800, "time_sum": 360, "position_start": "3/16", "position_end": "5/16", "notes": [45, 52, 62, 68, 71], "position_sum": 3, "index": 791}
+{"time_start": 232920, "time_end": 233520, "time_sum": 720, "position_start": "6/16", "position_end": "11/16", "notes": [45, 52, 56, 62, 64, 68, 71], "position_sum": 6, "index": 792}
+{"time_start": 233640, "time_end": 233640, "time_sum": 120, "position_start": "12/16", "position_end": "12/16", "notes": [45, 56, 60, 62, 64, 65, 69, 71], "position_sum": 1, "index": 793}
+{"time_start": 233760, "time_end": 233880, "time_sum": 240, "position_start": "13/16", "position_end": "14/16", "notes": [45, 60, 65, 69], "position_sum": 2, "index": 794}
+{"time_start": 234000, "time_end": 234120, "time_sum": 240, "position_start": "15/16", "position_end": "16/16", "notes": [45, 48, 60, 65, 69], "position_sum": 2, "index": 795}
+{"time_start": 234240, "time_end": 234240, "time_sum": 120, "position_start": "1/16", "position_end": "1/16", "notes": [45, 48, 60, 65, 69, 71], "position_sum": 1, "index": 796}
+{"time_start": 234360, "time_end": 234480, "time_sum": 240, "position_start": "2/16", "position_end": "3/16", "notes": [45, 48, 53, 60, 65, 69, 71], "position_sum": 2, "index": 797}
+{"time_start": 234600, "time_end": 235440, "time_sum": 960, "position_start": "4/16", "position_end": "11/16", "notes": [45, 48, 53, 57, 60, 65, 69, 71], "position_sum": 8, "index": 798}
+{"time_start": 235560, "time_end": 235560, "time_sum": 120, "position_start": "12/16", "position_end": "12/16", "notes": [41, 45, 48, 57, 60, 63, 69], "position_sum": 1, "index": 799}
+{"time_start": 235680, "time_end": 235680, "time_sum": 120, "position_start": "13/16", "position_end": "13/16", "notes": [41, 60, 63, 69], "position_sum": 1, "index": 800}
+{"time_start": 235800, "time_end": 236040, "time_sum": 360, "position_start": "14/16", "position_end": "16/16", "notes": [41, 48, 60, 63, 69], "position_sum": 3, "index": 801}
+{"time_start": 236160, "time_end": 236280, "time_sum": 240, "position_start": "1/16", "position_end": "2/16", "notes": [41, 48, 51, 60, 63, 69, 72], "position_sum": 2, "index": 802}
+{"time_start": 236400, "time_end": 237240, "time_sum": 960, "position_start": "3/16", "position_end": "10/16", "notes": [41, 48, 51, 57, 60, 63, 69, 72], "position_sum": 8, "index": 803}
+{"time_start": 237360, "time_end": 237360, "time_sum": 120, "position_start": "11/16", "position_end": "11/16", "notes": [39, 41, 51, 60, 63, 66, 69, 72], "position_sum": 1, "index": 804}
+{"time_start": 237480, "time_end": 237600, "time_sum": 240, "position_start": "12/16", "position_end": "13/16", "notes": [39, 60, 66, 69], "position_sum": 2, "index": 805}
+{"time_start": 237720, "time_end": 237960, "time_sum": 360, "position_start": "14/16", "position_end": "16/16", "notes": [39, 48, 60, 66, 69], "position_sum": 3, "index": 806}
+{"time_start": 238080, "time_end": 238320, "time_sum": 360, "position_start": "1/16", "position_end": "3/16", "notes": [39, 48, 57, 60, 66, 69, 78], "position_sum": 3, "index": 807}
+{"time_start": 238440, "time_end": 238560, "time_sum": 240, "position_start": "4/16", "position_end": "5/16", "notes": [39, 48, 51, 57, 60, 66, 69, 78], "position_sum": 2, "index": 808}
+{"time_start": 238680, "time_end": 239880, "time_sum": 1320, "position_start": "6/16", "position_end": "16/16", "notes": [39, 48, 51, 57, 60, 66, 69, 72, 78], "position_sum": 11, "index": 809}
+{"time_start": 240000, "time_end": 240000, "time_sum": 120, "position_start": "1/16", "position_end": "1/16", "notes": [39, 48, 51, 57, 60, 68, 69, 72, 78], "position_sum": 1, "index": 810}
+{"time_start": 240120, "time_end": 240360, "time_sum": 360, "position_start": "2/16", "position_end": "4/16", "notes": [57, 68], "position_sum": 3, "index": 811}
+{"time_start": 240480, "time_end": 240960, "time_sum": 600, "position_start": "5/16", "position_end": "9/16", "notes": [57, 60, 68], "position_sum": 5, "index": 812}
+{"time_start": 241080, "time_end": 241200, "time_sum": 240, "position_start": "10/16", "position_end": "11/16", "notes": [51, 57, 60, 68], "position_sum": 2, "index": 813}
+{"time_start": 241320, "time_end": 241560, "time_sum": 360, "position_start": "12/16", "position_end": "14/16", "notes": [48, 51, 57, 60, 66, 68], "position_sum": 3, "index": 814}
+{"time_start": 241680, "time_end": 241680, "time_sum": 120, "position_start": "15/16", "position_end": "15/16", "notes": [45, 48, 51, 57, 60, 66, 68], "position_sum": 1, "index": 815}
+{"time_start": 241800, "time_end": 242040, "time_sum": 360, "position_start": "16/16", "position_end": "2/16", "notes": [45, 48, 51, 57, 60, 64, 66, 68], "position_sum": 3, "index": 816}
+{"time_start": 242160, "time_end": 242160, "time_sum": 120, "position_start": "3/16", "position_end": "3/16", "notes": [40, 51, 60, 64, 68], "position_sum": 1, "index": 817}
+{"time_start": 242280, "time_end": 242400, "time_sum": 240, "position_start": "4/16", "position_end": "5/16", "notes": [40, 68], "position_sum": 2, "index": 818}
+{"time_start": 242520, "time_end": 242760, "time_sum": 360, "position_start": "6/16", "position_end": "8/16", "notes": [40, 59, 68], "position_sum": 3, "index": 819}
+{"time_start": 242880, "time_end": 243120, "time_sum": 360, "position_start": "9/16", "position_end": "11/16", "notes": [40, 56, 59, 68], "position_sum": 3, "index": 820}
+{"time_start": 243240, "time_end": 243360, "time_sum": 240, "position_start": "12/16", "position_end": "13/16", "notes": [40, 52, 56, 59, 68], "position_sum": 2, "index": 821}
+{"time_start": 243480, "time_end": 243720, "time_sum": 360, "position_start": "14/16", "position_end": "16/16", "notes": [40, 52, 56, 59, 60, 68, 69], "position_sum": 3, "index": 822}
+{"time_start": 243840, "time_end": 243960, "time_sum": 240, "position_start": "1/16", "position_end": "2/16", "notes": [40, 52, 56, 57, 59, 60, 68, 69], "position_sum": 2, "index": 823}
+{"time_start": 244080, "time_end": 244080, "time_sum": 120, "position_start": "3/16", "position_end": "3/16", "notes": [40, 52, 56, 57, 59, 60, 68, 69, 70], "position_sum": 1, "index": 824}
+{"time_start": 244200, "time_end": 244200, "time_sum": 120, "position_start": "4/16", "position_end": "4/16", "notes": [40, 52, 57, 69, 70], "position_sum": 1, "index": 825}
+{"time_start": 244320, "time_end": 244320, "time_sum": 120, "position_start": "5/16", "position_end": "5/16", "notes": [40, 70], "position_sum": 1, "index": 826}
+{"time_start": 244440, "time_end": 244680, "time_sum": 360, "position_start": "6/16", "position_end": "8/16", "notes": [40, 61, 70], "position_sum": 3, "index": 827}
+{"time_start": 244800, "time_end": 244920, "time_sum": 240, "position_start": "9/16", "position_end": "10/16", "notes": [40, 58, 61, 70], "position_sum": 2, "index": 828}
+{"time_start": 245040, "time_end": 245280, "time_sum": 360, "position_start": "11/16", "position_end": "13/16", "notes": [40, 52, 58, 61, 70], "position_sum": 3, "index": 829}
+{"time_start": 245400, "time_end": 245640, "time_sum": 360, "position_start": "14/16", "position_end": "16/16", "notes": [40, 52, 58, 61, 64, 68, 70], "position_sum": 3, "index": 830}
+{"time_start": 245760, "time_end": 246000, "time_sum": 360, "position_start": "1/16", "position_end": "3/16", "notes": [40, 52, 58, 61, 64, 66, 68, 70], "position_sum": 3, "index": 831}
+{"time_start": 246120, "time_end": 246120, "time_sum": 120, "position_start": "4/16", "position_end": "4/16", "notes": [40, 58, 61, 64, 66, 68, 71], "position_sum": 1, "index": 832}
+{"time_start": 246240, "time_end": 246240, "time_sum": 120, "position_start": "5/16", "position_end": "5/16", "notes": [40, 71], "position_sum": 1, "index": 833}
+{"time_start": 246360, "time_end": 246600, "time_sum": 360, "position_start": "6/16", "position_end": "8/16", "notes": [40, 62, 71], "position_sum": 3, "index": 834}
+{"time_start": 246720, "time_end": 246840, "time_sum": 240, "position_start": "9/16", "position_end": "10/16", "notes": [40, 59, 62, 71], "position_sum": 2, "index": 835}
+{"time_start": 246960, "time_end": 247200, "time_sum": 360, "position_start": "11/16", "position_end": "13/16", "notes": [40, 52, 59, 62, 71], "position_sum": 3, "index": 836}
+{"time_start": 247320, "time_end": 247440, "time_sum": 240, "position_start": "14/16", "position_end": "15/16", "notes": [40, 52, 59, 62, 63, 71, 72], "position_sum": 2, "index": 837}
+{"time_start": 247560, "time_end": 247800, "time_sum": 360, "position_start": "16/16", "position_end": "2/16", "notes": [40, 52, 59, 60, 62, 63, 71, 72], "position_sum": 3, "index": 838}
+{"time_start": 247920, "time_end": 247920, "time_sum": 120, "position_start": "3/16", "position_end": "3/16", "notes": [40, 52, 59, 60, 62, 63, 71, 72, 73], "position_sum": 1, "index": 839}
+{"time_start": 248040, "time_end": 248040, "time_sum": 120, "position_start": "4/16", "position_end": "4/16", "notes": [40, 73], "position_sum": 1, "index": 840}
+{"time_start": 248160, "time_end": 248400, "time_sum": 360, "position_start": "5/16", "position_end": "7/16", "notes": [40, 64, 73], "position_sum": 3, "index": 841}
+{"time_start": 248520, "time_end": 248640, "time_sum": 240, "position_start": "8/16", "position_end": "9/16", "notes": [40, 61, 64, 73], "position_sum": 2, "index": 842}
+{"time_start": 248760, "time_end": 249000, "time_sum": 360, "position_start": "10/16", "position_end": "12/16", "notes": [40, 52, 61, 64, 73], "position_sum": 3, "index": 843}
+{"time_start": 249120, "time_end": 249360, "time_sum": 360, "position_start": "13/16", "position_end": "15/16", "notes": [40, 52, 61, 64, 67, 71, 73], "position_sum": 3, "index": 844}
+{"time_start": 249480, "time_end": 249720, "time_sum": 360, "position_start": "16/16", "position_end": "2/16", "notes": [40, 52, 61, 64, 67, 69, 71, 73], "position_sum": 3, "index": 845}
+{"time_start": 249840, "time_end": 249840, "time_sum": 120, "position_start": "3/16", "position_end": "3/16", "notes": [40, 42, 61, 69, 71, 73, 74], "position_sum": 1, "index": 846}
+{"time_start": 249960, "time_end": 250080, "time_sum": 240, "position_start": "4/16", "position_end": "5/16", "notes": [42, 69, 74], "position_sum": 2, "index": 847}
+{"time_start": 250200, "time_end": 250440, "time_sum": 360, "position_start": "6/16", "position_end": "8/16", "notes": [42, 62, 69, 74], "position_sum": 3, "index": 848}
+{"time_start": 250560, "time_end": 250680, "time_sum": 240, "position_start": "9/16", "position_end": "10/16", "notes": [42, 57, 62, 69, 74], "position_sum": 2, "index": 849}
+{"time_start": 250800, "time_end": 250800, "time_sum": 120, "position_start": "11/16", "position_end": "11/16", "notes": [40, 42, 57, 62, 64, 68, 69, 73, 74], "position_sum": 1, "index": 850}
+{"time_start": 250920, "time_end": 251040, "time_sum": 240, "position_start": "12/16", "position_end": "13/16", "notes": [40, 64, 68, 73], "position_sum": 2, "index": 851}
+{"time_start": 251160, "time_end": 251400, "time_sum": 360, "position_start": "14/16", "position_end": "16/16", "notes": [40, 52, 64, 68, 73], "position_sum": 3, "index": 852}
+{"time_start": 251520, "time_end": 251520, "time_sum": 120, "position_start": "1/16", "position_end": "1/16", "notes": [40, 52, 56, 64, 68, 71, 73], "position_sum": 1, "index": 853}
+{"time_start": 251640, "time_end": 251760, "time_sum": 240, "position_start": "2/16", "position_end": "3/16", "notes": [40, 52, 56, 64, 66, 68, 71, 73], "position_sum": 2, "index": 854}
+{"time_start": 251880, "time_end": 251880, "time_sum": 120, "position_start": "4/16", "position_end": "4/16", "notes": [38, 40, 52, 56, 64, 66, 68, 71, 73], "position_sum": 1, "index": 855}
+{"time_start": 252000, "time_end": 252360, "time_sum": 480, "position_start": "5/16", "position_end": "8/16", "notes": [38, 71, 81], "position_sum": 4, "index": 856}
+{"time_start": 252480, "time_end": 252720, "time_sum": 360, "position_start": "9/16", "position_end": "11/16", "notes": [38, 54, 71, 81], "position_sum": 3, "index": 857}
+{"time_start": 252840, "time_end": 253200, "time_sum": 480, "position_start": "12/16", "position_end": "15/16", "notes": [38, 50, 54, 57, 71, 81], "position_sum": 4, "index": 858}
+{"time_start": 253320, "time_end": 253680, "time_sum": 480, "position_start": "16/16", "position_end": "3/16", "notes": [38, 50, 54, 57, 62, 71, 81], "position_sum": 4, "index": 859}
+{"time_start": 253800, "time_end": 253800, "time_sum": 120, "position_start": "4/16", "position_end": "4/16", "notes": [37, 38, 45, 50, 54, 57, 62, 64, 69, 71, 81], "position_sum": 1, "index": 860}
+{"time_start": 253920, "time_end": 253920, "time_sum": 120, "position_start": "5/16", "position_end": "5/16", "notes": [37, 45, 54, 57, 62, 64, 69, 71], "position_sum": 1, "index": 861}
+{"time_start": 254040, "time_end": 254160, "time_sum": 240, "position_start": "6/16", "position_end": "7/16", "notes": [37, 45, 64, 69], "position_sum": 2, "index": 862}
+{"time_start": 254280, "time_end": 254520, "time_sum": 360, "position_start": "8/16", "position_end": "10/16", "notes": [35, 37, 45, 64, 69], "position_sum": 3, "index": 863}
+{"time_start": 254640, "time_end": 254640, "time_sum": 120, "position_start": "11/16", "position_end": "11/16", "notes": [35, 37, 38, 45, 57, 59, 64, 68, 69], "position_sum": 1, "index": 864}
+{"time_start": 254760, "time_end": 254880, "time_sum": 240, "position_start": "12/16", "position_end": "13/16", "notes": [38, 57, 59, 68], "position_sum": 2, "index": 865}
+{"time_start": 255000, "time_end": 255240, "time_sum": 360, "position_start": "14/16", "position_end": "16/16", "notes": [38, 45, 57, 59, 68], "position_sum": 3, "index": 866}
+{"time_start": 255360, "time_end": 255960, "time_sum": 720, "position_start": "1/16", "position_end": "6/16", "notes": [38, 45, 57, 59, 66, 68], "position_sum": 6, "index": 867}
+{"time_start": 256080, "time_end": 256320, "time_sum": 360, "position_start": "7/16", "position_end": "9/16", "notes": [37, 45, 52, 57, 64], "position_sum": 3, "index": 868}
+{"time_start": 256440, "time_end": 256680, "time_sum": 360, "position_start": "10/16", "position_end": "12/16", "notes": [35, 37, 45, 52, 54, 57, 62, 64], "position_sum": 3, "index": 869}
+{"time_start": 256800, "time_end": 256800, "time_sum": 120, "position_start": "13/16", "position_end": "13/16", "notes": [35, 37, 38, 45, 52, 54, 57, 61, 62, 64], "position_sum": 1, "index": 870}
+{"time_start": 256920, "time_end": 257160, "time_sum": 360, "position_start": "14/16", "position_end": "16/16", "notes": [38, 54, 61], "position_sum": 3, "index": 871}
+{"time_start": 257280, "time_end": 257520, "time_sum": 360, "position_start": "1/16", "position_end": "3/16", "notes": [38, 45, 54, 61], "position_sum": 3, "index": 872}
+{"time_start": 257640, "time_end": 258240, "time_sum": 720, "position_start": "4/16", "position_end": "9/16", "notes": [38, 45, 54, 59, 61], "position_sum": 6, "index": 873}
+{"time_start": 258360, "time_end": 258360, "time_sum": 120, "position_start": "10/16", "position_end": "10/16", "notes": [37, 45, 54, 59, 64, 69], "position_sum": 1, "index": 874}
+{"time_start": 258480, "time_end": 258600, "time_sum": 240, "position_start": "11/16", "position_end": "12/16", "notes": [37, 45, 64, 69], "position_sum": 2, "index": 875}
+{"time_start": 258720, "time_end": 258960, "time_sum": 360, "position_start": "13/16", "position_end": "15/16", "notes": [35, 37, 45, 64, 69], "position_sum": 3, "index": 876}
+{"time_start": 259080, "time_end": 259080, "time_sum": 120, "position_start": "16/16", "position_end": "16/16", "notes": [35, 37, 38, 45, 64, 67, 69], "position_sum": 1, "index": 877}
+{"time_start": 259200, "time_end": 259440, "time_sum": 360, "position_start": "1/16", "position_end": "3/16", "notes": [38, 59, 67], "position_sum": 3, "index": 878}
+{"time_start": 259560, "time_end": 259800, "time_sum": 360, "position_start": "4/16", "position_end": "6/16", "notes": [38, 45, 59, 67], "position_sum": 3, "index": 879}
+{"time_start": 259920, "time_end": 260520, "time_sum": 720, "position_start": "7/16", "position_end": "12/16", "notes": [38, 45, 59, 65, 67], "position_sum": 6, "index": 880}
+{"time_start": 260640, "time_end": 260640, "time_sum": 120, "position_start": "13/16", "position_end": "13/16", "notes": [45, 59, 64, 65], "position_sum": 1, "index": 881}
+{"time_start": 260760, "time_end": 260880, "time_sum": 240, "position_start": "14/16", "position_end": "15/16", "notes": [36, 45, 64], "position_sum": 2, "index": 882}
+{"time_start": 261000, "time_end": 261000, "time_sum": 120, "position_start": "16/16", "position_end": "16/16", "notes": [36, 45, 62, 64], "position_sum": 1, "index": 883}
+{"time_start": 261120, "time_end": 261360, "time_sum": 360, "position_start": "1/16", "position_end": "3/16", "notes": [35, 36, 45, 62, 64], "position_sum": 3, "index": 884}
+{"time_start": 261480, "time_end": 261480, "time_sum": 120, "position_start": "4/16", "position_end": "4/16", "notes": [35, 36, 38, 45, 60, 62, 64], "position_sum": 1, "index": 885}
+{"time_start": 261600, "time_end": 261600, "time_sum": 120, "position_start": "5/16", "position_end": "5/16", "notes": [35, 36, 38, 45, 53, 57, 60, 64], "position_sum": 1, "index": 886}
+{"time_start": 261720, "time_end": 261840, "time_sum": 240, "position_start": "6/16", "position_end": "7/16", "notes": [38, 53, 57, 60], "position_sum": 2, "index": 887}
+{"time_start": 261960, "time_end": 262320, "time_sum": 480, "position_start": "8/16", "position_end": "11/16", "notes": [38, 45, 53, 57, 60], "position_sum": 4, "index": 888}
+{"time_start": 262440, "time_end": 263760, "time_sum": 1440, "position_start": "12/16", "position_end": "7/16", "notes": [38, 45, 53, 57, 59, 60], "position_sum": 12, "index": 889}
+{"time_start": 263880, "time_end": 263880, "time_sum": 120, "position_start": "8/16", "position_end": "8/16", "notes": [53, 57], "position_sum": 1, "index": 890}
+{"time_start": 264000, "time_end": 264000, "time_sum": 120, "position_start": "9/16", "position_end": "9/16", "notes": [], "position_sum": 1, "index": 891}
+{"time_start": 264120, "time_end": 264120, "time_sum": 120, "position_start": "10/16", "position_end": "10/16", "notes": [52], "position_sum": 1, "index": 892}
+{"time_start": 264240, "time_end": 264600, "time_sum": 480, "position_start": "11/16", "position_end": "14/16", "notes": [52, 57], "position_sum": 4, "index": 893}
+{"time_start": 264720, "time_end": 265080, "time_sum": 480, "position_start": "15/16", "position_end": "2/16", "notes": [52, 57, 64, 76, 80], "position_sum": 4, "index": 894}
+{"time_start": 265200, "time_end": 265560, "time_sum": 480, "position_start": "3/16", "position_end": "6/16", "notes": [52, 57, 64, 76, 80, 81], "position_sum": 4, "index": 895}
+{"time_start": 265680, "time_end": 265680, "time_sum": 120, "position_start": "7/16", "position_end": "7/16", "notes": [38, 52, 74, 78], "position_sum": 1, "index": 896}
+{"time_start": 265800, "time_end": 266040, "time_sum": 360, "position_start": "8/16", "position_end": "10/16", "notes": [38, 74, 78], "position_sum": 3, "index": 897}
+{"time_start": 266160, "time_end": 266400, "time_sum": 360, "position_start": "11/16", "position_end": "13/16", "notes": [38, 68, 74, 78], "position_sum": 3, "index": 898}
+{"time_start": 266520, "time_end": 266760, "time_sum": 360, "position_start": "14/16", "position_end": "16/16", "notes": [38, 50, 54, 68, 69, 74, 78], "position_sum": 3, "index": 899}
+{"time_start": 266880, "time_end": 266880, "time_sum": 120, "position_start": "1/16", "position_end": "1/16", "notes": [38, 50, 54, 57, 66, 68, 69, 74, 78], "position_sum": 1, "index": 900}
+{"time_start": 267000, "time_end": 267000, "time_sum": 120, "position_start": "2/16", "position_end": "2/16", "notes": [38, 49, 50, 52, 54, 57, 66, 68, 69, 74, 78], "position_sum": 1, "index": 901}
+{"time_start": 267120, "time_end": 267120, "time_sum": 120, "position_start": "3/16", "position_end": "3/16", "notes": [57, 78], "position_sum": 1, "index": 902}
+{"time_start": 267240, "time_end": 267480, "time_sum": 360, "position_start": "4/16", "position_end": "6/16", "notes": [57, 64, 69, 78, 80], "position_sum": 3, "index": 903}
+{"time_start": 267600, "time_end": 267840, "time_sum": 360, "position_start": "7/16", "position_end": "9/16", "notes": [57, 64, 69, 78, 80, 81], "position_sum": 3, "index": 904}
+{"time_start": 267960, "time_end": 267960, "time_sum": 120, "position_start": "10/16", "position_end": "10/16", "notes": [47, 57, 64, 69, 78, 80, 81], "position_sum": 1, "index": 905}
+{"time_start": 268080, "time_end": 268320, "time_sum": 360, "position_start": "11/16", "position_end": "13/16", "notes": [39, 47, 66, 69, 71], "position_sum": 3, "index": 906}
+{"time_start": 268440, "time_end": 268800, "time_sum": 480, "position_start": "14/16", "position_end": "1/16", "notes": [39, 47, 66, 68, 69, 71], "position_sum": 4, "index": 907}
+{"time_start": 268920, "time_end": 269760, "time_sum": 960, "position_start": "2/16", "position_end": "9/16", "notes": [39, 47, 51, 54, 59, 66, 68, 69, 71], "position_sum": 8, "index": 908}
+{"time_start": 269880, "time_end": 269880, "time_sum": 120, "position_start": "10/16", "position_end": "10/16", "notes": [39, 40, 47, 51, 52, 54, 59, 66, 68, 69, 71], "position_sum": 1, "index": 909}
+{"time_start": 270000, "time_end": 270000, "time_sum": 120, "position_start": "11/16", "position_end": "11/16", "notes": [39, 40, 52, 64, 69, 71], "position_sum": 1, "index": 910}
+{"time_start": 270120, "time_end": 270480, "time_sum": 480, "position_start": "12/16", "position_end": "15/16", "notes": [40, 52, 64, 69, 71], "position_sum": 4, "index": 911}
+{"time_start": 270600, "time_end": 270720, "time_sum": 240, "position_start": "16/16", "position_end": "1/16", "notes": [40, 52, 64, 69, 71, 73], "position_sum": 2, "index": 912}
+{"time_start": 270840, "time_end": 270840, "time_sum": 120, "position_start": "2/16", "position_end": "2/16", "notes": [52, 56, 64, 68, 71, 73], "position_sum": 1, "index": 913}
+{"time_start": 270960, "time_end": 271080, "time_sum": 240, "position_start": "3/16", "position_end": "4/16", "notes": [52, 56, 64, 68, 73], "position_sum": 2, "index": 914}
+{"time_start": 271200, "time_end": 271200, "time_sum": 120, "position_start": "5/16", "position_end": "5/16", "notes": [52, 56, 61, 64, 68, 73], "position_sum": 1, "index": 915}
+{"time_start": 271320, "time_end": 271440, "time_sum": 240, "position_start": "6/16", "position_end": "7/16", "notes": [52, 56, 61, 64, 68, 73, 74], "position_sum": 2, "index": 916}
+{"time_start": 271560, "time_end": 271560, "time_sum": 120, "position_start": "8/16", "position_end": "8/16", "notes": [47, 54, 61, 62, 66, 73, 74], "position_sum": 1, "index": 917}
+{"time_start": 271680, "time_end": 271800, "time_sum": 240, "position_start": "9/16", "position_end": "10/16", "notes": [47, 54, 62, 66, 74], "position_sum": 2, "index": 918}
+{"time_start": 271920, "time_end": 272160, "time_sum": 360, "position_start": "11/16", "position_end": "13/16", "notes": [47, 54, 59, 62, 66, 73, 74], "position_sum": 3, "index": 919}
+{"time_start": 272280, "time_end": 272280, "time_sum": 120, "position_start": "14/16", "position_end": "14/16", "notes": [40, 47, 54, 59, 62, 66, 73, 74], "position_sum": 1, "index": 920}
+{"time_start": 272400, "time_end": 272520, "time_sum": 240, "position_start": "15/16", "position_end": "16/16", "notes": [40, 47, 62, 74], "position_sum": 2, "index": 921}
+{"time_start": 272640, "time_end": 272640, "time_sum": 120, "position_start": "1/16", "position_end": "1/16", "notes": [40, 47, 62, 68, 74], "position_sum": 1, "index": 922}
+{"time_start": 272760, "time_end": 273000, "time_sum": 360, "position_start": "2/16", "position_end": "4/16", "notes": [40, 47, 52, 62, 68, 74], "position_sum": 3, "index": 923}
+{"time_start": 273120, "time_end": 273120, "time_sum": 120, "position_start": "5/16", "position_end": "5/16", "notes": [40, 45, 47, 52, 62, 68, 74], "position_sum": 1, "index": 924}
+{"time_start": 273240, "time_end": 273240, "time_sum": 120, "position_start": "6/16", "position_end": "6/16", "notes": [45, 52, 62, 68, 74], "position_sum": 1, "index": 925}
+{"time_start": 273360, "time_end": 273480, "time_sum": 240, "position_start": "7/16", "position_end": "8/16", "notes": [45, 62, 68], "position_sum": 2, "index": 926}
+{"time_start": 273600, "time_end": 273840, "time_sum": 360, "position_start": "9/16", "position_end": "11/16", "notes": [45, 52, 62, 68], "position_sum": 3, "index": 927}
+{"time_start": 273960, "time_end": 273960, "time_sum": 120, "position_start": "12/16", "position_end": "12/16", "notes": [52, 62, 68], "position_sum": 1, "index": 928}
+{"time_start": 274080, "time_end": 274440, "time_sum": 480, "position_start": "13/16", "position_end": "16/16", "notes": [57, 61, 69], "position_sum": 4, "index": 929}
+{"time_start": 274560, "time_end": 275040, "time_sum": 600, "position_start": "1/16", "position_end": "5/16", "notes": [56, 57, 61, 69], "position_sum": 5, "index": 930}
+{"time_start": 275160, "time_end": 275160, "time_sum": 120, "position_start": "6/16", "position_end": "6/16", "notes": [45, 54, 56, 57, 61, 66, 69], "position_sum": 1, "index": 931}
+{"time_start": 275280, "time_end": 275520, "time_sum": 360, "position_start": "7/16", "position_end": "9/16", "notes": [45, 54, 61, 66, 69], "position_sum": 3, "index": 932}
+{"time_start": 275640, "time_end": 275880, "time_sum": 360, "position_start": "10/16", "position_end": "12/16", "notes": [45, 54, 57, 61, 66, 69], "position_sum": 3, "index": 933}
+{"time_start": 276000, "time_end": 276840, "time_sum": 960, "position_start": "13/16", "position_end": "4/16", "notes": [45, 54, 57, 61, 66, 69, 71], "position_sum": 8, "index": 934}
+{"time_start": 276960, "time_end": 277200, "time_sum": 360, "position_start": "5/16", "position_end": "7/16", "notes": [45, 52, 54, 57, 61, 66, 69, 71], "position_sum": 3, "index": 935}
+{"time_start": 277320, "time_end": 277320, "time_sum": 120, "position_start": "8/16", "position_end": "8/16", "notes": [45, 50, 52, 54, 57, 61, 62, 66, 69, 71], "position_sum": 1, "index": 936}
+{"time_start": 277440, "time_end": 277440, "time_sum": 120, "position_start": "9/16", "position_end": "9/16", "notes": [45, 50, 54, 57, 62, 66, 69, 71], "position_sum": 1, "index": 937}
+{"time_start": 277560, "time_end": 277560, "time_sum": 120, "position_start": "10/16", "position_end": "10/16", "notes": [45, 50, 62, 66, 69], "position_sum": 1, "index": 938}
+{"time_start": 277680, "time_end": 277920, "time_sum": 360, "position_start": "11/16", "position_end": "13/16", "notes": [45, 50, 54, 62, 66, 69], "position_sum": 3, "index": 939}
+{"time_start": 278040, "time_end": 278880, "time_sum": 960, "position_start": "14/16", "position_end": "5/16", "notes": [45, 50, 54, 57, 62, 66, 69, 71], "position_sum": 8, "index": 940}
+{"time_start": 279000, "time_end": 279240, "time_sum": 360, "position_start": "6/16", "position_end": "8/16", "notes": [45, 49, 50, 54, 57, 62, 66, 69, 71], "position_sum": 3, "index": 941}
+{"time_start": 279360, "time_end": 279360, "time_sum": 120, "position_start": "9/16", "position_end": "9/16", "notes": [45, 47, 49, 62, 66, 69, 71], "position_sum": 1, "index": 942}
+{"time_start": 279480, "time_end": 279480, "time_sum": 120, "position_start": "10/16", "position_end": "10/16", "notes": [45, 47, 62, 66, 69], "position_sum": 1, "index": 943}
+{"time_start": 279600, "time_end": 279840, "time_sum": 360, "position_start": "11/16", "position_end": "13/16", "notes": [45, 47, 50, 62, 66, 69], "position_sum": 3, "index": 944}
+{"time_start": 279960, "time_end": 280080, "time_sum": 240, "position_start": "14/16", "position_end": "15/16", "notes": [45, 47, 50, 54, 62, 66, 69, 74], "position_sum": 2, "index": 945}
+{"time_start": 280200, "time_end": 280440, "time_sum": 360, "position_start": "16/16", "position_end": "2/16", "notes": [45, 47, 50, 54, 57, 62, 66, 69, 74], "position_sum": 3, "index": 946}
+{"time_start": 280560, "time_end": 280560, "time_sum": 120, "position_start": "3/16", "position_end": "3/16", "notes": [45, 47, 50, 52, 54, 57, 62, 64, 66, 68, 69, 73, 74], "position_sum": 1, "index": 947}
+{"time_start": 280680, "time_end": 280680, "time_sum": 120, "position_start": "4/16", "position_end": "4/16", "notes": [45, 52, 64, 68, 69, 73], "position_sum": 1, "index": 948}
+{"time_start": 280800, "time_end": 280800, "time_sum": 120, "position_start": "5/16", "position_end": "5/16", "notes": [45, 52, 64, 68, 73], "position_sum": 1, "index": 949}
+{"time_start": 280920, "time_end": 281040, "time_sum": 240, "position_start": "6/16", "position_end": "7/16", "notes": [45, 52, 56, 64, 68, 73], "position_sum": 2, "index": 950}
+{"time_start": 281160, "time_end": 281400, "time_sum": 360, "position_start": "8/16", "position_end": "10/16", "notes": [45, 52, 56, 59, 64, 68, 73], "position_sum": 3, "index": 951}
+{"time_start": 281520, "time_end": 281760, "time_sum": 360, "position_start": "11/16", "position_end": "13/16", "notes": [45, 52, 56, 59, 62, 64, 68, 71, 73], "position_sum": 3, "index": 952}
+{"time_start": 281880, "time_end": 281880, "time_sum": 120, "position_start": "14/16", "position_end": "14/16", "notes": [45, 56, 62, 68, 71], "position_sum": 1, "index": 953}
+{"time_start": 282000, "time_end": 282000, "time_sum": 120, "position_start": "15/16", "position_end": "15/16", "notes": [45, 62, 68, 71], "position_sum": 1, "index": 954}
+{"time_start": 282120, "time_end": 282360, "time_sum": 360, "position_start": "16/16", "position_end": "2/16", "notes": [45, 52, 62, 68], "position_sum": 3, "index": 955}
+{"time_start": 282480, "time_end": 282720, "time_sum": 360, "position_start": "3/16", "position_end": "5/16", "notes": [45, 52, 57, 61, 62, 68, 69], "position_sum": 3, "index": 956}
+{"time_start": 282840, "time_end": 283080, "time_sum": 360, "position_start": "6/16", "position_end": "8/16", "notes": [44, 45, 52, 57, 61, 62, 68, 69], "position_sum": 3, "index": 957}
+{"time_start": 283200, "time_end": 283200, "time_sum": 120, "position_start": "9/16", "position_end": "9/16", "notes": [42, 44, 57, 61, 62, 68, 69], "position_sum": 1, "index": 958}
+{"time_start": 283320, "time_end": 283440, "time_sum": 240, "position_start": "10/16", "position_end": "11/16", "notes": [42, 61, 69], "position_sum": 2, "index": 959}
+{"time_start": 283560, "time_end": 283800, "time_sum": 360, "position_start": "12/16", "position_end": "14/16", "notes": [42, 49, 61, 69], "position_sum": 3, "index": 960}
+{"time_start": 283920, "time_end": 284760, "time_sum": 960, "position_start": "15/16", "position_end": "6/16", "notes": [42, 49, 57, 61, 69, 71], "position_sum": 8, "index": 961}
+{"time_start": 284880, "time_end": 285120, "time_sum": 360, "position_start": "7/16", "position_end": "9/16", "notes": [40, 42, 49, 57, 61, 69, 71], "position_sum": 3, "index": 962}
+{"time_start": 285240, "time_end": 285240, "time_sum": 120, "position_start": "10/16", "position_end": "10/16", "notes": [38, 40, 49, 57, 62, 66, 69, 71], "position_sum": 1, "index": 963}
+{"time_start": 285360, "time_end": 285480, "time_sum": 240, "position_start": "11/16", "position_end": "12/16", "notes": [38, 62, 66, 69], "position_sum": 2, "index": 964}
+{"time_start": 285600, "time_end": 285840, "time_sum": 360, "position_start": "13/16", "position_end": "15/16", "notes": [38, 45, 62, 66, 69], "position_sum": 3, "index": 965}
+{"time_start": 285960, "time_end": 286800, "time_sum": 960, "position_start": "16/16", "position_end": "7/16", "notes": [38, 45, 54, 62, 66, 69, 71], "position_sum": 8, "index": 966}
+{"time_start": 286920, "time_end": 287280, "time_sum": 480, "position_start": "8/16", "position_end": "11/16", "notes": [37, 38, 45, 54, 62, 66, 69, 71], "position_sum": 4, "index": 967}
+{"time_start": 287400, "time_end": 287400, "time_sum": 120, "position_start": "12/16", "position_end": "12/16", "notes": [35, 37, 38, 45, 54, 62, 66, 69, 71], "position_sum": 1, "index": 968}
+{"time_start": 287520, "time_end": 287760, "time_sum": 360, "position_start": "13/16", "position_end": "15/16", "notes": [35, 62, 66, 69], "position_sum": 3, "index": 969}
+{"time_start": 287880, "time_end": 288120, "time_sum": 360, "position_start": "16/16", "position_end": "2/16", "notes": [35, 47, 62, 66, 69], "position_sum": 3, "index": 970}
+{"time_start": 288240, "time_end": 288240, "time_sum": 120, "position_start": "3/16", "position_end": "3/16", "notes": [35, 47, 50, 62, 66, 69], "position_sum": 1, "index": 971}
+{"time_start": 288360, "time_end": 288480, "time_sum": 240, "position_start": "4/16", "position_end": "5/16", "notes": [35, 47, 50, 62, 66, 69, 78], "position_sum": 2, "index": 972}
+{"time_start": 288600, "time_end": 288840, "time_sum": 360, "position_start": "6/16", "position_end": "8/16", "notes": [35, 47, 50, 54, 62, 66, 69, 78], "position_sum": 3, "index": 973}
+{"time_start": 288960, "time_end": 290040, "time_sum": 1200, "position_start": "9/16", "position_end": "2/16", "notes": [35, 47, 50, 54, 59, 62, 66, 69, 74, 78], "position_sum": 10, "index": 974}
+{"time_start": 290160, "time_end": 290520, "time_sum": 480, "position_start": "3/16", "position_end": "6/16", "notes": [35, 47, 50, 54, 59, 62, 66, 69, 71, 74, 78], "position_sum": 4, "index": 975}
+{"time_start": 290640, "time_end": 290640, "time_sum": 120, "position_start": "7/16", "position_end": "7/16", "notes": [35, 40, 47, 50, 54, 59, 62, 66, 69, 71, 74, 78], "position_sum": 1, "index": 976}
+{"time_start": 290760, "time_end": 290760, "time_sum": 120, "position_start": "8/16", "position_end": "8/16", "notes": [40, 47, 50, 61, 64, 66, 68, 69, 78], "position_sum": 1, "index": 977}
+{"time_start": 290880, "time_end": 291000, "time_sum": 240, "position_start": "9/16", "position_end": "10/16", "notes": [40, 61, 64, 68], "position_sum": 2, "index": 978}
+{"time_start": 291120, "time_end": 291360, "time_sum": 360, "position_start": "11/16", "position_end": "13/16", "notes": [40, 49, 61, 64, 68], "position_sum": 3, "index": 979}
+{"time_start": 291480, "time_end": 291480, "time_sum": 120, "position_start": "14/16", "position_end": "14/16", "notes": [40, 49, 61, 64, 68, 69], "position_sum": 1, "index": 980}
+{"time_start": 291600, "time_end": 291840, "time_sum": 360, "position_start": "15/16", "position_end": "1/16", "notes": [40, 49, 52, 61, 64, 68, 69], "position_sum": 3, "index": 981}
+{"time_start": 291960, "time_end": 292440, "time_sum": 600, "position_start": "2/16", "position_end": "6/16", "notes": [40, 49, 52, 57, 61, 64, 68, 69], "position_sum": 5, "index": 982}
+{"time_start": 292560, "time_end": 292560, "time_sum": 120, "position_start": "7/16", "position_end": "7/16", "notes": [28, 49, 52, 56, 57, 61, 64, 68], "position_sum": 1, "index": 983}
+{"time_start": 292680, "time_end": 292800, "time_sum": 240, "position_start": "8/16", "position_end": "9/16", "notes": [28, 56, 61, 64], "position_sum": 2, "index": 984}
+{"time_start": 292920, "time_end": 293280, "time_sum": 480, "position_start": "10/16", "position_end": "13/16", "notes": [28, 56, 59, 61, 64], "position_sum": 4, "index": 985}
+{"time_start": 293400, "time_end": 293400, "time_sum": 120, "position_start": "14/16", "position_end": "14/16", "notes": [28, 56, 61, 64], "position_sum": 1, "index": 986}
+{"time_start": 293520, "time_end": 293760, "time_sum": 360, "position_start": "15/16", "position_end": "1/16", "notes": [28, 54, 57, 62], "position_sum": 3, "index": 987}
+{"time_start": 293880, "time_end": 294120, "time_sum": 360, "position_start": "2/16", "position_end": "4/16", "notes": [28, 40, 54, 57, 62], "position_sum": 3, "index": 988}
+{"time_start": 294240, "time_end": 294600, "time_sum": 480, "position_start": "5/16", "position_end": "8/16", "notes": [28, 40, 45, 54, 57, 62], "position_sum": 4, "index": 989}
+{"time_start": 294720, "time_end": 295080, "time_sum": 480, "position_start": "9/16", "position_end": "12/16", "notes": [28, 40, 45, 50, 54, 57, 62], "position_sum": 4, "index": 990}
+{"time_start": 295200, "time_end": 295200, "time_sum": 120, "position_start": "13/16", "position_end": "13/16", "notes": [28, 40, 50, 52, 54, 56, 57, 61, 62, 64], "position_sum": 1, "index": 991}
+{"time_start": 295320, "time_end": 295680, "time_sum": 480, "position_start": "14/16", "position_end": "1/16", "notes": [40, 52, 56, 61, 64], "position_sum": 4, "index": 992}
+{"time_start": 295800, "time_end": 296520, "time_sum": 840, "position_start": "2/16", "position_end": "8/16", "notes": [40, 50, 52, 56, 59, 61, 64], "position_sum": 7, "index": 993}
+{"time_start": 296640, "time_end": 296640, "time_sum": 120, "position_start": "9/16", "position_end": "9/16", "notes": [33, 40, 52, 61, 64], "position_sum": 1, "index": 994}
+{"time_start": 296760, "time_end": 297240, "time_sum": 600, "position_start": "10/16", "position_end": "14/16", "notes": [33, 61, 64], "position_sum": 5, "index": 995}
+{"time_start": 297360, "time_end": 297480, "time_sum": 240, "position_start": "15/16", "position_end": "16/16", "notes": [33, 49, 61, 64], "position_sum": 2, "index": 996}
+{"time_start": 297600, "time_end": 298080, "time_sum": 600, "position_start": "1/16", "position_end": "5/16", "notes": [33, 49, 57, 61, 64], "position_sum": 5, "index": 997}
+{"time_start": 298200, "time_end": 300120, "time_sum": 2040, "position_start": "6/16", "position_end": "6/16", "notes": [33, 49, 57, 61, 64, 69], "position_sum": 17, "index": 998}
+{"time_start": 300240, "time_end": 301560, "time_sum": 1440, "position_start": "7/16", "position_end": "2/16", "notes": [33, 49, 57, 64, 69], "position_sum": 12, "index": 999}
+{"time_start": 301680, "time_end": 301800, "time_sum": 240, "position_start": "3/16", "position_end": "4/16", "notes": [49, 57, 64, 69], "position_sum": 2, "index": 1000}
